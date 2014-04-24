@@ -1,0 +1,7 @@
+name = Loam Site
+description = functionality for LOAM site
+core = 7.x
+version = 7.x-0.2-dev
+project = designssquare_com_site_loam
+package = DesignsSquare.com.site.loam
+

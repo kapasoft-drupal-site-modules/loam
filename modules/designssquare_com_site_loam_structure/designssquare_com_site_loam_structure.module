@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the DesignsSquare.com: Site: Loam: Structure feature.
+ */
+
+include_once 'designssquare_com_site_loam_structure.features.inc';
