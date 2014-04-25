@@ -7,7 +7,6 @@ project = esignssquare_com_site_loam_data
 dependencies[] = blog
 dependencies[] = ctools
 dependencies[] = designssquare_com_site_loam_structure
-dependencies[] = designssquare_com_theme_builder_sample_data
 dependencies[] = features
 dependencies[] = file
 dependencies[] = image
