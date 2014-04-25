@@ -20,6 +20,44 @@ function designssquare_com_site_loam_structure_strongarm() {
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
+  $strongarm->name = 'menu_options_service';
+  $strongarm->value = array(
+    0 => 'menu-footer-menu',
+    1 => 'main-menu',
+    2 => 'navigation',
+    3 => 'user-menu',
+  );
+  $export['menu_options_service'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'menu_options_service_page';
+  $strongarm->value = array(
+    0 => 'menu-footer-menu',
+    1 => 'main-menu',
+    2 => 'navigation',
+    3 => 'user-menu',
+  );
+  $export['menu_options_service_page'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'menu_parent_service';
+  $strongarm->value = 'main-menu:0';
+  $export['menu_parent_service'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'menu_parent_service_page';
+  $strongarm->value = 'main-menu:0';
+  $export['menu_parent_service_page'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
   $strongarm->name = 'site_mail';
   $strongarm->value = 'makapacs@hotmail.com';
   $export['site_mail'] = $strongarm;
