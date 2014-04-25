@@ -170,6 +170,7 @@ function esignssquare_com_site_loam_data_uuid_features_default_content() {
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-02 17:38:31 +0000',
+  'alias_url' => 'content/daugavas-vanagi',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -331,6 +332,7 @@ function esignssquare_com_site_loam_data_uuid_features_default_content() {
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-11-19 16:58:08 +0000',
+  'alias_url' => 'content/msp-draudze',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -480,6 +482,7 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-17 16:00:10 +0000',
+  'alias_url' => 'content/emigrants-latvia-send-record-787-million-homeland',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -658,6 +661,7 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-11-18 21:14:08 +0000',
+  'alias_url' => 'content/sveicinati',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -806,6 +810,7 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2014-04-12 23:38:09 +0000',
+  'alias_url' => 'about',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -1218,6 +1223,7 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-03 04:22:53 +0000',
+  'alias_url' => 'content/jautrība-sit-augstu-vilni-dvīņu-pilsētā',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -1460,6 +1466,7 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-03 03:41:05 +0000',
+  'alias_url' => 'content/jaunie-un-stiprie-nevēlas-atpalikt',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -1787,6 +1794,7 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-17 05:31:36 +0000',
+  'alias_url' => 'content/latvieši-atpūšās-dvīņu-pilsētā',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -1933,6 +1941,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-17 14:33:16 +0000',
+  'alias_url' => 'content/moving-latvia-so-what’s-it',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -2192,6 +2201,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-03 04:13:46 +0000',
+  'alias_url' => 'content/laiks-dejām',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -2351,6 +2361,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-11-19 16:59:31 +0000',
+  'alias_url' => 'content/latviešu-skola',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -2512,6 +2523,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-17 01:16:04 +0000',
+  'alias_url' => 'content/perkonītis',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -2628,6 +2640,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-06 17:28:36 +0000',
+  'alias_url' => 'content/pasaules-latvieši-rīgā',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -2735,6 +2748,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-11-21 04:42:37 +0000',
+  'alias_url' => 'content/dubultpilsonība',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -2926,6 +2940,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-18 00:42:49 +0000',
+  'alias_url' => 'content/loam',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -3085,6 +3100,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-17 01:08:11 +0000',
+  'alias_url' => 'content/sp-latviešu-katoļu-draudze',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -3283,6 +3299,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-02 21:18:58 +0000',
+  'alias_url' => 'content/kontakts',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -3363,6 +3380,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2014-04-13 04:01:09 +0000',
+  'alias_url' => 'sākums-latviesu-organizāciju-apvieniba-minesotā',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -3522,6 +3540,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-17 01:17:13 +0000',
+  'alias_url' => 'content/teiksma',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -3711,6 +3730,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2014-04-13 00:39:17 +0000',
+  'alias_url' => 'latviesu-organizāciju-apvieniba-minesotā',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -3872,6 +3892,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-02 17:33:08 +0000',
+  'alias_url' => 'content/lk-sabiedrība',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -4031,6 +4052,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-17 01:14:02 +0000',
+  'alias_url' => 'content/selga',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -4138,6 +4160,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-11-21 04:40:18 +0000',
+  'alias_url' => 'content/perkonītis-ziņojums',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -4299,6 +4322,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-02 17:35:01 +0000',
+  'alias_url' => 'content/latviešu-koncertapvienība-mn',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -4611,6 +4635,7 @@ vērtīgo projektu. </p>
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-06 17:12:45 +0000',
+  'alias_url' => 'content/latviešu-fonds-izsludina-2014-gada-konkursu',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -4757,6 +4782,7 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-03 14:48:46 +0000',
+  'alias_url' => 'content/latvian-dual-citizenship',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -4918,6 +4944,7 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-11-19 16:58:52 +0000',
+  'alias_url' => 'content/mkgpf',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -5079,6 +5106,7 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-02 17:34:08 +0000',
+  'alias_url' => 'content/kkm',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -5238,6 +5266,7 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-17 01:12:29 +0000',
+  'alias_url' => 'content/tarts',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -5397,6 +5426,7 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-02 17:39:20 +0000',
+  'alias_url' => 'content/akadēmiskā-kopa',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -5521,6 +5551,7 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-11-18 20:59:40 +0000',
+  'alias_url' => 'content/loam-organizācijas',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -5680,6 +5711,7 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'picture' => 0,
   'data' => 'b:0;',
   'date' => '2013-12-17 01:06:51 +0000',
+  'alias_url' => 'content/mspd-koris',
 );
   return $nodes;
 }
