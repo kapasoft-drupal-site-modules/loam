@@ -43,14 +43,6 @@ function esignssquare_com_site_loam_data_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => 'left',
-    'description' => 'there is sidebar on left',
-    'format' => 'filtered_html',
-    'weight' => 2,
-    'uuid' => '146ed4f3-3afb-4ea7-819c-29d8d698560e',
-    'vocabulary_machine_name' => 'post_sidebar',
-  );
-  $terms[] = array(
     'name' => '<em class="icon-cog"> </em> MKGPF',
     'description' => '',
     'format' => 'full_html',
@@ -91,14 +83,6 @@ function esignssquare_com_site_loam_data_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => 'none',
-    'description' => 'there is no sidebar',
-    'format' => 'filtered_html',
-    'weight' => 1,
-    'uuid' => '3656f50c-c9b3-476d-b225-cf52f279949a',
-    'vocabulary_machine_name' => 'post_sidebar',
-  );
-  $terms[] = array(
     'name' => '<em class=" icon-cog"> </em> TARTS',
     'description' => '',
     'format' => 'full_html',
@@ -121,14 +105,6 @@ function esignssquare_com_site_loam_data_uuid_features_default_terms() {
     'weight' => 0,
     'uuid' => '660b13f6-046f-4a13-a889-65aa19fefd01',
     'vocabulary_machine_name' => 'features',
-  );
-  $terms[] = array(
-    'name' => 'left',
-    'description' => 'there is sidebar on left',
-    'format' => 'filtered_html',
-    'weight' => 2,
-    'uuid' => '6dbf4c34-4e34-4ed7-aaa3-f4991036be13',
-    'vocabulary_machine_name' => 'post_sidebar',
   );
   $terms[] = array(
     'name' => '<em class=" icon-cog"> </em> MSPD Koris',
@@ -155,14 +131,6 @@ function esignssquare_com_site_loam_data_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => 'right',
-    'description' => 'there is sidebar on right',
-    'format' => 'filtered_html',
-    'weight' => 0,
-    'uuid' => '8f130afd-c0d6-4493-aabc-7c87e37fe0ac',
-    'vocabulary_machine_name' => 'post_sidebar',
-  );
-  $terms[] = array(
     'name' => '<em class=" icon-cog"> </em> Perkonītis',
     'description' => '',
     'format' => 'full_html',
@@ -179,14 +147,6 @@ function esignssquare_com_site_loam_data_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => 'right',
-    'description' => 'there is sidebar on right',
-    'format' => 'filtered_html',
-    'weight' => 0,
-    'uuid' => 'bdfd197f-6e7f-489e-94cc-cfd7ea290a70',
-    'vocabulary_machine_name' => 'post_sidebar',
-  );
-  $terms[] = array(
     'name' => '<em class="icon-user"></em>Built for and by nerds',
     'description' => '',
     'format' => 'filtered_html',
@@ -201,14 +161,6 @@ function esignssquare_com_site_loam_data_uuid_features_default_terms() {
     'weight' => 0,
     'uuid' => 'dfd9df67-f88a-46e3-94bb-47cf29e29a78',
     'vocabulary_machine_name' => 'features',
-  );
-  $terms[] = array(
-    'name' => 'none',
-    'description' => 'there is no sidebar',
-    'format' => 'filtered_html',
-    'weight' => 1,
-    'uuid' => 'e2ec4f0f-6722-4286-b58e-a4b3e3ac630f',
-    'vocabulary_machine_name' => 'post_sidebar',
   );
   $terms[] = array(
     'name' => '<em class="icon-book"></em>Growing library',
