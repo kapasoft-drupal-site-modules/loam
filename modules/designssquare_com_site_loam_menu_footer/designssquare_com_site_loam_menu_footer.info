@@ -1,9 +1,9 @@
-name = DesignsSquare.com: Site: LOAM: Main Menu
-description = main menu for LOAM site
+name = DesignsSquare.com: Site: LOAM: Footer Menu
+description = footer menu for LOAM site
 core = 7.x
 package = DesignsSquare.com.site.loam
 version = 7.x-1.0
-project = designssquare_com_site_loam_menu
+project = designssquare_com_site_loam_menu_footer
 dependencies[] = pathauto
 dependencies[] = menu
 
