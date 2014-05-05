@@ -10,6 +10,47 @@
 function designssquare_com_site_loam_structure_field_default_field_instances() {
   $field_instances = array();
 
+  // Exported field_instance: 'node-blog-field_sidebar_positioning'
+  $field_instances['node-blog-field_sidebar_positioning'] = array(
+    'bundle' => 'blog',
+    'default_value' => array(
+      0 => array(
+        'tid' => 13,
+      ),
+    ),
+    'deleted' => 0,
+    'description' => 'positioning sidebar on left, right or not at all',
+    'display' => array(
+      'default' => array(
+        'label' => 'above',
+        'module' => 'taxonomy',
+        'settings' => array(),
+        'type' => 'taxonomy_term_reference_link',
+        'weight' => 3,
+      ),
+      'teaser' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'node',
+    'field_name' => 'field_sidebar_positioning',
+    'label' => 'Sidebar Positioning',
+    'required' => 0,
+    'settings' => array(
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'active' => 1,
+      'module' => 'options',
+      'settings' => array(),
+      'type' => 'options_buttons',
+      'weight' => 34,
+    ),
+  );
+
   // Exported field_instance: 'node-service-field_content_image'
   $field_instances['node-service-field_content_image'] = array(
     'bundle' => 'service',
@@ -540,12 +581,14 @@ function designssquare_com_site_loam_structure_field_default_field_instances() {
   t('Secondary Title');
   t('Service Description');
   t('Service Icon');
+  t('Sidebar Positioning');
   t('description of the service');
   t('image associated with the content');
   t('paragraph of content');
   t('paragraph of content from service page');
   t('paragraph of the secondary content');
   t('photo associated with secondary content');
+  t('positioning sidebar on left, right or not at all');
   t('short title and description of the page');
 
   return $field_instances;

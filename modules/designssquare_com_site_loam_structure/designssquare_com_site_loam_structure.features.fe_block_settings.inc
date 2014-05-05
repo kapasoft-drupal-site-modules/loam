@@ -12,6 +12,158 @@ function designssquare_com_site_loam_structure_default_fe_block_settings() {
 
   $export['version'] = '2.0';
 
+  $export['menu-menu-footer-menu'] = array(
+    'cache' => -1,
+    'custom' => 0,
+    'delta' => 'menu-footer-menu',
+    'module' => 'menu',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
+  $export['search-form'] = array(
+    'cache' => -1,
+    'custom' => 0,
+    'delta' => 'form',
+    'module' => 'search',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => 'sidebar_first',
+        'status' => 1,
+        'theme' => 'bartik',
+        'weight' => -1,
+      ),
+      'bootstrap' => array(
+        'region' => 'sidebar_first',
+        'status' => 1,
+        'theme' => 'bootstrap',
+        'weight' => -1,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => -1,
+      ),
+      'seven' => array(
+        'region' => 'dashboard_sidebar',
+        'status' => 1,
+        'theme' => 'seven',
+        'weight' => -10,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
+  $export['system-main'] = array(
+    'cache' => -1,
+    'custom' => 0,
+    'delta' => 'main',
+    'module' => 'system',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => 'content',
+        'status' => 1,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => 'content',
+        'status' => 1,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => 'content',
+        'status' => 1,
+        'theme' => 'builder',
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => 'content',
+        'status' => 1,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
+  $export['system-powered-by'] = array(
+    'cache' => -1,
+    'custom' => 0,
+    'delta' => 'powered-by',
+    'module' => 'system',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => 'footer',
+        'status' => 1,
+        'theme' => 'bartik',
+        'weight' => 10,
+      ),
+      'bootstrap' => array(
+        'region' => 'footer',
+        'status' => 1,
+        'theme' => 'bootstrap',
+        'weight' => 10,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 10,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 10,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
   $export['views-12b3d239d955afc52dc100c004952fe4'] = array(
     'cache' => -1,
     'custom' => 0,
@@ -88,6 +240,117 @@ function designssquare_com_site_loam_structure_default_fe_block_settings() {
     'visibility' => 0,
   );
 
+  $export['views-401b434640254f69bf444c09379357b5'] = array(
+    'cache' => -1,
+    'delta' => '401b434640254f69bf444c09379357b5',
+    'module' => 'views',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+  );
+
+  $export['views-5c88bb249e323db83c4e6b538dad2c73'] = array(
+    'cache' => -1,
+    'custom' => 0,
+    'delta' => '5c88bb249e323db83c4e6b538dad2c73',
+    'module' => 'views',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
+  $export['views-8045c023952ab308843fa55db6f3abf0'] = array(
+    'cache' => -1,
+    'custom' => 0,
+    'delta' => '8045c023952ab308843fa55db6f3abf0',
+    'module' => 'views',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
   $export['views-8bc7f963ccf671e1a1451b0287cae1a7'] = array(
     'cache' => -1,
     'custom' => 0,
@@ -110,8 +373,8 @@ function designssquare_com_site_loam_structure_default_fe_block_settings() {
         'weight' => 0,
       ),
       'builder' => array(
-        'region' => 'footer_middle',
-        'status' => 1,
+        'region' => '',
+        'status' => 0,
         'theme' => 'builder',
         'weight' => 0,
       ),
