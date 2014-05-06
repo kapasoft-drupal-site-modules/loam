@@ -409,13 +409,20 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   'field_blog_sidebar' => array(
     'und' => array(
       0 => array(
-        'tid' => 43,
-        'uuid' => '8f130afd-c0d6-4493-aabc-7c87e37fe0ac',
+        'tid' => 47,
+        'uuid' => 'bdfd197f-6e7f-489e-94cc-cfd7ea290a70',
       ),
     ),
   ),
   'field_category' => array(),
-  'field_posts_format' => array(),
+  'field_posts_format' => array(
+    'und' => array(
+      0 => array(
+        'tid' => 10,
+        'uuid' => '4724e570-b398-44db-bc53-db323445d51c',
+      ),
+    ),
+  ),
   'field_video_file' => array(),
   'field_video_id' => array(),
   'rdf_mapping' => array(
@@ -2163,13 +2170,20 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'field_blog_sidebar' => array(
     'und' => array(
       0 => array(
-        'tid' => 43,
-        'uuid' => '8f130afd-c0d6-4493-aabc-7c87e37fe0ac',
+        'tid' => 47,
+        'uuid' => 'bdfd197f-6e7f-489e-94cc-cfd7ea290a70',
       ),
     ),
   ),
   'field_category' => array(),
-  'field_posts_format' => array(),
+  'field_posts_format' => array(
+    'und' => array(
+      0 => array(
+        'tid' => 10,
+        'uuid' => '4724e570-b398-44db-bc53-db323445d51c',
+      ),
+    ),
+  ),
   'field_video_file' => array(),
   'field_video_id' => array(),
   'rdf_mapping' => array(
@@ -3285,13 +3299,20 @@ some event comes here some event comes here some event comes here some event com
   'field_blog_sidebar' => array(
     'und' => array(
       0 => array(
-        'tid' => 43,
-        'uuid' => '8f130afd-c0d6-4493-aabc-7c87e37fe0ac',
+        'tid' => 47,
+        'uuid' => 'bdfd197f-6e7f-489e-94cc-cfd7ea290a70',
       ),
     ),
   ),
   'field_category' => array(),
-  'field_posts_format' => array(),
+  'field_posts_format' => array(
+    'und' => array(
+      0 => array(
+        'tid' => 12,
+        'uuid' => '770c84f6-5cf0-4310-b306-66f4c0037afc',
+      ),
+    ),
+  ),
   'field_video_file' => array(),
   'field_video_id' => array(
     'und' => array(
@@ -5270,7 +5291,7 @@ some event comes here some event comes here some event comes here some event com
     'und' => array(
       0 => array(
         'tid' => 43,
-        'uuid' => '8f130afd-c0d6-4493-aabc-7c87e37fe0ac',
+        'uuid' => NULL,
       ),
     ),
   ),
@@ -5586,13 +5607,20 @@ vērtīgo projektu. </p>
   'field_blog_sidebar' => array(
     'und' => array(
       0 => array(
-        'tid' => 43,
-        'uuid' => '8f130afd-c0d6-4493-aabc-7c87e37fe0ac',
+        'tid' => 47,
+        'uuid' => 'bdfd197f-6e7f-489e-94cc-cfd7ea290a70',
       ),
     ),
   ),
   'field_category' => array(),
-  'field_posts_format' => array(),
+  'field_posts_format' => array(
+    'und' => array(
+      0 => array(
+        'tid' => 12,
+        'uuid' => '770c84f6-5cf0-4310-b306-66f4c0037afc',
+      ),
+    ),
+  ),
   'field_video_file' => array(),
   'field_video_id' => array(),
   'rdf_mapping' => array(
@@ -5732,13 +5760,20 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'field_blog_sidebar' => array(
     'und' => array(
       0 => array(
-        'tid' => 43,
-        'uuid' => '8f130afd-c0d6-4493-aabc-7c87e37fe0ac',
+        'tid' => 47,
+        'uuid' => 'bdfd197f-6e7f-489e-94cc-cfd7ea290a70',
       ),
     ),
   ),
   'field_category' => array(),
-  'field_posts_format' => array(),
+  'field_posts_format' => array(
+    'und' => array(
+      0 => array(
+        'tid' => 12,
+        'uuid' => '770c84f6-5cf0-4310-b306-66f4c0037afc',
+      ),
+    ),
+  ),
   'field_video_file' => array(),
   'field_video_id' => array(),
   'rdf_mapping' => array(
