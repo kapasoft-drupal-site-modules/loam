@@ -98,7 +98,7 @@ function _loam_footer_menu_installed_items() {
             'external' => '0',
             'has_children' => '0',
             'expanded' => '0',
-            'weight' => '0',
+            'weight' => '1',
             'depth' => '1',
             'customized' => '1',
             'p1' => 'sākums-latviesu-organizāciju-apvieniba-minesotā',
@@ -112,11 +112,11 @@ function _loam_footer_menu_installed_items() {
             'p9' => '0',
             'updated' => '0',
         ),
-        'latviesu-organizāciju-apvieniba-minesotā' => array(
+        'latviešu-organizācijas-apvienība-minesotā-avīze' => array(
             'menu_name' => 'menu-footer-menu',
             'plid' => '0',
-            'link_path' => 'latviesu-organizāciju-apvieniba-minesotā',
-            'link_title' => 'LOAM',
+            'link_path' => 'latviešu-organizācijas-apvienība-minesotā-avīze',
+            'link_title' => 'Avīze',
             'options' => array(
                 'attributes' => array(
                     'title' => '',
@@ -127,10 +127,10 @@ function _loam_footer_menu_installed_items() {
             'external' => '0',
             'has_children' => '0',
             'expanded' => '0',
-            'weight' => '1',
+            'weight' => '2',
             'depth' => '1',
             'customized' => '1',
-            'p1' => 'latviesu-organizāciju-apvieniba-minesotā',
+            'p1' => 'latviešu-organizācijas-apvienība-minesotā-avīze',
             'p2' => '0',
             'p3' => '0',
             'p4' => '0',
@@ -141,11 +141,11 @@ function _loam_footer_menu_installed_items() {
             'p9' => '0',
             'updated' => '0',
         ),
-        'ds-blog' => array(
+        'latviešu-organizācijas-apvienība-minesotā-kalendārs' => array(
             'menu_name' => 'menu-footer-menu',
             'plid' => '0',
-            'link_path' => 'ds-blog',
-            'link_title' => 'Avīze',
+            'link_path' => 'latviešu-organizācijas-apvienība-minesotā-kalendārs',
+            'link_title' => 'Kalendārs',
             'options' => array(
                 'attributes' => array(
                     'title' => '',
@@ -159,7 +159,7 @@ function _loam_footer_menu_installed_items() {
             'weight' => '3',
             'depth' => '1',
             'customized' => '1',
-            'p1' => 'ds-blog',
+            'p1' => 'latviešu-organizācijas-apvienība-minesotā-kalendārs',
             'p2' => '0',
             'p3' => '0',
             'p4' => '0',
@@ -198,10 +198,9 @@ function _loam_footer_menu_installed_items() {
             'p8' => '0',
             'p9' => '0',
             'updated' => '0',
-        )
+        ),
     );
 }
-
 
 
 

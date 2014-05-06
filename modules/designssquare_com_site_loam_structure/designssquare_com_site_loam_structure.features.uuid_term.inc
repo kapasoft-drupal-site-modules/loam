@@ -59,7 +59,7 @@ function designssquare_com_site_loam_structure_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => '<em class=" icon-cog"></em> KKM',
+    'name' => '<a href="content/kkm"><em class=" icon-cog"></em> KKM</a>',
     'description' => '',
     'format' => 'full_html',
     'weight' => 0,
@@ -67,7 +67,7 @@ function designssquare_com_site_loam_structure_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => '<em class="icon-cog"> </em> Daugavas Vanagi',
+    'name' => '<a href="content/daugavas-vanagi"><em class="icon-cog"> </em> Daugavas Vanagi</a>',
     'description' => '',
     'format' => 'full_html',
     'weight' => 0,
@@ -75,7 +75,7 @@ function designssquare_com_site_loam_structure_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => '<em class=" icon-cog"> </em> Akadēmiskā kopa',
+    'name' => '<a href="content/akadēmiskā-kopa"><em class=" icon-cog"> </em> Akadēmiskā kopa</a>',
     'description' => '',
     'format' => 'full_html',
     'weight' => 0,
@@ -83,7 +83,7 @@ function designssquare_com_site_loam_structure_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => '<em class=" icon-cog"> </em> TARTS',
+    'name' => '<a href="content/tarts"><em class=" icon-cog"> </em> TARTS</a>',
     'description' => '',
     'format' => 'full_html',
     'weight' => 0,
@@ -107,7 +107,7 @@ function designssquare_com_site_loam_structure_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => '<em class=" icon-cog"> </em> MSPD Koris',
+    'name' => '<a href="content/mspd-koris"><em class=" icon-cog"> </em> MSPD Koris</a>',
     'description' => '',
     'format' => 'full_html',
     'weight' => 0,
@@ -115,7 +115,7 @@ function designssquare_com_site_loam_structure_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => '<em class=" icon-cog"> </em> SP Latviešu katoļu draudze',
+    'name' => '<a href="content/sp-latviešu-katoļu-draudze"><em class="icon-cog"> </em> SP Latviešu katoļu draudze</a>',
     'description' => '',
     'format' => 'full_html',
     'weight' => 0,
@@ -123,7 +123,7 @@ function designssquare_com_site_loam_structure_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => '<em class="icon-cog"> </em> LK Sabiedrība',
+    'name' => '<a href="content/lk-sabiedrība"><em class="icon-cog"> </em> LK Sabiedrība</a>',
     'description' => '',
     'format' => 'full_html',
     'weight' => 0,
@@ -131,7 +131,7 @@ function designssquare_com_site_loam_structure_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => '<em class=" icon-cog"> </em> Perkonītis',
+    'name' => '<a href="content/perkonītis"><em class=" icon-cog"> </em> Perkonītis</a>',
     'description' => '',
     'format' => 'full_html',
     'weight' => 0,
@@ -139,7 +139,7 @@ function designssquare_com_site_loam_structure_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => '<em class="icon-cog"> </em> Latviešu Skola',
+    'name' => '<a href="content/latviešu-skola"><em class="icon-cog"> </em> Latviešu Skola</a>',
     'description' => '',
     'format' => 'full_html',
     'weight' => 0,
@@ -155,7 +155,7 @@ function designssquare_com_site_loam_structure_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => '<em class=" icon-cog"> </em> Teiksma',
+    'name' => '<a href="content/teiksma"><em class=" icon-cog"> </em> Teiksma</a>',
     'description' => '',
     'format' => 'filtered_html',
     'weight' => 0,
@@ -179,7 +179,7 @@ function designssquare_com_site_loam_structure_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'features',
   );
   $terms[] = array(
-    'name' => '<em class=" icon-cog"> </em> SELGA',
+    'name' => '<a href="content/selga"><em class=" icon-cog"> </em> SELGA</a>',
     'description' => '',
     'format' => 'full_html',
     'weight' => 0,

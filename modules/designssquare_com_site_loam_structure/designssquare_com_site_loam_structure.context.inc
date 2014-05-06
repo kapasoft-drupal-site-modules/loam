@@ -234,6 +234,38 @@ function designssquare_com_site_loam_structure_context_default_contexts() {
   $context = new stdClass();
   $context->disabled = FALSE; /* Edit this to true to make a default context disabled initially */
   $context->api_version = 3;
+  $context->name = 'ds_site_loam_calendar';
+  $context->description = '';
+  $context->tag = 'ds_site_loam_context';
+  $context->conditions = array(
+    'path' => array(
+      'values' => array(
+        'latviešu-organizācijas-apvienība-minesotā-kalendārs' => 'latviešu-organizācijas-apvienība-minesotā-kalendārs',
+      ),
+    ),
+  );
+  $context->reactions = array(
+    'block' => array(
+      'blocks' => array(
+        'calendar-calendar_legend' => array(
+          'module' => 'calendar',
+          'delta' => 'calendar_legend',
+          'region' => 'content',
+          'weight' => '-10',
+        ),
+      ),
+    ),
+  );
+  $context->condition_mode = 0;
+
+  // Translatables
+  // Included for use with string extractors like potx.
+  t('ds_site_loam_context');
+  $export['ds_site_loam_calendar'] = $context;
+
+  $context = new stdClass();
+  $context->disabled = FALSE; /* Edit this to true to make a default context disabled initially */
+  $context->api_version = 3;
   $context->name = 'ds_site_loam_context_sitewide';
   $context->description = 'sidewide context for site - loam';
   $context->tag = 'ds_site_loam_context';
@@ -252,6 +284,18 @@ function designssquare_com_site_loam_structure_context_default_contexts() {
           'delta' => 'main',
           'region' => 'content',
           'weight' => '-10',
+        ),
+        'views-calendar-block_1' => array(
+          'module' => 'views',
+          'delta' => 'calendar-block_1',
+          'region' => 'sidebar_second',
+          'weight' => '-10',
+        ),
+        'views-calendar-block_2' => array(
+          'module' => 'views',
+          'delta' => 'calendar-block_2',
+          'region' => 'sidebar_second',
+          'weight' => '-9',
         ),
         'designssquare_com_theme_builder-twitter_feed' => array(
           'module' => 'designssquare_com_theme_builder',

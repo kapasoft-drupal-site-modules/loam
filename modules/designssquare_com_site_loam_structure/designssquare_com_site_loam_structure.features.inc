@@ -28,6 +28,14 @@ function designssquare_com_site_loam_structure_views_api($module = NULL, $api = 
  */
 function designssquare_com_site_loam_structure_node_info() {
   $items = array(
+    'event' => array(
+      'name' => t('Event'),
+      'base' => 'node_content',
+      'description' => t('event for a calendar'),
+      'has_title' => '1',
+      'title_label' => t('Title'),
+      'help' => '',
+    ),
     'service' => array(
       'name' => t('Service'),
       'base' => 'node_content',

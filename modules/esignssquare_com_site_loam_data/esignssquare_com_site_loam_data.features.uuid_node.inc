@@ -509,10 +509,6 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
                     </div>
 
                     <p>Latviešu Organizāciju Apvieniba Minesotā (LOAM) apvieno 14 latviešu organizācijas kopējam kultūras un labdarības darbam</p>
-                    <p>
-                        <span class="pun"><em>LOAM darbības lokā ietilpst galvenokārt uzdevumi, ko nespēj vai nevēlas veikt atsevišķas latviešu organizācijas. Šajā sakaribā esam izvelējušies organizācijas mudi: "Darām to, kas darāms."</em></span>
-                    </p>
-
                     <hr class="visible-desktop"></hr>',
         'summary' => '',
         'format' => 'full_html',
@@ -521,9 +517,6 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
 <h5 style="color: rgb(255, 255, 255);">Informatīvs portāls par latviešu organizācijām, par pašlaik aktuālo un notiekošo Minnesotā</h5>
 </div>
 <p>Latviešu Organizāciju Apvieniba Minesotā (LOAM) apvieno 14 latviešu organizācijas kopējam kultūras un labdarības darbam</p>
-<p>
-                        <span class="pun"><em>LOAM darbības lokā ietilpst galvenokārt uzdevumi, ko nespēj vai nevēlas veikt atsevišķas latviešu organizācijas. Šajā sakaribā esam izvelējušies organizācijas mudi: "Darām to, kas darāms."</em></span>
-                    </p>
 <hr class="visible-desktop" />',
         'safe_summary' => '',
       ),
@@ -2777,6 +2770,166 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   'data' => 'b:0;',
   'date' => '2013-12-03 04:13:46 +0000',
   'alias_url' => 'content/laiks-dejām',
+);
+  $nodes[] = array(
+  'uid' => 1,
+  'title' => 'Test Event',
+  'log' => '',
+  'status' => 1,
+  'comment' => 2,
+  'promote' => 0,
+  'sticky' => 0,
+  'vuuid' => 'ad0191a2-720d-4ed8-ad78-f125053ee3fa',
+  'type' => 'event',
+  'language' => 'und',
+  'created' => 1399295983,
+  'tnid' => 0,
+  'translate' => 0,
+  'uuid' => '5c44f9e0-da11-4275-814a-3dd9069767da',
+  'revision_uid' => 1,
+  'body' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here 
+
+some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here 
+
+some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here ',
+        'summary' => '',
+        'format' => 'full_html',
+        'safe_value' => '<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
+<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
+<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
+',
+        'safe_summary' => '',
+      ),
+    ),
+  ),
+  'field_event_date' => array(
+    'und' => array(
+      0 => array(
+        'value' => '2014-05-21T16:00:00',
+        'timezone' => 'UTC',
+        'timezone_db' => 'UTC',
+        'date_type' => 'date',
+        'db' => array(
+          'value' => array(
+            'granularity' => array(
+              0 => 'year',
+              1 => 'month',
+              2 => 'day',
+              3 => 'hour',
+              4 => 'minute',
+              5 => 'second',
+              6 => 'timezone',
+            ),
+            'errors' => array(),
+            '' . "\0" . 'DateObject' . "\0" . 'serializedTime' => '2014-05-21T16:00:00+00:00',
+            '' . "\0" . 'DateObject' . "\0" . 'serializedTimezone' => 'UTC',
+            'timeOnly' => FALSE,
+            'dateOnly' => FALSE,
+            'originalTime' => '2014-05-21T16:00:00+00:00',
+            'date' => '2014-05-21 16:00:00',
+            'timezone_type' => 3,
+            'timezone' => 'UTC',
+          ),
+          'value2' => array(
+            'granularity' => array(
+              0 => 'year',
+              1 => 'month',
+              2 => 'day',
+              3 => 'hour',
+              4 => 'minute',
+              5 => 'second',
+              6 => 'timezone',
+            ),
+            'errors' => array(),
+            '' . "\0" . 'DateObject' . "\0" . 'serializedTime' => '2014-05-21T16:00:00+00:00',
+            '' . "\0" . 'DateObject' . "\0" . 'serializedTimezone' => 'UTC',
+            'timeOnly' => FALSE,
+            'dateOnly' => FALSE,
+            'originalTime' => '2014-05-21T16:00:00+00:00',
+            'date' => '2014-05-21 16:00:00',
+            'timezone_type' => 3,
+            'timezone' => 'UTC',
+          ),
+        ),
+      ),
+    ),
+  ),
+  'field_event_location' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Backyard of Janis Ozols',
+        'format' => NULL,
+        'safe_value' => 'Backyard of Janis Ozols',
+      ),
+    ),
+  ),
+  'rdf_mapping' => array(
+    'rdftype' => array(
+      0 => 'sioc:Item',
+      1 => 'foaf:Document',
+    ),
+    'title' => array(
+      'predicates' => array(
+        0 => 'dc:title',
+      ),
+    ),
+    'created' => array(
+      'predicates' => array(
+        0 => 'dc:date',
+        1 => 'dc:created',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'changed' => array(
+      'predicates' => array(
+        0 => 'dc:modified',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'body' => array(
+      'predicates' => array(
+        0 => 'content:encoded',
+      ),
+    ),
+    'uid' => array(
+      'predicates' => array(
+        0 => 'sioc:has_creator',
+      ),
+      'type' => 'rel',
+    ),
+    'name' => array(
+      'predicates' => array(
+        0 => 'foaf:name',
+      ),
+    ),
+    'comment_count' => array(
+      'predicates' => array(
+        0 => 'sioc:num_replies',
+      ),
+      'datatype' => 'xsd:integer',
+    ),
+    'last_activity' => array(
+      'predicates' => array(
+        0 => 'sioc:last_activity_date',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+  ),
+  'cid' => 0,
+  'last_comment_name' => NULL,
+  'last_comment_uid' => 1,
+  'comment_count' => 0,
+  'name' => 'admin',
+  'picture' => 0,
+  'data' => 'b:0;',
+  'date' => '2014-05-05 13:19:43 +0000',
+  'alias_url' => 'content/test-event',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -5102,6 +5255,104 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
 );
   $nodes[] = array(
   'uid' => 1,
+  'title' => 'LOAM Avīze',
+  'log' => '',
+  'status' => 1,
+  'comment' => 1,
+  'promote' => 1,
+  'sticky' => 0,
+  'vuuid' => '4420be7e-efb8-4c4c-90f2-5d9908f49ed7',
+  'type' => 'blog_posts',
+  'language' => 'und',
+  'created' => 1399244060,
+  'tnid' => 0,
+  'translate' => 0,
+  'uuid' => 'b6b56e7c-a5a8-40cb-ae64-e3c8689bda4d',
+  'revision_uid' => 1,
+  'field_blog_sidebar' => array(
+    'und' => array(
+      0 => array(
+        'tid' => 43,
+        'uuid' => '8f130afd-c0d6-4493-aabc-7c87e37fe0ac',
+      ),
+    ),
+  ),
+  'field_description' => array(
+    'und' => array(
+      0 => array(
+        'value' => '<span class="colored">LOAM Avīze: </span>Viss par, ar <span class="colored">UN </span>ne tikai - tavs informācijas avots Minesotā',
+        'format' => NULL,
+        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;LOAM Avīze: &lt;/span&gt;Viss par, ar &lt;span class=&quot;colored&quot;&gt;UN &lt;/span&gt;ne tikai - tavs informācijas avots Minesotā',
+      ),
+    ),
+  ),
+  'rdf_mapping' => array(
+    'rdftype' => array(
+      0 => 'sioc:Item',
+      1 => 'foaf:Document',
+    ),
+    'title' => array(
+      'predicates' => array(
+        0 => 'dc:title',
+      ),
+    ),
+    'created' => array(
+      'predicates' => array(
+        0 => 'dc:date',
+        1 => 'dc:created',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'changed' => array(
+      'predicates' => array(
+        0 => 'dc:modified',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'body' => array(
+      'predicates' => array(
+        0 => 'content:encoded',
+      ),
+    ),
+    'uid' => array(
+      'predicates' => array(
+        0 => 'sioc:has_creator',
+      ),
+      'type' => 'rel',
+    ),
+    'name' => array(
+      'predicates' => array(
+        0 => 'foaf:name',
+      ),
+    ),
+    'comment_count' => array(
+      'predicates' => array(
+        0 => 'sioc:num_replies',
+      ),
+      'datatype' => 'xsd:integer',
+    ),
+    'last_activity' => array(
+      'predicates' => array(
+        0 => 'sioc:last_activity_date',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+  ),
+  'cid' => 0,
+  'last_comment_name' => NULL,
+  'last_comment_uid' => 1,
+  'comment_count' => 0,
+  'name' => 'admin',
+  'picture' => 0,
+  'data' => 'b:0;',
+  'date' => '2014-05-04 22:54:20 +0000',
+  'alias_url' => 'latviešu-organizācijas-apvienība-minesotā-avīze',
+);
+  $nodes[] = array(
+  'uid' => 1,
   'title' => 'Latviešu Fonds izsludina 2014. gada konkursu',
   'log' => '',
   'status' => 1,
@@ -6981,6 +7232,166 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'data' => 'b:0;',
   'date' => '2013-12-17 01:06:51 +0000',
   'alias_url' => 'content/mspd-koris',
+);
+  $nodes[] = array(
+  'uid' => 1,
+  'title' => 'Test Event 2',
+  'log' => '',
+  'status' => 1,
+  'comment' => 2,
+  'promote' => 1,
+  'sticky' => 0,
+  'vuuid' => 'bacb0b72-9f9c-45b8-a188-e1805ee21f70',
+  'type' => 'event',
+  'language' => 'und',
+  'created' => 1399322308,
+  'tnid' => 0,
+  'translate' => 0,
+  'uuid' => 'f41710ae-0f21-4efb-91ad-b1f531a06f49',
+  'revision_uid' => 1,
+  'body' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here 
+
+some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here 
+
+some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here ',
+        'summary' => '',
+        'format' => 'full_html',
+        'safe_value' => '<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
+<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
+<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
+',
+        'safe_summary' => '',
+      ),
+    ),
+  ),
+  'field_event_date' => array(
+    'und' => array(
+      0 => array(
+        'value' => '2014-05-26T20:30:00',
+        'timezone' => 'UTC',
+        'timezone_db' => 'UTC',
+        'date_type' => 'date',
+        'db' => array(
+          'value' => array(
+            'granularity' => array(
+              0 => 'year',
+              1 => 'month',
+              2 => 'day',
+              3 => 'hour',
+              4 => 'minute',
+              5 => 'second',
+              6 => 'timezone',
+            ),
+            'errors' => array(),
+            '' . "\0" . 'DateObject' . "\0" . 'serializedTime' => '2014-05-26T20:30:00+00:00',
+            '' . "\0" . 'DateObject' . "\0" . 'serializedTimezone' => 'UTC',
+            'timeOnly' => FALSE,
+            'dateOnly' => FALSE,
+            'originalTime' => '2014-05-26T20:30:00+00:00',
+            'date' => '2014-05-26 20:30:00',
+            'timezone_type' => 3,
+            'timezone' => 'UTC',
+          ),
+          'value2' => array(
+            'granularity' => array(
+              0 => 'year',
+              1 => 'month',
+              2 => 'day',
+              3 => 'hour',
+              4 => 'minute',
+              5 => 'second',
+              6 => 'timezone',
+            ),
+            'errors' => array(),
+            '' . "\0" . 'DateObject' . "\0" . 'serializedTime' => '2014-05-26T20:30:00+00:00',
+            '' . "\0" . 'DateObject' . "\0" . 'serializedTimezone' => 'UTC',
+            'timeOnly' => FALSE,
+            'dateOnly' => FALSE,
+            'originalTime' => '2014-05-26T20:30:00+00:00',
+            'date' => '2014-05-26 20:30:00',
+            'timezone_type' => 3,
+            'timezone' => 'UTC',
+          ),
+        ),
+      ),
+    ),
+  ),
+  'field_event_location' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Latviesho Centrs, North Minneapolis',
+        'format' => NULL,
+        'safe_value' => 'Latviesho Centrs, North Minneapolis',
+      ),
+    ),
+  ),
+  'rdf_mapping' => array(
+    'rdftype' => array(
+      0 => 'sioc:Item',
+      1 => 'foaf:Document',
+    ),
+    'title' => array(
+      'predicates' => array(
+        0 => 'dc:title',
+      ),
+    ),
+    'created' => array(
+      'predicates' => array(
+        0 => 'dc:date',
+        1 => 'dc:created',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'changed' => array(
+      'predicates' => array(
+        0 => 'dc:modified',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'body' => array(
+      'predicates' => array(
+        0 => 'content:encoded',
+      ),
+    ),
+    'uid' => array(
+      'predicates' => array(
+        0 => 'sioc:has_creator',
+      ),
+      'type' => 'rel',
+    ),
+    'name' => array(
+      'predicates' => array(
+        0 => 'foaf:name',
+      ),
+    ),
+    'comment_count' => array(
+      'predicates' => array(
+        0 => 'sioc:num_replies',
+      ),
+      'datatype' => 'xsd:integer',
+    ),
+    'last_activity' => array(
+      'predicates' => array(
+        0 => 'sioc:last_activity_date',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+  ),
+  'cid' => 0,
+  'last_comment_name' => NULL,
+  'last_comment_uid' => 1,
+  'comment_count' => 0,
+  'name' => 'admin',
+  'picture' => 0,
+  'data' => 'b:0;',
+  'date' => '2014-05-05 20:38:28 +0000',
+  'alias_url' => 'content/test-event-2',
 );
   return $nodes;
 }

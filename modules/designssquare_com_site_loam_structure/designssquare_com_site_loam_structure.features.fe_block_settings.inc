@@ -126,6 +126,44 @@ function designssquare_com_site_loam_structure_default_fe_block_settings() {
     'visibility' => 0,
   );
 
+  $export['system-main-menu'] = array(
+    'cache' => -1,
+    'custom' => 0,
+    'delta' => 'main-menu',
+    'module' => 'system',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
   $export['system-powered-by'] = array(
     'cache' => -1,
     'custom' => 0,
@@ -242,6 +280,7 @@ function designssquare_com_site_loam_structure_default_fe_block_settings() {
 
   $export['views-401b434640254f69bf444c09379357b5'] = array(
     'cache' => -1,
+    'custom' => 0,
     'delta' => '401b434640254f69bf444c09379357b5',
     'module' => 'views',
     'node_types' => array(),
@@ -273,6 +312,8 @@ function designssquare_com_site_loam_structure_default_fe_block_settings() {
         'weight' => 0,
       ),
     ),
+    'title' => '',
+    'visibility' => 0,
   );
 
   $export['views-5c88bb249e323db83c4e6b538dad2c73'] = array(
@@ -431,6 +472,82 @@ function designssquare_com_site_loam_structure_default_fe_block_settings() {
     'cache' => -1,
     'custom' => 0,
     'delta' => 'b52596459ce1ba1be9b343628c7da9cf',
+    'module' => 'views',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
+  $export['views-calendar-block_1'] = array(
+    'cache' => -1,
+    'custom' => 0,
+    'delta' => 'calendar-block_1',
+    'module' => 'views',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
+  $export['views-calendar-block_2'] = array(
+    'cache' => -1,
+    'custom' => 0,
+    'delta' => 'calendar-block_2',
     'module' => 'views',
     'node_types' => array(),
     'pages' => '',
