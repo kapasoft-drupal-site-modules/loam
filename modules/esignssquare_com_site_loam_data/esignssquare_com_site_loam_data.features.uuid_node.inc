@@ -398,20 +398,15 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
         'timestamp' => NULL,
         'uuid' => '474f679e-371d-49c0-910d-beec01838ce3',
         'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
+        'alt' => '',
+        'title' => '',
         'width' => 880,
         'height' => 461,
         'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/131117remittances.jpg',
       ),
     ),
   ),
-  'field_blog_sidebar' => array(),
-  'field_category' => array(),
-  'field_posts_format' => array(),
-  'field_video_file' => array(),
-  'field_video_id' => array(),
-  'field_sidebar_positioning' => array(
+  'field_blog_sidebar' => array(
     'und' => array(
       0 => array(
         'tid' => 43,
@@ -419,6 +414,10 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
       ),
     ),
   ),
+  'field_category' => array(),
+  'field_posts_format' => array(),
+  'field_video_file' => array(),
+  'field_video_id' => array(),
   'rdf_mapping' => array(
     'rdftype' => array(
       0 => 'sioc:Post',
@@ -2153,20 +2152,15 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
         'timestamp' => NULL,
         'uuid' => '68a849fc-5e71-4c83-800d-82be8502e949',
         'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
+        'alt' => '',
+        'title' => '',
         'width' => 880,
         'height' => 461,
         'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/dziemas_svetki.jpg',
       ),
     ),
   ),
-  'field_blog_sidebar' => array(),
-  'field_category' => array(),
-  'field_posts_format' => array(),
-  'field_video_file' => array(),
-  'field_video_id' => array(),
-  'field_sidebar_positioning' => array(
+  'field_blog_sidebar' => array(
     'und' => array(
       0 => array(
         'tid' => 43,
@@ -2174,6 +2168,10 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
       ),
     ),
   ),
+  'field_category' => array(),
+  'field_posts_format' => array(),
+  'field_video_file' => array(),
+  'field_video_id' => array(),
   'rdf_mapping' => array(
     'rdftype' => array(
       0 => 'sioc:Post',
@@ -3284,7 +3282,14 @@ some event comes here some event comes here some event comes here some event com
   'field_audio' => array(),
   'field_blog_entry_tag' => array(),
   'field_blog_img' => array(),
-  'field_blog_sidebar' => array(),
+  'field_blog_sidebar' => array(
+    'und' => array(
+      0 => array(
+        'tid' => 43,
+        'uuid' => '8f130afd-c0d6-4493-aabc-7c87e37fe0ac',
+      ),
+    ),
+  ),
   'field_category' => array(),
   'field_posts_format' => array(),
   'field_video_file' => array(),
@@ -3294,14 +3299,6 @@ some event comes here some event comes here some event comes here some event com
         'value' => 70193168,
         'format' => NULL,
         'safe_value' => 70193168,
-      ),
-    ),
-  ),
-  'field_sidebar_positioning' => array(
-    'und' => array(
-      0 => array(
-        'tid' => 43,
-        'uuid' => '8f130afd-c0d6-4493-aabc-7c87e37fe0ac',
       ),
     ),
   ),
@@ -5586,12 +5583,7 @@ vērtīgo projektu. </p>
   'field_audio' => array(),
   'field_blog_entry_tag' => array(),
   'field_blog_img' => array(),
-  'field_blog_sidebar' => array(),
-  'field_category' => array(),
-  'field_posts_format' => array(),
-  'field_video_file' => array(),
-  'field_video_id' => array(),
-  'field_sidebar_positioning' => array(
+  'field_blog_sidebar' => array(
     'und' => array(
       0 => array(
         'tid' => 43,
@@ -5599,6 +5591,10 @@ vērtīgo projektu. </p>
       ),
     ),
   ),
+  'field_category' => array(),
+  'field_posts_format' => array(),
+  'field_video_file' => array(),
+  'field_video_id' => array(),
   'rdf_mapping' => array(
     'rdftype' => array(
       0 => 'sioc:Post',
@@ -5725,20 +5721,15 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
         'timestamp' => NULL,
         'uuid' => 'f297ff71-fd43-4eb5-b293-f12e7048326d',
         'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
+        'alt' => '',
+        'title' => '',
         'width' => 880,
         'height' => 461,
         'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/dual_citizenship.jpg',
       ),
     ),
   ),
-  'field_blog_sidebar' => array(),
-  'field_category' => array(),
-  'field_posts_format' => array(),
-  'field_video_file' => array(),
-  'field_video_id' => array(),
-  'field_sidebar_positioning' => array(
+  'field_blog_sidebar' => array(
     'und' => array(
       0 => array(
         'tid' => 43,
@@ -5746,6 +5737,10 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
       ),
     ),
   ),
+  'field_category' => array(),
+  'field_posts_format' => array(),
+  'field_video_file' => array(),
+  'field_video_id' => array(),
   'rdf_mapping' => array(
     'rdftype' => array(
       0 => 'sioc:Post',
