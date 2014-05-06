@@ -5290,8 +5290,8 @@ some event comes here some event comes here some event comes here some event com
   'field_blog_sidebar' => array(
     'und' => array(
       0 => array(
-        'tid' => 43,
-        'uuid' => NULL,
+        'tid' => 47,
+        'uuid' => 'bdfd197f-6e7f-489e-94cc-cfd7ea290a70',
       ),
     ),
   ),

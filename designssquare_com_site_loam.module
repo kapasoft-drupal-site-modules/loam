@@ -1,10 +1,10 @@
 <?php
 
-//function designssquare_com_site_loam_uuid_node_features_export_render_alter(&$export, $node, $module)
-//{
-//    if ($module == 'esignssquare_com_site_loam_data') {
-//        //setting artifact source location so it exports accordingly
-//        $field_instance = field_get_items('node', $node, 'field_service_icon');
-//        $export->field_service_icon['und'][0]['uuid_features_file_path'] = drupal_get_path('module', 'designssquare_com_site_loam') . '/assets/data/' . $field_instance[0]['filename'];
-//    }
-//}
+function designssquare_com_site_loam_node_presave($node) {
+    //fix  for loam sample data import where 'display' is striped away for field_broshure causing db syntax error at node_save
+    if (empty($node->nid) && $node->type == 'about') {
+        if(isset($node->field_broshure['und'][0])){
+            $node->field_broshure['und'][0]['display'] = 1;
+        }
+    }
+}
