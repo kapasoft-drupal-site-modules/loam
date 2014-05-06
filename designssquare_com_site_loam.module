@@ -2,9 +2,7 @@
 
 function designssquare_com_site_loam_node_presave($node) {
     //fix  for loam sample data import where 'display' is striped away for field_broshure causing db syntax error at node_save
-    if (empty($node->nid) && $node->type == 'about') {
-        if(isset($node->field_broshure['und'][0])){
+    if ($node->type == 'about' && isset($node->field_broshure['und'][0])) {
             $node->field_broshure['und'][0]['display'] = 1;
-        }
     }
 }
