@@ -506,5 +506,192 @@ function designssquare_com_site_loam_structure_context_default_contexts() {
   t('service_page');
   $export['loam_organizacija_kopa'] = $context;
 
+  /******Context from Builder Theme********/
+    /********SiteWide Builder******/
+    $context = new stdClass();
+    $context->disabled = TRUE; /* Edit this to true to make a default context disabled initially */
+    $context->api_version = 3;
+    $context->name = 'ds_theme_builder_context_sitewide';
+    $context->description = 'sidewide context fro builder theme';
+    $context->tag = 'designssquare_com_theme_builder';
+    $context->conditions = array(
+        'sitewide' => array(
+            'values' => array(
+                1 => 1,
+            ),
+        ),
+    );
+    $context->reactions = array(
+        'block' => array(
+            'blocks' => array(
+                'system-main' => array(
+                    'module' => 'system',
+                    'delta' => 'main',
+                    'region' => 'content',
+                    'weight' => '-10',
+                ),
+                'designssquare_com_theme_builder-twitter_feed' => array(
+                    'module' => 'designssquare_com_theme_builder',
+                    'delta' => 'twitter_feed',
+                    'region' => 'footer_top',
+                    'weight' => '-10',
+                ),
+                'designssquare_com_theme_builder-footer_logo' => array(
+                    'module' => 'designssquare_com_theme_builder',
+                    'delta' => 'footer_logo',
+                    'region' => 'footer_middle',
+                    'weight' => '-10',
+                ),
+                'designssquare_com_theme_builder-footer_company' => array(
+                    'module' => 'designssquare_com_theme_builder',
+                    'delta' => 'footer_company',
+                    'region' => 'footer_middle',
+                    'weight' => '-9',
+                ),
+                'designssquare_com_theme_builder-contact_info' => array(
+                    'module' => 'designssquare_com_theme_builder',
+                    'delta' => 'contact_info',
+                    'region' => 'footer_middle',
+                    'weight' => '-8',
+                ),
+                'views-31dad79acc6aea1fc961a835d9767e4e' => array(
+                    'module' => 'views',
+                    'delta' => '31dad79acc6aea1fc961a835d9767e4e',
+                    'region' => 'footer_middle',
+                    'weight' => '-7',
+                ),
+                'designssquare_com_theme_builder-copy_rights' => array(
+                    'module' => 'designssquare_com_theme_builder',
+                    'delta' => 'copy_rights',
+                    'region' => 'footer_bottom',
+                    'weight' => '-10',
+                ),
+                'designssquare_com_theme_builder-footer_menu' => array(
+                    'module' => 'designssquare_com_theme_builder',
+                    'delta' => 'footer_menu',
+                    'region' => 'footer_bottom',
+                    'weight' => '-9',
+                ),
+            ),
+        ),
+    );
+    $context->condition_mode = 0;
+
+    // Translatables
+    // Included for use with string extractors like potx.
+    t('designssquare_com_theme_builder');
+    t('sidewide context fro builder theme');
+    $export['ds_theme_builder_context_sitewide'] = $context;
+
+    /******HOME ONE********/
+    $context = new stdClass();
+    $context->disabled = TRUE; /* Edit this to true to make a default context disabled initially */
+    $context->api_version = 3;
+    $context->name = 'home_one';
+    $context->description = 'home_one';
+    $context->tag = 'designssquare_com_theme_builder';
+    $context->conditions = array(
+        'node' => array(
+            'values' => array(
+                'home_one' => 'home_one',
+            ),
+            'options' => array(
+                'node_form' => '1',
+            ),
+        ),
+    );
+    $context->reactions = array(
+        'block' => array(
+            'blocks' => array(
+                'views-services_overview-block' => array(
+                    'module' => 'views',
+                    'delta' => 'services_overview-block',
+                    'region' => 'row_first',
+                    'weight' => '-10',
+                ),
+                'views-gallery_overview-block' => array(
+                    'module' => 'views',
+                    'delta' => 'gallery_overview-block',
+                    'region' => 'row_second',
+                    'weight' => '-9',
+                ),
+                'designssquare_com_theme_builder-about' => array(
+                    'module' => 'designssquare_com_theme_builder',
+                    'delta' => 'about',
+                    'region' => 'square_top_left',
+                    'weight' => '-10',
+                ),
+                'views-quote_slider-block' => array(
+                    'module' => 'views',
+                    'delta' => 'quote_slider-block',
+                    'region' => 'square_bottom_left',
+                    'weight' => '-10',
+                ),
+                'views-1427ba8645e412f222d0322d555be363' => array(
+                    'module' => 'views',
+                    'delta' => '1427ba8645e412f222d0322d555be363',
+                    'region' => 'square_top_right',
+                    'weight' => '-10',
+                ),
+            ),
+        ),
+    );
+    $context->condition_mode = 0;
+
+    // Translatables
+    // Included for use with string extractors like potx.
+    t('designssquare_com_theme_builder');
+    t('home_one');
+    $export['home_one'] = $context;
+
+    /****Service Page****/
+    $context = new stdClass();
+    $context->disabled = TRUE; /* Edit this to true to make a default context disabled initially */
+    $context->api_version = 3;
+    $context->name = 'service_page';
+    $context->description = 'service_page';
+    $context->tag = 'designssquare_com_theme_builder';
+    $context->conditions = array(
+        'node' => array(
+            'values' => array(
+                'service_page' => 'service_page',
+            ),
+            'options' => array(
+                'node_form' => '1',
+            ),
+        ),
+    );
+    $context->reactions = array(
+        'block' => array(
+            'blocks' => array(
+                'designssquare_com_theme_builder-catchy_phrase' => array(
+                    'module' => 'designssquare_com_theme_builder',
+                    'delta' => 'catchy_phrase',
+                    'region' => 'row_zero',
+                    'weight' => '-10',
+                ),
+                'designssquare_com_theme_builder-call_for_action' => array(
+                    'module' => 'designssquare_com_theme_builder',
+                    'delta' => 'call_for_action',
+                    'region' => 'row_first',
+                    'weight' => '-10',
+                ),
+                'views-services_overview-all_services' => array(
+                    'module' => 'views',
+                    'delta' => 'services_overview-all_services',
+                    'region' => 'row_second',
+                    'weight' => '-10',
+                ),
+            ),
+        ),
+    );
+    $context->condition_mode = 0;
+
+    // Translatables
+    // Included for use with string extractors like potx.
+    t('designssquare_com_theme_builder');
+    t('service_page');
+    $export['service_page'] = $context;
+
   return $export;
 }
