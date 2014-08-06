@@ -12,10 +12,124 @@ function designssquare_com_site_loam_structure_default_fe_block_settings() {
 
   $export['version'] = '2.0';
 
-  $export['menu-menu-footer-menu'] = array(
+  $export['devel-execute_php'] = array(
     'cache' => -1,
     'custom' => 0,
-    'delta' => 'menu-footer-menu',
+    'delta' => 'execute_php',
+    'module' => 'devel',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
+  $export['devel-switch_user'] = array(
+    'cache' => -1,
+    'custom' => 0,
+    'delta' => 'switch_user',
+    'module' => 'devel',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
+  $export['diff-inline'] = array(
+    'cache' => 1,
+    'custom' => 0,
+    'delta' => 'inline',
+    'module' => 'diff',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
+  $export['menu-devel'] = array(
+    'cache' => -1,
+    'custom' => 0,
+    'delta' => 'devel',
     'module' => 'menu',
     'node_types' => array(),
     'pages' => '',
@@ -50,226 +164,74 @@ function designssquare_com_site_loam_structure_default_fe_block_settings() {
     'visibility' => 0,
   );
 
-  $export['search-form'] = array(
+  $export['menu-features'] = array(
     'cache' => -1,
     'custom' => 0,
-    'delta' => 'form',
-    'module' => 'search',
+    'delta' => 'features',
+    'module' => 'menu',
     'node_types' => array(),
     'pages' => '',
     'roles' => array(),
     'themes' => array(
       'bartik' => array(
-        'region' => 'sidebar_first',
-        'status' => 1,
+        'region' => '',
+        'status' => 0,
         'theme' => 'bartik',
-        'weight' => -1,
+        'weight' => 0,
       ),
       'bootstrap' => array(
-        'region' => 'sidebar_first',
-        'status' => 1,
+        'region' => '',
+        'status' => 0,
         'theme' => 'bootstrap',
-        'weight' => -1,
+        'weight' => 0,
       ),
       'builder' => array(
         'region' => '',
         'status' => 0,
         'theme' => 'builder',
-        'weight' => -1,
+        'weight' => 0,
+      ),
+      'seven' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'seven',
+        'weight' => 0,
+      ),
+    ),
+    'title' => '',
+    'visibility' => 0,
+  );
+
+  $export['user-new'] = array(
+    'cache' => 1,
+    'custom' => 0,
+    'delta' => 'new',
+    'module' => 'user',
+    'node_types' => array(),
+    'pages' => '',
+    'roles' => array(),
+    'themes' => array(
+      'bartik' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bartik',
+        'weight' => 0,
+      ),
+      'bootstrap' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'bootstrap',
+        'weight' => 0,
+      ),
+      'builder' => array(
+        'region' => '',
+        'status' => 0,
+        'theme' => 'builder',
+        'weight' => 0,
       ),
       'seven' => array(
         'region' => 'dashboard_sidebar',
         'status' => 1,
-        'theme' => 'seven',
-        'weight' => -10,
-      ),
-    ),
-    'title' => '',
-    'visibility' => 0,
-  );
-
-  $export['system-main'] = array(
-    'cache' => -1,
-    'custom' => 0,
-    'delta' => 'main',
-    'module' => 'system',
-    'node_types' => array(),
-    'pages' => '',
-    'roles' => array(),
-    'themes' => array(
-      'bartik' => array(
-        'region' => 'content',
-        'status' => 1,
-        'theme' => 'bartik',
-        'weight' => 0,
-      ),
-      'bootstrap' => array(
-        'region' => 'content',
-        'status' => 1,
-        'theme' => 'bootstrap',
-        'weight' => 0,
-      ),
-      'builder' => array(
-        'region' => 'content',
-        'status' => 1,
-        'theme' => 'builder',
-        'weight' => 0,
-      ),
-      'seven' => array(
-        'region' => 'content',
-        'status' => 1,
-        'theme' => 'seven',
-        'weight' => 0,
-      ),
-    ),
-    'title' => '',
-    'visibility' => 0,
-  );
-
-  $export['system-main-menu'] = array(
-    'cache' => -1,
-    'custom' => 0,
-    'delta' => 'main-menu',
-    'module' => 'system',
-    'node_types' => array(),
-    'pages' => '',
-    'roles' => array(),
-    'themes' => array(
-      'bartik' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bartik',
-        'weight' => 0,
-      ),
-      'bootstrap' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bootstrap',
-        'weight' => 0,
-      ),
-      'builder' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'builder',
-        'weight' => 0,
-      ),
-      'seven' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'seven',
-        'weight' => 0,
-      ),
-    ),
-    'title' => '',
-    'visibility' => 0,
-  );
-
-  $export['system-powered-by'] = array(
-    'cache' => -1,
-    'custom' => 0,
-    'delta' => 'powered-by',
-    'module' => 'system',
-    'node_types' => array(),
-    'pages' => '',
-    'roles' => array(),
-    'themes' => array(
-      'bartik' => array(
-        'region' => 'footer',
-        'status' => 1,
-        'theme' => 'bartik',
-        'weight' => 10,
-      ),
-      'bootstrap' => array(
-        'region' => 'footer',
-        'status' => 1,
-        'theme' => 'bootstrap',
-        'weight' => 10,
-      ),
-      'builder' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'builder',
-        'weight' => 10,
-      ),
-      'seven' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'seven',
-        'weight' => 10,
-      ),
-    ),
-    'title' => '',
-    'visibility' => 0,
-  );
-
-  $export['views-12b3d239d955afc52dc100c004952fe4'] = array(
-    'cache' => -1,
-    'custom' => 0,
-    'delta' => '12b3d239d955afc52dc100c004952fe4',
-    'module' => 'views',
-    'node_types' => array(),
-    'pages' => '',
-    'roles' => array(),
-    'themes' => array(
-      'bartik' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bartik',
-        'weight' => 0,
-      ),
-      'bootstrap' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bootstrap',
-        'weight' => 0,
-      ),
-      'builder' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'builder',
-        'weight' => 0,
-      ),
-      'seven' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'seven',
-        'weight' => 0,
-      ),
-    ),
-    'title' => '',
-    'visibility' => 0,
-  );
-
-  $export['views-32335bc5400b4ca82a980e8ac0deae2c'] = array(
-    'cache' => -1,
-    'custom' => 0,
-    'delta' => '32335bc5400b4ca82a980e8ac0deae2c',
-    'module' => 'views',
-    'node_types' => array(),
-    'pages' => '',
-    'roles' => array(),
-    'themes' => array(
-      'bartik' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bartik',
-        'weight' => 0,
-      ),
-      'bootstrap' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bootstrap',
-        'weight' => 0,
-      ),
-      'builder' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'builder',
-        'weight' => 0,
-      ),
-      'seven' => array(
-        'region' => '',
-        'status' => 0,
         'theme' => 'seven',
         'weight' => 0,
       ),
@@ -354,124 +316,10 @@ function designssquare_com_site_loam_structure_default_fe_block_settings() {
     'visibility' => 0,
   );
 
-  $export['views-8045c023952ab308843fa55db6f3abf0'] = array(
-    'cache' => -1,
-    'custom' => 0,
-    'delta' => '8045c023952ab308843fa55db6f3abf0',
-    'module' => 'views',
-    'node_types' => array(),
-    'pages' => '',
-    'roles' => array(),
-    'themes' => array(
-      'bartik' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bartik',
-        'weight' => 0,
-      ),
-      'bootstrap' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bootstrap',
-        'weight' => 0,
-      ),
-      'builder' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'builder',
-        'weight' => 0,
-      ),
-      'seven' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'seven',
-        'weight' => 0,
-      ),
-    ),
-    'title' => '',
-    'visibility' => 0,
-  );
-
   $export['views-8bc7f963ccf671e1a1451b0287cae1a7'] = array(
     'cache' => -1,
     'custom' => 0,
     'delta' => '8bc7f963ccf671e1a1451b0287cae1a7',
-    'module' => 'views',
-    'node_types' => array(),
-    'pages' => '',
-    'roles' => array(),
-    'themes' => array(
-      'bartik' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bartik',
-        'weight' => 0,
-      ),
-      'bootstrap' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bootstrap',
-        'weight' => 0,
-      ),
-      'builder' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'builder',
-        'weight' => 0,
-      ),
-      'seven' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'seven',
-        'weight' => 0,
-      ),
-    ),
-    'title' => '',
-    'visibility' => 0,
-  );
-
-  $export['views-a0e8836c61ddefdf3387ea06190d029c'] = array(
-    'cache' => -1,
-    'custom' => 0,
-    'delta' => 'a0e8836c61ddefdf3387ea06190d029c',
-    'module' => 'views',
-    'node_types' => array(),
-    'pages' => '',
-    'roles' => array(),
-    'themes' => array(
-      'bartik' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bartik',
-        'weight' => 0,
-      ),
-      'bootstrap' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'bootstrap',
-        'weight' => 0,
-      ),
-      'builder' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'builder',
-        'weight' => 0,
-      ),
-      'seven' => array(
-        'region' => '',
-        'status' => 0,
-        'theme' => 'seven',
-        'weight' => 0,
-      ),
-    ),
-    'title' => '',
-    'visibility' => 0,
-  );
-
-  $export['views-b52596459ce1ba1be9b343628c7da9cf'] = array(
-    'cache' => -1,
-    'custom' => 0,
-    'delta' => 'b52596459ce1ba1be9b343628c7da9cf',
     'module' => 'views',
     'node_types' => array(),
     'pages' => '',

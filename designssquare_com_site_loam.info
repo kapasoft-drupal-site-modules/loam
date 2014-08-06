@@ -7,8 +7,7 @@ package = DesignsSquare.com.site.loam
 
 dependencies[] = designssquare_com_site_loam_structure
 dependencies[] = designssquare_lib
-dependencies[] = designssquare_lib_assets
-dependencies[] = designssquare_alias_path
+dependencies[] = designssquare_lib_sample_data
 dependencies[] = calendar
 dependencies[] = date
 dependencies[] = date_popup

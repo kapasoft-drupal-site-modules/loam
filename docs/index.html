@@ -234,8 +234,7 @@
 
         <p><b>1. Menu item shows up in html tags</b><br>
             Make sure you have set 'Allow html' for the particular menu element that can be done either at the Page
-            Options
-            or Menu/Edit Menu Item
+            Options or Menu/Edit Menu Item
         </p>
 
         <p><b>2. Menu item is not dropping down</b><br>
@@ -252,9 +251,8 @@
         <h3>Things In Progress</h3>
         <hr>
         <ul>
-
-            <li>make builder contexts exportable</li>
-            <li>make description field to ba attached blog_posts</li>
+            <li>make slider sidebar configurations exportable</li>
+            <li>make front page importable</li>
         </ul>
     </section>
     <section id="releases">
@@ -269,60 +267,6 @@
             <li>User menu implemented with new region 'User Popover'</li>
             <li>Issue changing color from Styler fixed</li>
             <li>Fix search block padding for first sidebar</li>
-        </ul>
-
-        <h5>Release 0.3</h5>
-        <ul>
-            <li>Menu import fixed. Also it preservers current menu items</li>
-            <li>Fixed Title 'Not Found' issue</li>
-            <li>Fixed user image upload issue</li>
-            <li>Added so that ANONYMOUS USERS name(admin/config/people/accounts) is used for none authenticated users
-                for
-                visitor name
-            </li>
-            <li>Login, Registration, Reset password and lock screen added. The design we have from designer has issue in
-                Firefox. I am getting the fix from Designer
-            </li>
-        </ul>
-        <h5>Release 0.4</h5>
-        <ul>
-            <li>Look into why it is not showing up menu links(main menu and user menu) on 404 request. It turns out that
-                it
-                is by Drupal design(https://drupal.org/node/233807). The drupal theme Cascade has 404 template. Please,
-                consider solution to assign Node of the 404 template to site's Default 404 (not found)
-                page(admin/config/system/site-information). The developers alternative might be to implement
-                hook_page_alter() to add menus to the content on 404 request
-            </li>
-            <li>Fix the login screen menu shows up on the left but is too high and blocks all messages</li>
-            <li>Fix for lock screen is implemented as a theme setting to hide or make visiable lock screen. Since Drupal
-                core doesn't come with the lock screen functionality while the Cascade design has the layout for it, our
-                solution is to provide a configuration to hide lock screen so those who like to develop missing lock
-                screen
-                functionality have the layout available
-            </li>
-            <li>Fix search functionality</li>
-            <li>fix login input text to show up for Firefox</li>
-        </ul>
-        <h5>Release 0.5</h5>
-        <ul>
-            <li>fix Extended Modals</li>
-            <li>added missing Timeline. The newest version of Timeline is going to be incorporated when we receive it
-                from
-                designer in near future
-            </li>
-            <li>breadcrumbs fix for themes run on windows server</li>
-            <li>fix of 404/505 pages for themes run on windows server</li>
-            <li>fix page tabs view/edit/devel to no conflict with design js functionality</li>
-        </ul>
-        <h5>Release 0.6</h5>
-        <ul>
-            <li>admin jquery update to 1.10(Note: Requires jquery_update dev ver 2.x-dev)</li>
-            <li>fix jquary accordion lib conflict with drupal admin overlay</li>
-            <li>fix responsive main menu icon functionality</li>
-        </ul>
-        <h5>Release 0.7</h5>
-        <ul>
-            <li>enhance theme settings with layout style and color schemas</li>
         </ul>
     </section>
 </div>

@@ -12,98 +12,215 @@ function esignssquare_com_site_loam_data_uuid_features_default_content() {
 
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'Daugavas Vanagi',
+  'title' => 'Raibais Vakars:',
   'log' => '',
   'status' => 1,
-  'comment' => 1,
+  'comment' => 2,
   'promote' => 0,
   'sticky' => 0,
-  'vuuid' => '563450ce-e7eb-447c-a4fd-61c9d77ffc4b',
-  'type' => 'service',
+  'vuuid' => 'ce33494d-6b5e-491b-baba-d27118cce197',
+  'type' => 'ds_gallery',
   'language' => 'und',
-  'created' => 1386005911,
+  'created' => 1407274511,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => '0013ffce-6e5b-4d65-b24b-60beba7adf00',
+  'uuid' => '09cfb28f-d860-46dd-915b-841051e5806e',
   'revision_uid' => 1,
-  'field_service_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Daugavas Vanagi iestājas par šo un to mazs aprkasts seko',
-        'format' => NULL,
-        'safe_value' => 'Daugavas Vanagi iestājas par šo un to mazs aprkasts seko',
-      ),
-    ),
-  ),
-  'field_service_icon' => array(
+  'body' => array(),
+  'field_ds_gallery_featured_img' => array(
     'und' => array(
       0 => array(
         'fid' => NULL,
         'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_1.png',
-        'filemime' => 'image/png',
-        'filesize' => 2628,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '7b7e6242-0cab-4365-8ab4-3ebdc501fbac',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_1.png',
-      ),
-    ),
-  ),
-  'field_content_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://8_8.jpg',
+        'filename' => 'P1020113.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020113.JPG',
         'filemime' => 'image/jpeg',
-        'filesize' => 11519,
+        'filesize' => 135747,
         'status' => 1,
         'timestamp' => NULL,
-        'uuid' => '909664ad-aec7-4d14-bb1c-b816dc16ffa0',
+        'uuid' => 'bede6d50-67b8-4f24-bb31-aba950fe31dd',
         'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8_8.jpg',
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020113.JPG',
       ),
     ),
   ),
-  'field_content_par' => array(
+  'field_ds_gallery_images' => array(
     'und' => array(
       0 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
-',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
-',
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020095.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020095.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 164717,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '9703d109-e365-4190-9f19-caddf04da1fe',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020095.JPG',
       ),
       1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020096.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020096.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 216073,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '1d00ad2c-d286-4fd8-a54f-f2bd3fd0ea31',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020096.JPG',
       ),
       2 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020102.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020102.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 202479,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '3478cc50-b2d5-4b1d-a32f-91dab51148c2',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020102.JPG',
+      ),
+      3 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020103.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020103.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 155509,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'a203e4d3-dc03-4622-b1e9-53a791d29472',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020103.JPG',
+      ),
+      4 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020104.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020104.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 156178,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'dfcac18a-1b77-4a4c-ae71-d94bab778d10',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020104.JPG',
+      ),
+      5 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020105.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020105.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 182215,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '84e7d75f-816d-4bb8-b431-bc26d9be225a',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020105.JPG',
+      ),
+      6 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020109_0.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020109_0.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 188843,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'dbfa99f4-6bc8-4e1f-89be-fab8accc12d9',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020109_0.JPG',
+      ),
+      7 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020112.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020112.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 170680,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '619c4483-5c2b-4e04-9166-735760049bc6',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020112.JPG',
+      ),
+      8 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020113.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020113_0.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 135747,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '6052a184-0fc8-4a9d-b7af-a10f11c5897a',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020113_0.JPG',
       ),
     ),
   ),
-  'field_description' => array(
+  'field_ds_gallery_summary' => array(
     'und' => array(
       0 => array(
-        'value' => '<span class="colored">Daugavas Vanagi : </span>mazs ievads par organizāciju nāk šeit',
+        'value' => 'Te mazs aptraksts par galerija. Te mazs aptraksts par galerija. ',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Te mazs aptraksts par galerija. Te mazs aptraksts par galerija.</p>
+',
+      ),
+    ),
+  ),
+  'field_ds_gallery_page_intro' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Jautrība Sit Augstu Vilni Dvīņu Pilsētā',
         'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;Daugavas Vanagi : &lt;/span&gt;mazs ievads par organizāciju nāk šeit',
+        'safe_value' => 'Jautrība Sit Augstu Vilni Dvīņu Pilsētā',
       ),
     ),
   ),
@@ -169,170 +286,8 @@ function esignssquare_com_site_loam_data_uuid_features_default_content() {
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-12-02 17:38:31 +0000',
-  'alias_url' => 'content/daugavas-vanagi',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'MSP Draudze',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 1,
-  'sticky' => 0,
-  'vuuid' => '4f57c94e-3f8b-4a8b-af01-9bcdac14e63d',
-  'type' => 'service',
-  'language' => 'und',
-  'created' => 1384880288,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => '0ddafa3b-726e-4f18-90ed-2716443db918',
-  'revision_uid' => 1,
-  'field_service_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'MSP Draudze ir par to un šo. Šeit seko mazs ievads par MSP Draudze un tās norisēm citām interesantām lietām',
-        'format' => NULL,
-        'safe_value' => 'MSP Draudze ir par to un šo. Šeit seko mazs ievads par MSP Draudze un tās norisēm citām interesantām lietām',
-      ),
-    ),
-  ),
-  'field_service_icon' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_0.png',
-        'filemime' => 'image/png',
-        'filesize' => 2628,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '97504721-8c07-4514-b78a-36a169547228',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_0.png',
-      ),
-    ),
-  ),
-  'field_content_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '7.jpg',
-        'uri' => 'public://7_1.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'bc63e368-1505-4a1e-a8b4-45f02693734b',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/7_1.jpg',
-      ),
-    ),
-  ),
-  'field_content_par' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
-',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
-',
-      ),
-      1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-      ),
-      2 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-      ),
-    ),
-  ),
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span>MSP Draudze : </span> Mazs apraksts par organizāciju nāk šeit',
-        'format' => NULL,
-        'safe_value' => '&lt;span&gt;MSP Draudze : &lt;/span&gt; Mazs apraksts par organizāciju nāk šeit',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2013-11-19 16:58:08 +0000',
-  'alias_url' => 'content/msp-draudze',
+  'date' => '2014-08-05 21:35:11 +0000',
+  'alias_url' => 'content/raibais-vakars-1',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -398,11 +353,11 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
         'timestamp' => NULL,
         'uuid' => '474f679e-371d-49c0-910d-beec01838ce3',
         'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
+        'alt' => NULL,
+        'title' => NULL,
         'width' => 880,
         'height' => 461,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/131117remittances.jpg',
+        'uuid_features_file_path' => 'public://blog/131117remittances.jpg',
       ),
     ),
   ),
@@ -425,6 +380,7 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   ),
   'field_video_file' => array(),
   'field_video_id' => array(),
+  'field_sidebar_positioning' => array(),
   'rdf_mapping' => array(
     'rdftype' => array(
       0 => 'sioc:Post',
@@ -492,108 +448,78 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'Sveicinati!',
+  'title' => 'Teiksma',
   'log' => '',
-  'status' => 0,
+  'status' => 1,
   'comment' => 1,
   'promote' => 0,
   'sticky' => 0,
-  'vuuid' => 'b3c9c877-94b3-4999-83f0-f8b03b7c9fb5',
-  'type' => 'welcome',
+  'vuuid' => 'b9ffb4d6-3f94-4409-bb2f-9517bd115e75',
+  'type' => 'ds_service',
   'language' => 'und',
-  'created' => 1384809248,
+  'created' => 1407244040,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => '2544d1d1-e6c7-4bb9-b030-7b1713ece915',
+  'uuid' => '207b6873-426f-455d-8f8b-3a14288c2edb',
   'revision_uid' => 1,
   'body' => array(
     'und' => array(
       0 => array(
-        'value' => '<div style="background-color: rgb(58, 58, 58); padding: 10px; margin-bottom: 20px;">
-                        <h1 style="color: rgb(255, 255, 255) !important; margin-bottom: 3px !important;"><b>Sveicināti!</b></h1>
-                        <h5 style="color: rgb(255, 255, 255);">Informatīvs portāls par latviešu organizācijām, par pašlaik aktuālo un notiekošo Minnesotā</h5>
-                    </div>
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
 
-                    <p>Latviešu Organizāciju Apvieniba Minesotā (LOAM) apvieno 14 latviešu organizācijas kopējam kultūras un labdarības darbam</p>
-                    <hr class="visible-desktop"></hr>',
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
         'summary' => '',
-        'format' => 'full_html',
-        'safe_value' => '<div style="background-color: rgb(58, 58, 58); padding: 10px; margin-bottom: 20px;">
-<h1 style="color: rgb(255, 255, 255) !important; margin-bottom: 3px !important;"><b>Sveicināti!</b></h1>
-<h5 style="color: rgb(255, 255, 255);">Informatīvs portāls par latviešu organizācijām, par pašlaik aktuālo un notiekošo Minnesotā</h5>
-</div>
-<p>Latviešu Organizāciju Apvieniba Minesotā (LOAM) apvieno 14 latviešu organizācijas kopējam kultūras un labdarības darbam</p>
-<hr class="visible-desktop" />',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+',
         'safe_summary' => '',
       ),
     ),
   ),
-  'field_features' => array(
+  'field_ds_service_featured_img' => array(
     'und' => array(
       0 => array(
-        'tid' => 33,
-        'uuid' => '27d927a9-6ea8-4df5-bc8f-4f60e586a4a1',
-      ),
-      1 => array(
-        'tid' => 35,
-        'uuid' => '75efd7d9-b71e-4ba1-bd65-ea3abcf92a4f',
-      ),
-      2 => array(
-        'tid' => 38,
-        'uuid' => '9ea8fdba-6165-4846-b47b-fe6a0e61010c',
-      ),
-      3 => array(
-        'tid' => 41,
-        'uuid' => 'fe40396c-8b2b-4c3d-a510-b139cda8970c',
-      ),
-      4 => array(
-        'tid' => 36,
-        'uuid' => '7c69ea01-9c90-4b88-84cd-f11760e3ff66',
-      ),
-      5 => array(
-        'tid' => 34,
-        'uuid' => '5038f9aa-87db-426e-86f2-319c64ea1f80',
-      ),
-      6 => array(
-        'tid' => 40,
-        'uuid' => 'dfd9df67-f88a-46e3-94bb-47cf29e29a78',
-      ),
-      7 => array(
-        'tid' => 31,
-        'uuid' => '2395718f-175f-4676-8837-9e3d17a9a4b4',
-      ),
-      8 => array(
-        'tid' => 32,
-        'uuid' => '23cd8c51-5f47-4dc9-8c6f-d3f3050e1579',
-      ),
-      9 => array(
-        'tid' => 39,
-        'uuid' => 'ba4da224-065c-4098-9ce3-664ac11eed7d',
-      ),
-      10 => array(
-        'tid' => 37,
-        'uuid' => '85a1fb3f-d3af-49c6-b86c-f17cd22b4430',
-      ),
-      11 => array(
-        'tid' => 29,
-        'uuid' => '1ca10335-3045-4d37-9f14-7953469c16be',
-      ),
-      12 => array(
-        'tid' => 28,
-        'uuid' => '10caebcb-ed8c-4b3f-9dcb-875bd61220b2',
-      ),
-      13 => array(
-        'tid' => 30,
-        'uuid' => '21b4ce7e-6d45-44fa-b8ff-914c6e3c5500',
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'latvian_symbol.png',
+        'uri' => 'public://designssquare_com/widget/service/latvian_symbol_0.png',
+        'filemime' => 'image/png',
+        'filesize' => 10960,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'b0ea1c34-b18c-47b6-8ebf-96b9186f87c0',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 532,
+        'height' => 270,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/latvian_symbol_0.png',
       ),
     ),
   ),
-  'field_features_title' => array(
+  'field_ds_service_summary' => array(
     'und' => array(
       0 => array(
-        'value' => 'LOAM organizācijas:',
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur</p>
+',
+      ),
+    ),
+  ),
+  'field_page_information' => array(
+    'und' => array(
+      0 => array(
+        'value' => ': mūzikas ansamblis',
         'format' => NULL,
-        'safe_value' => 'LOAM organizācijas:',
+        'safe_value' => ': mūzikas ansamblis',
       ),
     ),
   ),
@@ -659,16 +585,16 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-11-18 21:14:08 +0000',
-  'alias_url' => 'content/sveicinati',
+  'date' => '2014-08-05 13:07:20 +0000',
+  'alias_url' => 'content/teiksma-0',
 );
   $nodes[] = array(
   'uid' => 1,
   'title' => 'Par LOAM',
   'log' => '',
-  'status' => 1,
+  'status' => 0,
   'comment' => 1,
-  'promote' => 1,
+  'promote' => 0,
   'sticky' => 0,
   'vuuid' => 'b19bd880-8eed-4ab6-b6b9-80b2e79839b2',
   'type' => 'about',
@@ -714,7 +640,7 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
         'title' => '',
         'width' => 1808,
         'height' => 1808,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/Latvia-currency_0.jpg',
+        'uuid_features_file_path' => 'public://Latvia-currency_0.jpg',
       ),
     ),
   ),
@@ -733,7 +659,7 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
         'rdf_mapping' => array(),
         'display' => 1,
         'description' => '',
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/Westminster-20130918-00335_0.jpg',
+        'uuid_features_file_path' => 'public://Westminster-20130918-00335_0.jpg',
       ),
     ),
   ),
@@ -813,349 +739,78 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'Jautrība Sit Augstu Vilni Dvīņu Pilsētā',
+  'title' => 'Akadēmiskā Kopa',
   'log' => '',
   'status' => 1,
   'comment' => 1,
-  'promote' => 1,
+  'promote' => 0,
   'sticky' => 0,
-  'vuuid' => '1473676f-8abb-4a2f-aec3-43b9ada32f68',
-  'type' => 'gallery_four',
+  'vuuid' => '9445b5be-4c08-4a42-87fd-c91d91310dc6',
+  'type' => 'ds_service',
   'language' => 'und',
-  'created' => 1386044573,
+  'created' => 1407244695,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => '3180b19d-7822-4669-a398-7775bc3a5a75',
+  'uuid' => '32839f46-f790-4f50-b738-a911604454af',
   'revision_uid' => 1,
-  'field_description' => array(
+  'body' => array(
     'und' => array(
       0 => array(
-        'value' => '<span class="colored">Raibais Vakars:</span>  Jautrība Sit Augstu Vilni Dvīņu Pilsētā',
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
+        'summary' => '',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+',
+        'safe_summary' => '',
+      ),
+    ),
+  ),
+  'field_ds_service_featured_img' => array(
+    'und' => array(
+      0 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'admin_2.png',
+        'uri' => 'public://designssquare_com/widget/service/admin_2.png',
+        'filemime' => 'image/png',
+        'filesize' => 2628,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'b3123030-f655-46f6-ba8c-ac76180af218',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 50,
+        'height' => 50,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/admin_2.png',
+      ),
+    ),
+  ),
+  'field_ds_service_summary' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum ma',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum ma</p>
+',
+      ),
+    ),
+  ),
+  'field_page_information' => array(
+    'und' => array(
+      0 => array(
+        'value' => ': mazs ievads par organizāciju nāk šeit',
         'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;Raibais Vakars:&lt;/span&gt;  Jautrība Sit Augstu Vilni Dvīņu Pilsētā',
-      ),
-    ),
-  ),
-  'field_featured_photo' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020113.JPG',
-        'uri' => 'public://gallery/P1020113_0.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 135747,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'fdeaf6cf-2443-43e6-98e2-5e00736126d0',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020113_0.JPG',
-      ),
-    ),
-  ),
-  'field_gallery_introduction' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Šeit nāk mazs apraksts par foto galeriju',
-        'format' => NULL,
-        'safe_value' => 'Šeit nāk mazs apraksts par foto galeriju',
-      ),
-    ),
-  ),
-  'field_photo' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020095.JPG',
-        'uri' => 'public://gallery/P1020095.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 164717,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'abb83cab-d587-4219-be45-c5f956c4bfa1',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020095.JPG',
-      ),
-      1 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020096.JPG',
-        'uri' => 'public://gallery/P1020096.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 216073,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '7af71bea-e6a8-4095-b462-b10bd5bed150',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020096.JPG',
-      ),
-      2 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020102.JPG',
-        'uri' => 'public://gallery/P1020102.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 202479,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'e057f326-64a9-4099-8bc3-d4604765d584',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020102.JPG',
-      ),
-      3 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020103.JPG',
-        'uri' => 'public://gallery/P1020103.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 155509,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '232467ba-fd96-41c1-898e-1ecd398507e6',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020103.JPG',
-      ),
-      4 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020104.JPG',
-        'uri' => 'public://gallery/P1020104.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 156178,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '5a1f3418-06d2-4ccd-9ed6-220f26049515',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020104.JPG',
-      ),
-      5 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020105.JPG',
-        'uri' => 'public://gallery/P1020105.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 182215,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '3a57c165-f2a2-4965-ac55-dd8f265ad018',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020105.JPG',
-      ),
-      6 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020109.JPG',
-        'uri' => 'public://gallery/P1020109_0.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 188843,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'ceb93fca-ed4b-460d-b35c-1890b73888c9',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020109_0.JPG',
-      ),
-      7 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020112.JPG',
-        'uri' => 'public://gallery/P1020112.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 170680,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'bef575ae-4118-4099-81da-b518977f5f93',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020112.JPG',
-      ),
-      8 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020113.JPG',
-        'uri' => 'public://gallery/P1020113.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 135747,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '78d0f5e5-41bf-4f48-85d1-22292c32e061',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020113.JPG',
-      ),
-      9 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020114.JPG',
-        'uri' => 'public://gallery/P1020114.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 190923,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '432de634-7e99-4105-8ea5-62f8e94c33d3',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020114.JPG',
-      ),
-      10 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020116.JPG',
-        'uri' => 'public://gallery/P1020116_0.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 188945,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '4f1d7bb7-d674-43e7-b487-1bd00e17dc68',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020116_0.JPG',
-      ),
-      11 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020121.JPG',
-        'uri' => 'public://gallery/P1020121.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 200447,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '40d45c5f-ab1f-4cde-90f5-7a0e9a494038',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020121.JPG',
-      ),
-      12 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020132-rotated2.jpg',
-        'uri' => 'public://gallery/P1020132-rotated2.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 262562,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'c1c4aca1-c567-4f71-be44-0f92aeeb6f09',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 768,
-        'height' => 1024,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020132-rotated2.jpg',
-      ),
-      13 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020131-rotated2.jpg',
-        'uri' => 'public://gallery/P1020131-rotated2.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 254023,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '995a5459-0824-40c9-babe-b6bd69ca4c55',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 768,
-        'height' => 1024,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020131-rotated2.jpg',
-      ),
-      14 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020134-rotated2.jpg',
-        'uri' => 'public://gallery/P1020134-rotated2.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 220909,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'b2d13a14-808d-4f7b-a3c9-77351a785b6a',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 768,
-        'height' => 1024,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020134-rotated2.jpg',
-      ),
-      15 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020135-rotated2.jpg',
-        'uri' => 'public://gallery/P1020135-rotated2.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 177212,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '4f973a53-1138-43a9-8ba9-058b65946885',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 768,
-        'height' => 1024,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020135-rotated2.jpg',
-      ),
-      16 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020139.JPG',
-        'uri' => 'public://gallery/P1020139.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 217918,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '5bf74f31-edf4-441e-afa5-3a28d1f402ec',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020139.JPG',
+        'safe_value' => ': mazs ievads par organizāciju nāk šeit',
       ),
     ),
   ),
@@ -1221,184 +876,63 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-12-03 04:22:53 +0000',
-  'alias_url' => 'content/jautrība-sit-augstu-vilni-dvīņu-pilsētā',
+  'date' => '2014-08-05 13:18:15 +0000',
+  'alias_url' => 'content/akadēmiskā-kopa-0',
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'Jaunie un Stiprie Nevēlas Atpalikt',
+  'title' => 'LOAM',
   'log' => '',
   'status' => 1,
   'comment' => 1,
-  'promote' => 1,
+  'promote' => 0,
   'sticky' => 0,
-  'vuuid' => 'df6e1c4c-4855-498b-b5c1-05811241dbd7',
-  'type' => 'gallery_two',
+  'vuuid' => '07563426-94f3-49bc-b68e-19b9a1fd547c',
+  'type' => 'ds_service_index',
   'language' => 'und',
-  'created' => 1386042065,
+  'created' => 1407246243,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => '33fda0d4-9ba3-43f0-ad1c-a0ce46c0737e',
+  'uuid' => '3420e3c9-bddd-43ef-98b0-c5559a1f3a5d',
   'revision_uid' => 1,
-  'field_description' => array(
+  'body' => array(
     'und' => array(
       0 => array(
-        'value' => '<span class="colored">Raibais Vakars:</span> Jaunie un Stiprie Nevēlas Atpalikt',
+        'value' => '<div class="row ">
+<div class="span8">
+<h3>What We Do</h3>
+<img align="left" alt="Builder - Amazing Drupal Theme" height="120" src="/sites/default/files/designssquare_com_theme_builder/images/services-1.jpg" style="margin-right:10px" width="200" />
+<p><strong>Donec rutrum</strong> erat non arcu gravida porttitor. Nunc et magna nisi.Aliquam at erat in purus aliquet mollis. Fusce elementum velit vel dolor iaculis egestas.</p>
+
+<p>Maecenas ut nulla quis eros scelerisque posuere vel vitae nibh. Proin id condimentum sem.</p>
+
+<p><em>Morbi vitae dui in magna vestibulum suscipit vitae vel nunc.</em></p>
+</div>
+</div>
+<hr>
+',
+        'summary' => '',
+        'format' => 'full_html',
+        'safe_value' => '<div class="row ">
+<div class="span8">
+<h3>What We Do</h3>
+<p><img align="left" alt="Builder - Amazing Drupal Theme" height="120" src="/sites/default/files/designssquare_com_theme_builder/images/services-1.jpg" style="margin-right:10px" width="200" /></p>
+<p><strong>Donec rutrum</strong> erat non arcu gravida porttitor. Nunc et magna nisi.Aliquam at erat in purus aliquet mollis. Fusce elementum velit vel dolor iaculis egestas.</p>
+<p>Maecenas ut nulla quis eros scelerisque posuere vel vitae nibh. Proin id condimentum sem.</p>
+<p><em>Morbi vitae dui in magna vestibulum suscipit vitae vel nunc.</em></p>
+</div>
+</div>
+<hr />',
+        'safe_summary' => '',
+      ),
+    ),
+  ),
+  'field_page_information' => array(
+    'und' => array(
+      0 => array(
+        'value' => ' : LATVIEŠU ORGANIZĀCIJU APVIENIBA MINESOTĀ',
         'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;Raibais Vakars:&lt;/span&gt; Jaunie un Stiprie Nevēlas Atpalikt',
-      ),
-    ),
-  ),
-  'field_featured_photo' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020100.JPG',
-        'uri' => 'public://gallery/P1020100_0.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 245645,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '9f764f5e-6d1c-4d6f-859c-e5725f5611e3',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020100_0.JPG',
-      ),
-    ),
-  ),
-  'field_gallery_introduction' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Mazs ievads par šo foto galerija nāk šeit',
-        'format' => NULL,
-        'safe_value' => 'Mazs ievads par šo foto galerija nāk šeit',
-      ),
-    ),
-  ),
-  'field_photo' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020089.JPG',
-        'uri' => 'public://gallery/P1020089.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 221549,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'fc079a4c-4342-4b2c-bc46-1a31dc96b196',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020089.JPG',
-      ),
-      1 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020090.JPG',
-        'uri' => 'public://gallery/P1020090.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 204232,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'eff305af-3299-495c-a704-22bbd1e58e62',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020090.JPG',
-      ),
-      2 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020099.JPG',
-        'uri' => 'public://gallery/P1020099.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 235977,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '6cdc9480-3cfa-43bc-9a24-458bc7e08178',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020099.JPG',
-      ),
-      3 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020100.JPG',
-        'uri' => 'public://gallery/P1020100.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 245645,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '60d819ba-0e44-4710-a2ec-67c42af7b5a4',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020100.JPG',
-      ),
-      4 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020101.JPG',
-        'uri' => 'public://gallery/P1020101.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 236939,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '044c89d2-a725-481e-86e9-711b9e982bb9',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020101.JPG',
-      ),
-      5 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020106.JPG',
-        'uri' => 'public://gallery/P1020106.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 160492,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '9907e70f-9515-4d20-b44e-afedf99b05a1',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020106.JPG',
-      ),
-      6 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020108.JPG',
-        'uri' => 'public://gallery/P1020108.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 152693,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '0a865f43-80b9-4bce-96d7-278a6d1e2ca8',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020108.JPG',
+        'safe_value' => ' : LATVIEŠU ORGANIZĀCIJU APVIENIBA MINESOTĀ',
       ),
     ),
   ),
@@ -1464,269 +998,83 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-12-03 03:41:05 +0000',
-  'alias_url' => 'content/jaunie-un-stiprie-nevēlas-atpalikt',
+  'date' => '2014-08-05 13:44:03 +0000',
+  'alias_url' => 'latviešu-organizācijas-apvienība-minesotā-visas-organizācijas',
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'Latvieši atpūšās Dvīņu Pilsētā',
+  'title' => 'MKGPF',
   'log' => '',
   'status' => 1,
   'comment' => 1,
-  'promote' => 1,
+  'promote' => 0,
   'sticky' => 0,
-  'vuuid' => '3b991586-aaad-41c9-b55c-e97ef278f3fb',
-  'type' => 'gallery_two',
+  'vuuid' => '2b3ca016-59a8-4284-8866-2d43a8fd08a9',
+  'type' => 'ds_service',
   'language' => 'und',
-  'created' => 1387258296,
+  'created' => 1407244406,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => '34dfd79b-fc5d-4fef-88e9-0f8a42167ccd',
+  'uuid' => '357dcbb4-2ac1-4bbc-8656-55ad3085c059',
   'revision_uid' => 1,
-  'field_description' => array(
+  'body' => array(
     'und' => array(
       0 => array(
-        'value' => '<span class="colored">Raibais Vakars:</span> Latvieši Atpūšās Dvīņu Pilsētā',
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
+        'summary' => '',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+',
+        'safe_summary' => '',
+      ),
+    ),
+  ),
+  'field_ds_service_featured_img' => array(
+    'und' => array(
+      0 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'admin_3.png',
+        'uri' => 'public://designssquare_com/widget/service/admin_3_1.png',
+        'filemime' => 'image/png',
+        'filesize' => 2628,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '80ea1c64-9d65-4211-9ffe-4a5634b2a613',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 50,
+        'height' => 50,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/admin_3_1.png',
+      ),
+    ),
+  ),
+  'field_ds_service_summary' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamu',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamu</p>
+',
+      ),
+    ),
+  ),
+  'field_page_information' => array(
+    'und' => array(
+      0 => array(
+        'value' => ': Mazs ievads par organizāciju',
         'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;Raibais Vakars:&lt;/span&gt; Latvieši Atpūšās Dvīņu Pilsētā',
-      ),
-    ),
-  ),
-  'field_featured_photo' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020079.JPG',
-        'uri' => 'public://gallery/P1020079_0.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 175846,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '7884328b-ff87-416c-ad34-f34b31bf0c92',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020079_0.JPG',
-      ),
-    ),
-  ),
-  'field_gallery_introduction' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Te nāk mazs apraksts par foto galeriju un notikumiem',
-        'format' => NULL,
-        'safe_value' => 'Te nāk mazs apraksts par foto galeriju un notikumiem',
-      ),
-    ),
-  ),
-  'field_photo' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020079.JPG',
-        'uri' => 'public://gallery/P1020079.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 175846,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'ac052299-55e0-4a97-a8c4-17e2c0a42dcc',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020079.JPG',
-      ),
-      1 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020082.JPG',
-        'uri' => 'public://gallery/P1020082.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 181885,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'bc16cb5e-ae7a-4e94-9a5f-571a1fa0c720',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020082.JPG',
-      ),
-      2 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020083.JPG',
-        'uri' => 'public://gallery/P1020083.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 200694,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '76a8ba3e-0bf9-48b0-aa5c-9fdfbe31d8e3',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020083.JPG',
-      ),
-      3 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020084.JPG',
-        'uri' => 'public://gallery/P1020084.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 176432,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '404707de-4840-485d-b55b-b6b8cb535baf',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020084.JPG',
-      ),
-      4 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020085.JPG',
-        'uri' => 'public://gallery/P1020085.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 177027,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '5e4d87fc-e14e-44e0-a3d1-116552ea579f',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020085.JPG',
-      ),
-      5 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020087.JPG',
-        'uri' => 'public://gallery/P1020087.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 207883,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '76c34b91-db4a-49bd-9712-30b8ee55926d',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020087.JPG',
-      ),
-      6 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020118.JPG',
-        'uri' => 'public://gallery/P1020118_0.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 229344,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '7a6c9c1e-4729-41f3-b655-2fd2d120651c',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020118_0.JPG',
-      ),
-      7 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020123.JPG',
-        'uri' => 'public://gallery/P1020123.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 222264,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '8339533b-3225-4c5b-ad44-dc356c755080',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020123.JPG',
-      ),
-      8 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020141-rotated2.jpg',
-        'uri' => 'public://gallery/P1020141-rotated2.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 238040,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'fba04b8c-9055-4208-98ae-b61761ef2dd7',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 768,
-        'height' => 1024,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020141-rotated2.jpg',
-      ),
-      9 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020145.JPG',
-        'uri' => 'public://gallery/P1020145.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 245225,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '8adf2461-1421-4e64-b357-71de726250b4',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020145.JPG',
-      ),
-      10 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020147.JPG',
-        'uri' => 'public://gallery/P1020147.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 213412,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'f10327bf-e635-43f9-8343-859d18766e7c',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020147.JPG',
-      ),
-      11 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020150-rotated2.jpg',
-        'uri' => 'public://gallery/P1020150-rotated2.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 236079,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'c196443a-6a00-43c1-adff-f7b26ed249f0',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 768,
-        'height' => 1024,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020150-rotated2.jpg',
+        'safe_value' => ': Mazs ievads par organizāciju',
       ),
     ),
   ),
@@ -1792,8 +1140,8 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-12-17 05:31:36 +0000',
-  'alias_url' => 'content/latvieši-atpūšās-dvīņu-pilsētā',
+  'date' => '2014-08-05 13:13:26 +0000',
+  'alias_url' => 'content/mkgpf-0',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -1848,11 +1196,11 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
         'timestamp' => NULL,
         'uuid' => '901a570b-aa8f-4fc9-a491-48a23b2bf2d4',
         'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
+        'alt' => NULL,
+        'title' => NULL,
         'width' => 1920,
         'height' => 450,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/retro_stripe_bg_1.png',
+        'uuid_features_file_path' => 'public://slider/revolution/main-img/retro_stripe_bg_1.png',
       ),
     ),
   ),
@@ -2100,6 +1448,238 @@ ARTICLE source <a href="http://latviansonline.com/blogs/article/8637/" target="_
 );
   $nodes[] = array(
   'uid' => 1,
+  'title' => 'SELGA',
+  'log' => '',
+  'status' => 1,
+  'comment' => 1,
+  'promote' => 0,
+  'sticky' => 0,
+  'vuuid' => 'ee35d853-4014-44dd-87e1-9c931a7077bb',
+  'type' => 'ds_service',
+  'language' => 'und',
+  'created' => 1407244243,
+  'tnid' => 0,
+  'translate' => 0,
+  'uuid' => '3989fd7e-2f6e-428e-bee2-94bee8cb11b6',
+  'revision_uid' => 1,
+  'body' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
+        'summary' => '',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+',
+        'safe_summary' => '',
+      ),
+    ),
+  ),
+  'field_ds_service_featured_img' => array(
+    'und' => array(
+      0 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'admin_4.png',
+        'uri' => 'public://designssquare_com/widget/service/admin_4_0.png',
+        'filemime' => 'image/png',
+        'filesize' => 2628,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '879fff4d-c2ed-46d7-a069-a3e24e6a3abb',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 50,
+        'height' => 50,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/admin_4_0.png',
+      ),
+    ),
+  ),
+  'field_ds_service_summary' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus</p>
+',
+      ),
+    ),
+  ),
+  'field_page_information' => array(
+    'und' => array(
+      0 => array(
+        'value' => ': Mazliet par organizaciju nāk šeit',
+        'format' => NULL,
+        'safe_value' => ': Mazliet par organizaciju nāk šeit',
+      ),
+    ),
+  ),
+  'rdf_mapping' => array(
+    'rdftype' => array(
+      0 => 'sioc:Item',
+      1 => 'foaf:Document',
+    ),
+    'title' => array(
+      'predicates' => array(
+        0 => 'dc:title',
+      ),
+    ),
+    'created' => array(
+      'predicates' => array(
+        0 => 'dc:date',
+        1 => 'dc:created',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'changed' => array(
+      'predicates' => array(
+        0 => 'dc:modified',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'body' => array(
+      'predicates' => array(
+        0 => 'content:encoded',
+      ),
+    ),
+    'uid' => array(
+      'predicates' => array(
+        0 => 'sioc:has_creator',
+      ),
+      'type' => 'rel',
+    ),
+    'name' => array(
+      'predicates' => array(
+        0 => 'foaf:name',
+      ),
+    ),
+    'comment_count' => array(
+      'predicates' => array(
+        0 => 'sioc:num_replies',
+      ),
+      'datatype' => 'xsd:integer',
+    ),
+    'last_activity' => array(
+      'predicates' => array(
+        0 => 'sioc:last_activity_date',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+  ),
+  'cid' => 0,
+  'last_comment_name' => NULL,
+  'last_comment_uid' => 1,
+  'comment_count' => 0,
+  'name' => 'admin',
+  'picture' => 0,
+  'data' => 'b:0;',
+  'date' => '2014-08-05 13:10:43 +0000',
+  'alias_url' => 'content/selga-0',
+);
+  $nodes[] = array(
+  'uid' => 1,
+  'title' => 'LOAM Foto Galerijas',
+  'log' => '',
+  'status' => 1,
+  'comment' => 1,
+  'promote' => 0,
+  'sticky' => 0,
+  'vuuid' => '2e9d105a-5b01-43e3-8f4d-bc11d0c9d15e',
+  'type' => 'ds_gallery_index',
+  'language' => 'und',
+  'created' => 1407279608,
+  'tnid' => 0,
+  'translate' => 0,
+  'uuid' => '3e46f7f2-a278-4d0c-9c6f-6ed2c6e4c703',
+  'revision_uid' => 1,
+  'field_ds_gallery_page_intro' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Bildes šādas un tādas',
+        'format' => NULL,
+        'safe_value' => 'Bildes šādas un tādas',
+      ),
+    ),
+  ),
+  'rdf_mapping' => array(
+    'rdftype' => array(
+      0 => 'sioc:Item',
+      1 => 'foaf:Document',
+    ),
+    'title' => array(
+      'predicates' => array(
+        0 => 'dc:title',
+      ),
+    ),
+    'created' => array(
+      'predicates' => array(
+        0 => 'dc:date',
+        1 => 'dc:created',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'changed' => array(
+      'predicates' => array(
+        0 => 'dc:modified',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'body' => array(
+      'predicates' => array(
+        0 => 'content:encoded',
+      ),
+    ),
+    'uid' => array(
+      'predicates' => array(
+        0 => 'sioc:has_creator',
+      ),
+      'type' => 'rel',
+    ),
+    'name' => array(
+      'predicates' => array(
+        0 => 'foaf:name',
+      ),
+    ),
+    'comment_count' => array(
+      'predicates' => array(
+        0 => 'sioc:num_replies',
+      ),
+      'datatype' => 'xsd:integer',
+    ),
+    'last_activity' => array(
+      'predicates' => array(
+        0 => 'sioc:last_activity_date',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+  ),
+  'cid' => 0,
+  'last_comment_name' => NULL,
+  'last_comment_uid' => 1,
+  'comment_count' => 0,
+  'name' => 'admin',
+  'picture' => 0,
+  'data' => 'b:0;',
+  'date' => '2014-08-05 23:00:08 +0000',
+  'alias_url' => 'latviešu-organizācijas-apvienība-minesotā-foto-galerijas',
+);
+  $nodes[] = array(
+  'uid' => 1,
   'title' => 'Moving to Latvia, so what’s it like?',
   'log' => '',
   'status' => 1,
@@ -2159,11 +1739,11 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
         'timestamp' => NULL,
         'uuid' => '68a849fc-5e71-4c83-800d-82be8502e949',
         'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
+        'alt' => NULL,
+        'title' => NULL,
         'width' => 880,
         'height' => 461,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/dziemas_svetki.jpg',
+        'uuid_features_file_path' => 'public://blog/dziemas_svetki.jpg',
       ),
     ),
   ),
@@ -2186,6 +1766,7 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
   ),
   'field_video_file' => array(),
   'field_video_id' => array(),
+  'field_sidebar_positioning' => array(),
   'rdf_mapping' => array(
     'rdftype' => array(
       0 => 'sioc:Post',
@@ -2253,6 +1834,229 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
 );
   $nodes[] = array(
   'uid' => 1,
+  'title' => 'Sākums',
+  'log' => '',
+  'status' => 1,
+  'comment' => 1,
+  'promote' => 1,
+  'sticky' => 0,
+  'vuuid' => '19407956-794b-4445-b0ce-ecaf5e321edb',
+  'type' => 'home_one',
+  'language' => 'und',
+  'created' => 1407353374,
+  'tnid' => 0,
+  'translate' => 0,
+  'uuid' => '4f87f2ac-8e4f-433e-98df-f7536bd9be1d',
+  'revision_uid' => 1,
+  'rdf_mapping' => array(
+    'rdftype' => array(
+      0 => 'sioc:Item',
+      1 => 'foaf:Document',
+    ),
+    'title' => array(
+      'predicates' => array(
+        0 => 'dc:title',
+      ),
+    ),
+    'created' => array(
+      'predicates' => array(
+        0 => 'dc:date',
+        1 => 'dc:created',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'changed' => array(
+      'predicates' => array(
+        0 => 'dc:modified',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'body' => array(
+      'predicates' => array(
+        0 => 'content:encoded',
+      ),
+    ),
+    'uid' => array(
+      'predicates' => array(
+        0 => 'sioc:has_creator',
+      ),
+      'type' => 'rel',
+    ),
+    'name' => array(
+      'predicates' => array(
+        0 => 'foaf:name',
+      ),
+    ),
+    'comment_count' => array(
+      'predicates' => array(
+        0 => 'sioc:num_replies',
+      ),
+      'datatype' => 'xsd:integer',
+    ),
+    'last_activity' => array(
+      'predicates' => array(
+        0 => 'sioc:last_activity_date',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+  ),
+  'cid' => 0,
+  'last_comment_name' => NULL,
+  'last_comment_uid' => 1,
+  'comment_count' => 0,
+  'name' => 'admin',
+  'picture' => 0,
+  'data' => 'b:0;',
+  'date' => '2014-08-06 19:29:34 +0000',
+  'alias_url' => 'sākums-latviesu-organizāciju-apvieniba-minesotā',
+);
+  $nodes[] = array(
+  'uid' => 1,
+  'title' => 'KKM',
+  'log' => '',
+  'status' => 1,
+  'comment' => 1,
+  'promote' => 0,
+  'sticky' => 0,
+  'vuuid' => 'f321f0f2-f232-4d9f-a4c6-0dbc6f440622',
+  'type' => 'ds_service',
+  'language' => 'und',
+  'created' => 1407244513,
+  'tnid' => 0,
+  'translate' => 0,
+  'uuid' => '51d1469a-84c4-4c4a-9bdb-6fe0cafe4d04',
+  'revision_uid' => 1,
+  'body' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
+        'summary' => '',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+',
+        'safe_summary' => '',
+      ),
+    ),
+  ),
+  'field_ds_service_featured_img' => array(
+    'und' => array(
+      0 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'admin_3.png',
+        'uri' => 'public://designssquare_com/widget/service/admin_3_2.png',
+        'filemime' => 'image/png',
+        'filesize' => 2628,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'ab08935b-ac05-4163-a9bc-3fad7f8a3777',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 50,
+        'height' => 50,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/admin_3_2.png',
+      ),
+    ),
+  ),
+  'field_ds_service_summary' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus</p>
+',
+      ),
+    ),
+  ),
+  'field_page_information' => array(
+    'und' => array(
+      0 => array(
+        'value' => ': Mazs ievads par organizāciju nāk šeit',
+        'format' => NULL,
+        'safe_value' => ': Mazs ievads par organizāciju nāk šeit',
+      ),
+    ),
+  ),
+  'rdf_mapping' => array(
+    'rdftype' => array(
+      0 => 'sioc:Item',
+      1 => 'foaf:Document',
+    ),
+    'title' => array(
+      'predicates' => array(
+        0 => 'dc:title',
+      ),
+    ),
+    'created' => array(
+      'predicates' => array(
+        0 => 'dc:date',
+        1 => 'dc:created',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'changed' => array(
+      'predicates' => array(
+        0 => 'dc:modified',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'body' => array(
+      'predicates' => array(
+        0 => 'content:encoded',
+      ),
+    ),
+    'uid' => array(
+      'predicates' => array(
+        0 => 'sioc:has_creator',
+      ),
+      'type' => 'rel',
+    ),
+    'name' => array(
+      'predicates' => array(
+        0 => 'foaf:name',
+      ),
+    ),
+    'comment_count' => array(
+      'predicates' => array(
+        0 => 'sioc:num_replies',
+      ),
+      'datatype' => 'xsd:integer',
+    ),
+    'last_activity' => array(
+      'predicates' => array(
+        0 => 'sioc:last_activity_date',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+  ),
+  'cid' => 0,
+  'last_comment_name' => NULL,
+  'last_comment_uid' => 1,
+  'comment_count' => 0,
+  'name' => 'admin',
+  'picture' => 0,
+  'data' => 'b:0;',
+  'date' => '2014-08-05 13:15:13 +0000',
+  'alias_url' => 'content/kkm-0',
+);
+  $nodes[] = array(
+  'uid' => 1,
   'title' => 'Slide - Dailes Teatris',
   'log' => '',
   'status' => 1,
@@ -2304,11 +2108,11 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
         'timestamp' => NULL,
         'uuid' => '56bfc36b-57ef-4a02-87b7-f83cf46ae7e3',
         'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
+        'alt' => NULL,
+        'title' => NULL,
         'width' => 1920,
         'height' => 450,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/retro_stripe_bg_0.png',
+        'uuid_features_file_path' => 'public://slider/revolution/main-img/retro_stripe_bg_0.png',
       ),
     ),
   ),
@@ -2525,678 +2329,78 @@ Read more at <a href="http://latviansonline.com/commentary/article/8658/">Latvia
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => '...Laiks Dejām',
+  'title' => 'Latviešu Skola',
   'log' => '',
   'status' => 1,
   'comment' => 1,
-  'promote' => 1,
-  'sticky' => 0,
-  'vuuid' => '8534b88b-16f1-4c86-a2b2-08a145d254bf',
-  'type' => 'gallery_three',
-  'language' => 'und',
-  'created' => 1386044026,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => '5c4032a6-9dcc-461d-a81d-e9380fbff430',
-  'revision_uid' => 1,
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span class="colored">Raibais Vakars:</span>...laiks dejām',
-        'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;Raibais Vakars:&lt;/span&gt;...laiks dejām',
-      ),
-    ),
-  ),
-  'field_featured_photo' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020127.JPG',
-        'uri' => 'public://gallery/P1020127_1.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 193116,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'cee9b6e9-00bd-436e-9f7f-72b3d9de6c9e',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020127_1.JPG',
-      ),
-    ),
-  ),
-  'field_gallery_introduction' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Te mazs apraksts par foto galeriju un notikumiem',
-        'format' => NULL,
-        'safe_value' => 'Te mazs apraksts par foto galeriju un notikumiem',
-      ),
-    ),
-  ),
-  'field_photo' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020124.JPG',
-        'uri' => 'public://gallery/P1020124_0.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 221260,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'a418271d-4df7-4788-b416-e97477c13a42',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020124_0.JPG',
-      ),
-      1 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020125.JPG',
-        'uri' => 'public://gallery/P1020125_0.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 200785,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '070d4811-011c-4cb2-a8ba-77d84b6ee93d',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020125_0.JPG',
-      ),
-      2 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020126.JPG',
-        'uri' => 'public://gallery/P1020126_0.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 226150,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '3ba1da08-7b7e-4dca-b7b4-59fcbc887ece',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020126_0.JPG',
-      ),
-      3 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020127.JPG',
-        'uri' => 'public://gallery/P1020127_0.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 193116,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'fe3ae01c-b419-460e-b215-83f11d4828df',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020127_0.JPG',
-      ),
-      4 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020128.JPG',
-        'uri' => 'public://gallery/P1020128_0.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 168384,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'bf360a13-ec59-4759-a05e-3c493b5ee307',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020128_0.JPG',
-      ),
-      5 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020129-rotated2.jpg',
-        'uri' => 'public://gallery/P1020129-rotated2.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 149679,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'f6c63ae1-598f-497a-b178-db532ae1f24f',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 768,
-        'height' => 1024,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020129-rotated2.jpg',
-      ),
-      6 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020130-rotated2.jpg',
-        'uri' => 'public://gallery/P1020130-rotated2.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 178072,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '165247d7-8a00-4522-8b58-7fb8144a7e29',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 768,
-        'height' => 1024,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020130-rotated2.jpg',
-      ),
-      7 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'P1020143.JPG',
-        'uri' => 'public://gallery/P1020143.JPG',
-        'filemime' => 'image/jpeg',
-        'filesize' => 218452,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '8ee32a7b-4d4c-40d1-9f4e-eb0b46aa4f00',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 1024,
-        'height' => 768,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/P1020143.JPG',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2013-12-03 04:13:46 +0000',
-  'alias_url' => 'content/laiks-dejām',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'Test Event',
-  'log' => '',
-  'status' => 1,
-  'comment' => 2,
   'promote' => 0,
   'sticky' => 0,
-  'vuuid' => 'ad0191a2-720d-4ed8-ad78-f125053ee3fa',
-  'type' => 'event',
+  'vuuid' => 'f9efb4e2-554c-4ff3-b37f-e416c97a5cbb',
+  'type' => 'ds_service',
   'language' => 'und',
-  'created' => 1399295983,
+  'created' => 1407243535,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => '5c44f9e0-da11-4275-814a-3dd9069767da',
+  'uuid' => '58b4b0d6-663e-4cf9-8fd9-70d07a6450ca',
   'revision_uid' => 1,
   'body' => array(
     'und' => array(
       0 => array(
-        'value' => 'some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here 
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
 
-some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here 
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
 
-some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here ',
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
         'summary' => '',
-        'format' => 'full_html',
-        'safe_value' => '<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
-<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
-<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
 ',
         'safe_summary' => '',
       ),
     ),
   ),
-  'field_event_date' => array(
-    'und' => array(
-      0 => array(
-        'value' => '2014-05-21T16:00:00',
-        'timezone' => 'UTC',
-        'timezone_db' => 'UTC',
-        'date_type' => 'date',
-        'db' => array(
-          'value' => array(
-            'granularity' => array(
-              0 => 'year',
-              1 => 'month',
-              2 => 'day',
-              3 => 'hour',
-              4 => 'minute',
-              5 => 'second',
-              6 => 'timezone',
-            ),
-            'errors' => array(),
-            '' . "\0" . 'DateObject' . "\0" . 'serializedTime' => '2014-05-21T16:00:00+00:00',
-            '' . "\0" . 'DateObject' . "\0" . 'serializedTimezone' => 'UTC',
-            'timeOnly' => FALSE,
-            'dateOnly' => FALSE,
-            'originalTime' => '2014-05-21T16:00:00+00:00',
-            'date' => '2014-05-21 16:00:00',
-            'timezone_type' => 3,
-            'timezone' => 'UTC',
-          ),
-          'value2' => array(
-            'granularity' => array(
-              0 => 'year',
-              1 => 'month',
-              2 => 'day',
-              3 => 'hour',
-              4 => 'minute',
-              5 => 'second',
-              6 => 'timezone',
-            ),
-            'errors' => array(),
-            '' . "\0" . 'DateObject' . "\0" . 'serializedTime' => '2014-05-21T16:00:00+00:00',
-            '' . "\0" . 'DateObject' . "\0" . 'serializedTimezone' => 'UTC',
-            'timeOnly' => FALSE,
-            'dateOnly' => FALSE,
-            'originalTime' => '2014-05-21T16:00:00+00:00',
-            'date' => '2014-05-21 16:00:00',
-            'timezone_type' => 3,
-            'timezone' => 'UTC',
-          ),
-        ),
-      ),
-    ),
-  ),
-  'field_event_location' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Backyard of Janis Ozols',
-        'format' => NULL,
-        'safe_value' => 'Backyard of Janis Ozols',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2014-05-05 13:19:43 +0000',
-  'alias_url' => 'content/test-event',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'Latviešu Skola',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 1,
-  'sticky' => 0,
-  'vuuid' => '76679345-ef70-43e6-bb90-b193a8b53134',
-  'type' => 'service',
-  'language' => 'und',
-  'created' => 1384880371,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => '691ff9a1-88b0-4981-a312-8bb3f2a253dd',
-  'revision_uid' => 1,
-  'field_service_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Latviešu skola tiekās šādās dienas un dara šo, notiek sarīkojumu, utt. Te seko mazs ievads par Latviešu skolu',
-        'format' => NULL,
-        'safe_value' => 'Latviešu skola tiekās šādās dienas un dara šo, notiek sarīkojumu, utt. Te seko mazs ievads par Latviešu skolu',
-      ),
-    ),
-  ),
-  'field_service_icon' => array(
+  'field_ds_service_featured_img' => array(
     'und' => array(
       0 => array(
         'fid' => NULL,
         'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_5.png',
-        'filemime' => 'image/png',
-        'filesize' => 2628,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '4e567f7b-c799-4d16-9a44-a67f95551960',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_5.png',
-      ),
-    ),
-  ),
-  'field_content_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://8_4.jpg',
+        'filename' => 'Latvia-currency.jpg',
+        'uri' => 'public://designssquare_com/widget/service/Latvia-currency.jpg',
         'filemime' => 'image/jpeg',
-        'filesize' => 11519,
+        'filesize' => 371034,
         'status' => 1,
         'timestamp' => NULL,
-        'uuid' => '6aacd6c5-aa14-4838-9ab2-ac34d83512b1',
+        'uuid' => 'fbd1e640-a993-4c87-b17f-afb421dc0742',
         'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8_4.jpg',
+        'alt' => '',
+        'title' => '',
+        'width' => 1808,
+        'height' => 1808,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/Latvia-currency.jpg',
       ),
     ),
   ),
-  'field_content_par' => array(
+  'field_ds_service_summary' => array(
     'und' => array(
       0 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-      ),
-      1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-      ),
-      2 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-      ),
-    ),
-  ),
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span class="colored">Latviešu Skola : </span>mazs apraksts par organizāciju nāk šeit',
-        'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;Latviešu Skola : &lt;/span&gt;mazs apraksts par organizāciju nāk šeit',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2013-11-19 16:59:31 +0000',
-  'alias_url' => 'content/latviešu-skola',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'Perkonītis',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 0,
-  'sticky' => 0,
-  'vuuid' => '567f8a83-d579-48be-a655-2a41c0efa8af',
-  'type' => 'service',
-  'language' => 'und',
-  'created' => 1387242964,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => '6bb608e8-4a78-4f62-b891-e5411772c863',
-  'revision_uid' => 1,
-  'field_service_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Perkonītis ir viena lieliska aizraujoša organizācija, kur jautrība sit augstu vilni. Te seko mazs ievads par organizāciju',
-        'format' => NULL,
-        'safe_value' => 'Perkonītis ir viena lieliska aizraujoša organizācija, kur jautrība sit augstu vilni. Te seko mazs ievads par organizāciju',
-      ),
-    ),
-  ),
-  'field_service_icon' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_7.png',
-        'filemime' => 'image/png',
-        'filesize' => 2628,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'acde902f-80c5-472a-a997-113c402e59d8',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_7.png',
-      ),
-    ),
-  ),
-  'field_content_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://8.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '21f7f0e9-5b83-4641-bf15-9e9b85c7baeb',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8.jpg',
-      ),
-    ),
-  ),
-  'field_content_par' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-      ),
-      1 => array(
-        'value' => 'Cu munere labore sit, deserunt necessitatibus per te. Habemus tibique eu pro, ei noluisse consectetuer usu. Brute tollit necessitatibus ne cum, an mei idque volumus epicuri. At sit habeo everti. Vim liber probatus adipisci no, honestatis philosophia eam ex. Doming nostrud accumsan mel eu.',
-        'format' => NULL,
-        'safe_value' => 'Cu munere labore sit, deserunt necessitatibus per te. Habemus tibique eu pro, ei noluisse consectetuer usu. Brute tollit necessitatibus ne cum, an mei idque volumus epicuri. At sit habeo everti. Vim liber probatus adipisci no, honestatis philosophia eam ex. Doming nostrud accumsan mel eu.',
-      ),
-      2 => array(
-        'value' => 'Mea legimus consectetuer definitionem ea, pro suas graeco inciderint et. An eos audiam insolens efficiantur, nullam percipit urbanitas pri te, diceret inermis voluptatibus ea mei. Cibo omnes timeam ne sea, mei brute omnes audiam ei, ut munere noster sed. Equidem ocurreret at mei, fierent inimicus nec ea. Per ea causae maiorum splendide, ne pri etiam simul euismod, utinam partiendo iudicabit at eos.
-',
-        'format' => NULL,
-        'safe_value' => 'Mea legimus consectetuer definitionem ea, pro suas graeco inciderint et. An eos audiam insolens efficiantur, nullam percipit urbanitas pri te, diceret inermis voluptatibus ea mei. Cibo omnes timeam ne sea, mei brute omnes audiam ei, ut munere noster sed. Equidem ocurreret at mei, fierent inimicus nec ea. Per ea causae maiorum splendide, ne pri etiam simul euismod, utinam partiendo iudicabit at eos.
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus</p>
 ',
       ),
     ),
   ),
-  'field_description' => array(
+  'field_page_information' => array(
     'und' => array(
       0 => array(
-        'value' => '<span class="colored"> Perkonītis : </span> Deju Kolektīvs ',
+        'value' => ':mazs ievads par organizāciju nāk šeit',
         'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt; Perkonītis : &lt;/span&gt; Deju Kolektīvs ',
+        'safe_value' => ':mazs ievads par organizāciju nāk šeit',
       ),
     ),
   ),
@@ -3262,8 +2466,8 @@ some event comes here some event comes here some event comes here some event com
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-12-17 01:16:04 +0000',
-  'alias_url' => 'content/perkonītis',
+  'date' => '2014-08-05 12:58:55 +0000',
+  'alias_url' => 'content/latviešu-skola-0',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -3323,6 +2527,7 @@ some event comes here some event comes here some event comes here some event com
       ),
     ),
   ),
+  'field_sidebar_positioning' => array(),
   'rdf_mapping' => array(
     'rdftype' => array(
       0 => 'sioc:Post',
@@ -3390,44 +2595,78 @@ some event comes here some event comes here some event comes here some event com
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'Dubultpilsonība',
+  'title' => 'MSP DRAUDZE ',
   'log' => '',
   'status' => 1,
-  'comment' => 1,
-  'promote' => 1,
+  'comment' => 2,
+  'promote' => 0,
   'sticky' => 0,
-  'vuuid' => '3aa8335c-f30e-4096-9b74-fab61d3ef330',
-  'type' => 'quote',
+  'vuuid' => '0872cba2-5a5d-476b-a309-85931b29242f',
+  'type' => 'ds_service',
   'language' => 'und',
-  'created' => 1385008957,
+  'created' => 1407196279,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => '712391e9-e9ab-47cf-821e-450f62a9a297',
+  'uuid' => '7e03ba71-e683-4dec-aa50-ad927bf2e635',
   'revision_uid' => 1,
-  'field_quote' => array(
+  'body' => array(
     'und' => array(
       0 => array(
-        'value' => 'Latvijas valsts parlaments izmaina pilsonības likumu un tagad ir iespējams saņemt dubult pilsonību. Lasi vairāk par šo un procesu, kā saņemt dubult pilsonību avīzes rakstā <a href="/dubultpisloniba" target="_blank">Latvian Dual Citizenship</a>',
-        'format' => NULL,
-        'safe_value' => 'Latvijas valsts parlaments izmaina pilsonības likumu un tagad ir iespējams saņemt dubult pilsonību. Lasi vairāk par šo un procesu, kā saņemt dubult pilsonību avīzes rakstā &lt;a href=&quot;/dubultpisloniba&quot; target=&quot;_blank&quot;&gt;Latvian Dual Citizenship&lt;/a&gt;',
+        'value' => 'psum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.
+
+psum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.
+
+
+psum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.
+
+',
+        'summary' => '',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>psum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.</p>
+<p>psum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.</p>
+<p>psum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.</p>
+',
+        'safe_summary' => '',
       ),
     ),
   ),
-  'field_quote_author' => array(
+  'field_ds_service_featured_img' => array(
     'und' => array(
       0 => array(
-        'value' => 'Jānis Ozols',
-        'format' => NULL,
-        'safe_value' => 'Jānis Ozols',
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'admin_6.png',
+        'uri' => 'public://designssquare_com/widget/service/admin_6.png',
+        'filemime' => 'image/png',
+        'filesize' => 2628,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'd51806af-b773-4c56-b494-51adb2459962',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 50,
+        'height' => 50,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/admin_6.png',
       ),
     ),
   ),
-  'field_quote_author_position' => array(
+  'field_ds_service_summary' => array(
     'und' => array(
       0 => array(
-        'value' => 'LOAM valdes biedrs',
+        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nos',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nos</p>
+',
+      ),
+    ),
+  ),
+  'field_page_information' => array(
+    'und' => array(
+      0 => array(
+        'value' => ': MAZS IEVADS PAR ORGANIZĀCIJU NĀK ŠEIT',
         'format' => NULL,
-        'safe_value' => 'LOAM valdes biedrs',
+        'safe_value' => ': MAZS IEVADS PAR ORGANIZĀCIJU NĀK ŠEIT',
       ),
     ),
   ),
@@ -3493,200 +2732,8 @@ some event comes here some event comes here some event comes here some event com
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-11-21 04:42:37 +0000',
-  'alias_url' => 'content/dubultpilsonība',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'LOAM',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 1,
-  'sticky' => 0,
-  'vuuid' => '64a64ec0-0a56-4db7-91c3-ba88b3e419af',
-  'type' => 'service_page',
-  'language' => 'und',
-  'created' => 1387327369,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => '73a0c923-586f-4955-9a85-99f850a67683',
-  'revision_uid' => 1,
-  'field_about_service' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Latviešu Organizāciju Apvieniba Minesotā (LOAM) apvieno 14 latviešu organizācijas kopējam kultūras un labdarības darbam. LOAM ir bezpeļņas organizācija ar 501(3)c statusu un ir atbrīvota no nodokļiem.',
-        'format' => NULL,
-        'safe_value' => 'Latviešu Organizāciju Apvieniba Minesotā (LOAM) apvieno 14 latviešu organizācijas kopējam kultūras un labdarības darbam. LOAM ir bezpeļņas organizācija ar 501(3)c statusu un ir atbrīvota no nodokļiem.',
-      ),
-      1 => array(
-        'value' => 'LOAM darbības lokā ietilpst galvenokārt uzdevumi, ko nespēj vai nevēlas veikt atsevišķas latviešu organizācijas. Šajā sakaribā esam izvelējušies organizācijas mudi: "Darām to, kas darāms." Šeit pieskaitāma sadarbība ar IHRC (Immigration History Research Center), sarīkojumu kalendāra sastādīšana un izsludināšana presē, politiska darbība vietēja amerikāņu sabiedrībā un Latvijā, Minesotas latviešu adrešu/telefonu grāmatas uzturēšana, ceļojošu latviešu kultūras darbinieku koncertu/teatŗu izrāžu/lekciju sarīkošana, u.c.',
-        'format' => NULL,
-        'safe_value' => 'LOAM darbības lokā ietilpst galvenokārt uzdevumi, ko nespēj vai nevēlas veikt atsevišķas latviešu organizācijas. Šajā sakaribā esam izvelējušies organizācijas mudi: &quot;Darām to, kas darāms.&quot; Šeit pieskaitāma sadarbība ar IHRC (Immigration History Research Center), sarīkojumu kalendāra sastādīšana un izsludināšana presē, politiska darbība vietēja amerikāņu sabiedrībā un Latvijā, Minesotas latviešu adrešu/telefonu grāmatas uzturēšana, ceļojošu latviešu kultūras darbinieku koncertu/teatŗu izrāžu/lekciju sarīkošana, u.c.',
-      ),
-      2 => array(
-        'value' => '<em>LOAM atbalsta arī individuālo organizāciju sarīkojumus, ieskaitot 14. jūniju un 18. novembri, ko rīko īpaši sadarbojoties divām mūsu organizācijām.</em>',
-        'format' => NULL,
-        'safe_value' => '&lt;em&gt;LOAM atbalsta arī individuālo organizāciju sarīkojumus, ieskaitot 14. jūniju un 18. novembri, ko rīko īpaši sadarbojoties divām mūsu organizācijām.&lt;/em&gt;',
-      ),
-    ),
-  ),
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span class="colored">LOAM:</span>Latviešu Organizāciju Apvieniba Minesotā ',
-        'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;LOAM:&lt;/span&gt;Latviešu Organizāciju Apvieniba Minesotā ',
-      ),
-    ),
-  ),
-  'field_primary_service_photo' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '9.jpg',
-        'uri' => 'public://service/9.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '1e80e548-3aae-497e-859c-d4e502cda13d',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/9.jpg',
-      ),
-    ),
-  ),
-  'field_secondary_content' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<strong>LOAM vesture</strong> erat non arcu gravida porttitor. Nunc et magna nisi.Aliquam at erat in purus aliquet mollis',
-        'format' => NULL,
-        'safe_value' => '&lt;strong&gt;LOAM vesture&lt;/strong&gt; erat non arcu gravida porttitor. Nunc et magna nisi.Aliquam at erat in purus aliquet mollis',
-      ),
-      1 => array(
-        'value' => '<strong>Fusce elementum velit vel dolor iaculis egestas.</strong>
-',
-        'format' => NULL,
-        'safe_value' => '&lt;strong&gt;Fusce elementum velit vel dolor iaculis egestas.&lt;/strong&gt;
-',
-      ),
-      2 => array(
-        'value' => 'Maecenas ut nulla quis eros scelerisque posuere vel vitae nibh. Proin id condimentum sem. Morbi vitae dui in magna vestibulum suscipit vitae vel nunc
-',
-        'format' => NULL,
-        'safe_value' => 'Maecenas ut nulla quis eros scelerisque posuere vel vitae nibh. Proin id condimentum sem. Morbi vitae dui in magna vestibulum suscipit vitae vel nunc
-',
-      ),
-    ),
-  ),
-  'field_secondary_phote' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://service/8.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '8e18aead-0a10-4f70-a2ff-85ae52819cac',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8.jpg',
-      ),
-    ),
-  ),
-  'field_secondary_title' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'LOAM Vēsture',
-        'format' => NULL,
-        'safe_value' => 'LOAM Vēsture',
-      ),
-    ),
-  ),
-  'field_service_main_title' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Par LOAM',
-        'format' => NULL,
-        'safe_value' => 'Par LOAM',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2013-12-18 00:42:49 +0000',
-  'alias_url' => 'content/loam',
+  'date' => '2014-08-04 23:51:19 +0000',
+  'alias_url' => 'content/msp-draudze-0',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -3696,90 +2743,72 @@ some event comes here some event comes here some event comes here some event com
   'comment' => 1,
   'promote' => 0,
   'sticky' => 0,
-  'vuuid' => '417c6a89-ad25-463a-afa0-c8590d1cc617',
-  'type' => 'service',
+  'vuuid' => 'baceb20d-a555-48a7-99b9-98ab11f27dc5',
+  'type' => 'ds_service',
   'language' => 'und',
-  'created' => 1387242491,
+  'created' => 1407243950,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => '7c677a5f-cf9e-4825-b56c-9859ca245283',
+  'uuid' => '803aa6e1-f89f-4e4e-97e2-5666996de01d',
   'revision_uid' => 1,
-  'field_service_description' => array(
+  'body' => array(
     'und' => array(
       0 => array(
-        'value' => 'SP Latviešu katoļu draudze ir draudze, kas atrodas Saint Paulā. Te seko mazs apraksts par Sant Paulas Latviešu katoļu draudzi MN',
-        'format' => NULL,
-        'safe_value' => 'SP Latviešu katoļu draudze ir draudze, kas atrodas Saint Paulā. Te seko mazs apraksts par Sant Paulas Latviešu katoļu draudzi MN',
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
+        'summary' => '',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+',
+        'safe_summary' => '',
       ),
     ),
   ),
-  'field_service_icon' => array(
+  'field_ds_service_featured_img' => array(
     'und' => array(
       0 => array(
         'fid' => NULL,
         'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_10.png',
+        'filename' => 'latvian_symbol.png',
+        'uri' => 'public://designssquare_com/widget/service/latvian_symbol.png',
         'filemime' => 'image/png',
-        'filesize' => 2628,
+        'filesize' => 10960,
         'status' => 1,
         'timestamp' => NULL,
-        'uuid' => 'ffe2cef4-6d74-4ae5-ab97-0a34b3c02483',
+        'uuid' => '0d7364e5-49a5-4d4d-861a-226fb73c0eeb',
         'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_10.png',
+        'alt' => '',
+        'title' => '',
+        'width' => 532,
+        'height' => 270,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/latvian_symbol.png',
       ),
     ),
   ),
-  'field_content_image' => array(
+  'field_ds_service_summary' => array(
     'und' => array(
       0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://8_2.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '81d6d110-65c0-4cfb-91d3-2fdbc8e0bc74',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8_2.jpg',
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accus',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accus</p>
+',
       ),
     ),
   ),
-  'field_content_par' => array(
+  'field_page_information' => array(
     'und' => array(
       0 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
+        'value' => ':Mazliet par SP katoļu draudzi',
         'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-      ),
-      1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-      ),
-      2 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-      ),
-    ),
-  ),
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span class="colored">SP Latviešu katoļu draudze: </span>Mazliet par SP katoļu draudzi',
-        'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;SP Latviešu katoļu draudze: &lt;/span&gt;Mazliet par SP katoļu draudzi',
+        'safe_value' => ':Mazliet par SP katoļu draudzi',
       ),
     ),
   ),
@@ -3845,8 +2874,8 @@ some event comes here some event comes here some event comes here some event com
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-12-17 01:08:11 +0000',
-  'alias_url' => 'content/sp-latviešu-katoļu-draudze',
+  'date' => '2014-08-05 13:05:50 +0000',
+  'alias_url' => 'content/sp-latviešu-katoļu-draudze-0',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -4049,437 +3078,6 @@ some event comes here some event comes here some event comes here some event com
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'Sākums',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 1,
-  'sticky' => 0,
-  'vuuid' => '80216b42-bb7b-495b-856a-647fa16c85ca',
-  'type' => 'home_one',
-  'language' => 'und',
-  'created' => 1397361669,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => '905d6971-c509-47d6-a7ae-8efb72b958f2',
-  'revision_uid' => 1,
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2014-04-13 04:01:09 +0000',
-  'alias_url' => 'sākums-latviesu-organizāciju-apvieniba-minesotā',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'Teiksma',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 0,
-  'sticky' => 0,
-  'vuuid' => '1616cada-081d-46a4-adb2-ea048ea2988b',
-  'type' => 'service',
-  'language' => 'und',
-  'created' => 1387243033,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => '9116258e-504a-48e8-9ec9-92e7433d9bf4',
-  'revision_uid' => 1,
-  'field_service_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Teiksma ir organizācija, kas atbalsta šo un to. Te seko mazs ievads apr Teiksma organizāciju, par tās norisēm un citām lietām',
-        'format' => NULL,
-        'safe_value' => 'Teiksma ir organizācija, kas atbalsta šo un to. Te seko mazs ievads apr Teiksma organizāciju, par tās norisēm un citām lietām',
-      ),
-    ),
-  ),
-  'field_service_icon' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_6.png',
-        'filemime' => 'image/png',
-        'filesize' => 2628,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '8746e535-7a33-4361-bb77-a55d0e80d3c8',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_6.png',
-      ),
-    ),
-  ),
-  'field_content_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '7.jpg',
-        'uri' => 'public://7.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'ca6c1960-2387-4fc6-a837-f8dc19f45f27',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/7.jpg',
-      ),
-    ),
-  ),
-  'field_content_par' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-      ),
-      1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-      ),
-      2 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-      ),
-    ),
-  ),
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span class="colored">Teiksma : </span>mūzikas ansamblis',
-        'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;Teiksma : &lt;/span&gt;mūzikas ansamblis',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2013-12-17 01:17:13 +0000',
-  'alias_url' => 'content/teiksma',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'LOAM',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 1,
-  'sticky' => 0,
-  'vuuid' => '5c34c1b5-5f62-4185-aae4-1173698b9b90',
-  'type' => 'service_page',
-  'language' => 'und',
-  'created' => 1397349557,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => '91a5d3b6-5427-4004-ba4a-32cc6b35ffff',
-  'revision_uid' => 1,
-  'field_about_service' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Latviešu Organizāciju Apvieniba Minesotā (LOAM) apvieno 14 latviešu organizācijas kopējam kultūras un labdarības darbam. LOAM ir bezpeļņas organizācija ar 501(3)c statusu un ir atbrīvota no nodokļiem.',
-        'format' => NULL,
-        'safe_value' => 'Latviešu Organizāciju Apvieniba Minesotā (LOAM) apvieno 14 latviešu organizācijas kopējam kultūras un labdarības darbam. LOAM ir bezpeļņas organizācija ar 501(3)c statusu un ir atbrīvota no nodokļiem.',
-      ),
-      1 => array(
-        'value' => 'LOAM darbības lokā ietilpst galvenokārt uzdevumi, ko nespēj vai nevēlas veikt atsevišķas latviešu organizācijas. Šajā sakaribā esam izvelējušies organizācijas mudi: "Darām to, kas darāms." Šeit pieskaitāma sadarbība ar IHRC (Immigration History Research Center), sarīkojumu kalendāra sastādīšana un izsludināšana presē, politiska darbība vietēja amerikāņu sabiedrībā un Latvijā, Minesotas latviešu adrešu/telefonu grāmatas uzturēšana, ceļojošu latviešu kultūras darbinieku koncertu/teatŗu izrāžu/lekciju sarīkošana, u.c.',
-        'format' => NULL,
-        'safe_value' => 'LOAM darbības lokā ietilpst galvenokārt uzdevumi, ko nespēj vai nevēlas veikt atsevišķas latviešu organizācijas. Šajā sakaribā esam izvelējušies organizācijas mudi: &quot;Darām to, kas darāms.&quot; Šeit pieskaitāma sadarbība ar IHRC (Immigration History Research Center), sarīkojumu kalendāra sastādīšana un izsludināšana presē, politiska darbība vietēja amerikāņu sabiedrībā un Latvijā, Minesotas latviešu adrešu/telefonu grāmatas uzturēšana, ceļojošu latviešu kultūras darbinieku koncertu/teatŗu izrāžu/lekciju sarīkošana, u.c.',
-      ),
-      2 => array(
-        'value' => '<em>LOAM atbalsta arī individuālo organizāciju sarīkojumus, ieskaitot 14. jūniju un 18. novembri, ko rīko īpaši sadarbojoties divām mūsu organizācijām.</em>',
-        'format' => NULL,
-        'safe_value' => '&lt;em&gt;LOAM atbalsta arī individuālo organizāciju sarīkojumus, ieskaitot 14. jūniju un 18. novembri, ko rīko īpaši sadarbojoties divām mūsu organizācijām.&lt;/em&gt;',
-      ),
-    ),
-  ),
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span class="colored">LOAM:</span>Latviešu Organizāciju Apvieniba Minesotā ',
-        'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;LOAM:&lt;/span&gt;Latviešu Organizāciju Apvieniba Minesotā ',
-      ),
-    ),
-  ),
-  'field_primary_service_photo' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '9.jpg',
-        'uri' => 'public://service/9_0.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'c4cceb6b-fb74-4e3a-ae57-e64485719dd3',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/9_0.jpg',
-      ),
-    ),
-  ),
-  'field_secondary_content' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<strong>LOAM vesture</strong> erat non arcu gravida porttitor. Nunc et magna nisi.Aliquam at erat in purus aliquet mollis',
-        'format' => NULL,
-        'safe_value' => '&lt;strong&gt;LOAM vesture&lt;/strong&gt; erat non arcu gravida porttitor. Nunc et magna nisi.Aliquam at erat in purus aliquet mollis',
-      ),
-      1 => array(
-        'value' => '<strong>Fusce elementum velit vel dolor iaculis egestas.</strong>',
-        'format' => NULL,
-        'safe_value' => '&lt;strong&gt;Fusce elementum velit vel dolor iaculis egestas.&lt;/strong&gt;',
-      ),
-      2 => array(
-        'value' => 'Maecenas ut nulla quis eros scelerisque posuere vel vitae nibh. Proin id condimentum sem. Morbi vitae dui in magna vestibulum suscipit vitae vel nunc
-',
-        'format' => NULL,
-        'safe_value' => 'Maecenas ut nulla quis eros scelerisque posuere vel vitae nibh. Proin id condimentum sem. Morbi vitae dui in magna vestibulum suscipit vitae vel nunc
-',
-      ),
-    ),
-  ),
-  'field_secondary_phote' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://service/8_0.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '5d729393-529f-4fdd-b59d-1d2db974a1ac',
-        'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8_0.jpg',
-      ),
-    ),
-  ),
-  'field_secondary_title' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'LOAM Vēsture',
-        'format' => NULL,
-        'safe_value' => 'LOAM Vēsture',
-      ),
-    ),
-  ),
-  'field_service_main_title' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Par LOAM',
-        'format' => NULL,
-        'safe_value' => 'Par LOAM',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2014-04-13 00:39:17 +0000',
-  'alias_url' => 'latviesu-organizāciju-apvieniba-minesotā',
-);
-  $nodes[] = array(
-  'uid' => 1,
   'title' => 'Slide - Riga Eiropas Galvaspilsēta',
   'log' => '',
   'status' => 1,
@@ -4531,11 +3129,11 @@ some event comes here some event comes here some event comes here some event com
         'timestamp' => NULL,
         'uuid' => 'b7debe38-f893-4a83-859f-0f7c60bf2185',
         'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
+        'alt' => NULL,
+        'title' => NULL,
         'width' => 1920,
         'height' => 450,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/retro_stripe_bg_2.png',
+        'uuid_features_file_path' => 'public://slider/revolution/main-img/retro_stripe_bg_2.png',
       ),
     ),
   ),
@@ -4681,98 +3279,289 @@ some event comes here some event comes here some event comes here some event com
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'LK Sabiedrība',
+  'title' => 'RAIBAIS VAKARS:',
+  'log' => '',
+  'status' => 1,
+  'comment' => 2,
+  'promote' => 0,
+  'sticky' => 0,
+  'vuuid' => '688eb1f7-7edb-451b-a58e-1a3872824d1d',
+  'type' => 'ds_gallery',
+  'language' => 'und',
+  'created' => 1407270401,
+  'tnid' => 0,
+  'translate' => 0,
+  'uuid' => '9eefce42-1ac0-4e32-82c2-d73ac6110f90',
+  'revision_uid' => 1,
+  'body' => array(),
+  'field_ds_gallery_featured_img' => array(
+    'und' => array(
+      0 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020079.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020079.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 175846,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'a18b3c68-c8df-46ef-868a-c51810a2a5d5',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020079.JPG',
+      ),
+    ),
+  ),
+  'field_ds_gallery_images' => array(
+    'und' => array(
+      0 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020082.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020082.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 181885,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '575c155b-61e5-451c-be85-ebb20a4d150a',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020082.JPG',
+      ),
+      1 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020083.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020083.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 200694,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '049afa6a-3d0d-4a21-af0b-1378e7f150d0',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020083.JPG',
+      ),
+      2 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020084.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020084.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 176432,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'ad192716-644f-41ca-a0b0-7e2dd094241f',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020084.JPG',
+      ),
+      3 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020087.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020087.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 207883,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'ea9bfc77-873c-4129-b567-e7475ef4b653',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020087.JPG',
+      ),
+      4 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020089.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020089.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 221549,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '21509ff0-67ec-4611-8eb1-94ddf1f96327',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020089.JPG',
+      ),
+    ),
+  ),
+  'field_ds_gallery_summary' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'te mazs apraksts par šo foto galeriju par kādu notikumu,utt',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>te mazs apraksts par šo foto galeriju par kādu notikumu,utt</p>
+',
+      ),
+    ),
+  ),
+  'field_ds_gallery_page_intro' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Latvieši atpūšās Dvīņu Pilsētā',
+        'format' => NULL,
+        'safe_value' => 'Latvieši atpūšās Dvīņu Pilsētā',
+      ),
+    ),
+  ),
+  'rdf_mapping' => array(
+    'rdftype' => array(
+      0 => 'sioc:Item',
+      1 => 'foaf:Document',
+    ),
+    'title' => array(
+      'predicates' => array(
+        0 => 'dc:title',
+      ),
+    ),
+    'created' => array(
+      'predicates' => array(
+        0 => 'dc:date',
+        1 => 'dc:created',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'changed' => array(
+      'predicates' => array(
+        0 => 'dc:modified',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'body' => array(
+      'predicates' => array(
+        0 => 'content:encoded',
+      ),
+    ),
+    'uid' => array(
+      'predicates' => array(
+        0 => 'sioc:has_creator',
+      ),
+      'type' => 'rel',
+    ),
+    'name' => array(
+      'predicates' => array(
+        0 => 'foaf:name',
+      ),
+    ),
+    'comment_count' => array(
+      'predicates' => array(
+        0 => 'sioc:num_replies',
+      ),
+      'datatype' => 'xsd:integer',
+    ),
+    'last_activity' => array(
+      'predicates' => array(
+        0 => 'sioc:last_activity_date',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+  ),
+  'cid' => 0,
+  'last_comment_name' => NULL,
+  'last_comment_uid' => 1,
+  'comment_count' => 0,
+  'name' => 'admin',
+  'picture' => 0,
+  'data' => 'b:0;',
+  'date' => '2014-08-05 20:26:41 +0000',
+  'alias_url' => 'content/raibais-vakars',
+);
+  $nodes[] = array(
+  'uid' => 1,
+  'title' => 'Daugavas Vanagi',
   'log' => '',
   'status' => 1,
   'comment' => 1,
   'promote' => 0,
   'sticky' => 0,
-  'vuuid' => '7d9c2fc8-7ee2-4bd5-8a7d-db40cb691774',
-  'type' => 'service',
+  'vuuid' => 'ab7916fc-f906-49cb-b7c6-fd5b561ab251',
+  'type' => 'ds_service',
   'language' => 'und',
-  'created' => 1386005588,
+  'created' => 1407243160,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => '9710d352-8991-4253-84a0-df17a9cf4579',
+  'uuid' => 'b510c397-b90e-4f43-9834-c776bed37667',
   'revision_uid' => 1,
-  'field_service_description' => array(
+  'body' => array(
     'und' => array(
       0 => array(
-        'value' => 'LK Sabiedrība dara šo un to seko mazs ievads par organizāciju visas interesantās lietas un apraksts',
-        'format' => NULL,
-        'safe_value' => 'LK Sabiedrība dara šo un to seko mazs ievads par organizāciju visas interesantās lietas un apraksts',
+        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi.
+
+Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi
+
+Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi
+
+Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi',
+        'summary' => '',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi.</p>
+<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi</p>
+<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi</p>
+<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi</p>
+',
+        'safe_summary' => '',
       ),
     ),
   ),
-  'field_service_icon' => array(
+  'field_ds_service_featured_img' => array(
     'und' => array(
       0 => array(
         'fid' => NULL,
         'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin.png',
+        'filename' => 'admin_3.png',
+        'uri' => 'public://designssquare_com/widget/service/admin_3.png',
         'filemime' => 'image/png',
         'filesize' => 2628,
         'status' => 1,
         'timestamp' => NULL,
-        'uuid' => 'bfa99ea8-6a68-480e-afb4-5f6978364e47',
+        'uuid' => '249056eb-571f-44ea-af54-94b780b9c487',
         'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
+        'alt' => '',
+        'title' => '',
         'width' => 50,
         'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin.png',
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/admin_3.png',
       ),
     ),
   ),
-  'field_content_image' => array(
+  'field_ds_service_summary' => array(
     'und' => array(
       0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://8_5.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '707f2df0-7f30-47cd-8720-ad6f15d6b59c',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8_5.jpg',
-      ),
-    ),
-  ),
-  'field_content_par' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-      ),
-      1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.
-',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.
+        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi</p>
 ',
       ),
-      2 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-      ),
     ),
   ),
-  'field_description' => array(
+  'field_page_information' => array(
     'und' => array(
       0 => array(
-        'value' => '<span class="colored">LK Sabiedrība : </span>mazs ievads par organizāciju nāk šeit',
+        'value' => ':mazs ievads par organizāciju nāk šeit',
         'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;LK Sabiedrība : &lt;/span&gt;mazs ievads par organizāciju nāk šeit',
+        'safe_value' => ':mazs ievads par organizāciju nāk šeit',
       ),
     ),
   ),
@@ -4838,371 +3627,83 @@ some event comes here some event comes here some event comes here some event com
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-12-02 17:33:08 +0000',
-  'alias_url' => 'content/lk-sabiedrība',
+  'date' => '2014-08-05 12:52:40 +0000',
+  'alias_url' => 'content/daugavas-vanagi-0',
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'SELGA',
+  'title' => 'Perkonītis',
   'log' => '',
   'status' => 1,
   'comment' => 1,
   'promote' => 0,
   'sticky' => 0,
-  'vuuid' => '42eef227-8c86-4267-950c-111992c31733',
-  'type' => 'service',
+  'vuuid' => '521d0c63-8378-451d-a052-c14d6b9ce09b',
+  'type' => 'ds_service',
   'language' => 'und',
-  'created' => 1387242842,
+  'created' => 1407243635,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => '99e684d6-a3e6-4b60-96d0-393ad9627797',
+  'uuid' => 'b62d4b66-c47f-40d6-9e04-545d672607ce',
   'revision_uid' => 1,
-  'field_service_description' => array(
+  'body' => array(
     'und' => array(
       0 => array(
-        'value' => 'SELGA ir organizācija, kas dara šo un to. Te seko mazs ievads par organizāciju SELGA par tās norisēm un citām interesantām lietām',
-        'format' => NULL,
-        'safe_value' => 'SELGA ir organizācija, kas dara šo un to. Te seko mazs ievads par organizāciju SELGA par tās norisēm un citām interesantām lietām',
+        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
+
+Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
+
+Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
+
+Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
+        'summary' => '',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.</p>
+<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.</p>
+<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.</p>
+<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.</p>
+',
+        'safe_summary' => '',
       ),
     ),
   ),
-  'field_service_icon' => array(
+  'field_ds_service_featured_img' => array(
     'und' => array(
       0 => array(
         'fid' => NULL,
         'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_8.png',
+        'filename' => 'admin_3.png',
+        'uri' => 'public://designssquare_com/widget/service/admin_3_0.png',
         'filemime' => 'image/png',
         'filesize' => 2628,
         'status' => 1,
         'timestamp' => NULL,
-        'uuid' => '88bcaab8-c941-415c-bd7d-3774165dbecd',
+        'uuid' => 'cf53bbba-1846-4071-b347-a1f9e9bea3a1',
         'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
+        'alt' => '',
+        'title' => '',
         'width' => 50,
         'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_8.png',
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/admin_3_0.png',
       ),
     ),
   ),
-  'field_content_image' => array(
+  'field_ds_service_summary' => array(
     'und' => array(
       0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://8_0.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '2ebc7415-7c89-4a8e-97ac-1db5692cf357',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8_0.jpg',
-      ),
-    ),
-  ),
-  'field_content_par' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-      ),
-      1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-      ),
-      2 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-      ),
-    ),
-  ),
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span class="colored">SELGA:</span> Mazliet par organizaciju nāk šeit',
-        'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;SELGA:&lt;/span&gt; Mazliet par organizaciju nāk šeit',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2013-12-17 01:14:02 +0000',
-  'alias_url' => 'content/selga',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'Perkonītis Ziņojums',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 1,
-  'sticky' => 0,
-  'vuuid' => '5c9cf0c3-cf3a-4943-9bed-0c2df893f85f',
-  'type' => 'quote',
-  'language' => 'und',
-  'created' => 1385008818,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => '9a447246-f2a8-4caf-9b65-766496a3a894',
-  'revision_uid' => 1,
-  'field_quote' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Dejas kopa \'Perkonītis\' pirmais mēģinājums jaunajai sezonai ir 2014 g. 1 februārī pl. 6pm Latviešu baznīcā otrajā stāva telpās. Visi interesenti un dejas mīlētāji ir aicināti pievienoties. Mēs tiekamies vienu reizi nedēļā, lai sagatavotos priekšnesumiem Latviešu ASV dziesmasvētkiem 2014 gadā Los Angolas, kā arī vietējiem pasākumiem tādiem kā Festival of Nations vasarā. Par papildus informāciju, lūdzu sazinaties ar mani caur e-pastu <a href="mailto:perkonitis@loam.com"> perkonitis@loam.com</a> vai pa telefonu 651-333-3333',
-        'format' => NULL,
-        'safe_value' => 'Dejas kopa &#039;Perkonītis&#039; pirmais mēģinājums jaunajai sezonai ir 2014 g. 1 februārī pl. 6pm Latviešu baznīcā otrajā stāva telpās. Visi interesenti un dejas mīlētāji ir aicināti pievienoties. Mēs tiekamies vienu reizi nedēļā, lai sagatavotos priekšnesumiem Latviešu ASV dziesmasvētkiem 2014 gadā Los Angolas, kā arī vietējiem pasākumiem tādiem kā Festival of Nations vasarā. Par papildus informāciju, lūdzu sazinaties ar mani caur e-pastu &lt;a href=&quot;mailto:perkonitis@loam.com&quot;&gt; perkonitis@loam.com&lt;/a&gt; vai pa telefonu 651-333-3333',
-      ),
-    ),
-  ),
-  'field_quote_author' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Ieva Liepiņa',
-        'format' => NULL,
-        'safe_value' => 'Ieva Liepiņa',
-      ),
-    ),
-  ),
-  'field_quote_author_position' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Pērkonītis entuziaste',
-        'format' => NULL,
-        'safe_value' => 'Pērkonītis entuziaste',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2013-11-21 04:40:18 +0000',
-  'alias_url' => 'content/perkonītis-ziņojums',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'Latviešu Koncertapvienība MN',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 0,
-  'sticky' => 0,
-  'vuuid' => 'deb3d0ff-7791-4335-9982-a15206c8869b',
-  'type' => 'service',
-  'language' => 'und',
-  'created' => 1386005701,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => 'b304734b-78db-454a-a403-45351065678b',
-  'revision_uid' => 1,
-  'field_service_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Latviešu Koncertapvienība MN atbalsta šo un to seko mazs apraksts par organizāciju Latviešu Koncertapvienība MN',
-        'format' => NULL,
-        'safe_value' => 'Latviešu Koncertapvienība MN atbalsta šo un to seko mazs apraksts par organizāciju Latviešu Koncertapvienība MN',
-      ),
-    ),
-  ),
-  'field_service_icon' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_4.png',
-        'filemime' => 'image/png',
-        'filesize' => 2628,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '3adfcd23-81c9-4172-a13d-797ee2b37756',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_4.png',
-      ),
-    ),
-  ),
-  'field_content_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://8_6.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '037a5abd-020b-46dd-90cb-c4629fc5c4eb',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8_6.jpg',
-      ),
-    ),
-  ),
-  'field_content_par' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-      ),
-      1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.
-',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.
+        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium dispu',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium dispu</p>
 ',
       ),
-      2 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-      ),
     ),
   ),
-  'field_description' => array(
+  'field_page_information' => array(
     'und' => array(
       0 => array(
-        'value' => '<span class="colored">Latviešu Koncertapvienība MN : </span>mazs ievads par organizāciju nāk šeit',
+        'value' => ':Deju Kolektīvs ',
         'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;Latviešu Koncertapvienība MN : &lt;/span&gt;mazs ievads par organizāciju nāk šeit',
+        'safe_value' => ':Deju Kolektīvs ',
       ),
     ),
   ),
@@ -5268,8 +3769,8 @@ some event comes here some event comes here some event comes here some event com
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-12-02 17:35:01 +0000',
-  'alias_url' => 'content/latviešu-koncertapvienība-mn',
+  'date' => '2014-08-05 13:00:35 +0000',
+  'alias_url' => 'content/perkonītis-0',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -5298,9 +3799,9 @@ some event comes here some event comes here some event comes here some event com
   'field_description' => array(
     'und' => array(
       0 => array(
-        'value' => '<span class="colored">LOAM Avīze: </span>Viss par, ar <span class="colored">UN </span>ne tikai - tavs informācijas avots Minesotā',
+        'value' => ' Viss par, ar <span class="colored">UN </span>ne tikai - tavs informācijas avots Minesotā',
         'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;LOAM Avīze: &lt;/span&gt;Viss par, ar &lt;span class=&quot;colored&quot;&gt;UN &lt;/span&gt;ne tikai - tavs informācijas avots Minesotā',
+        'safe_value' => ' Viss par, ar &lt;span class=&quot;colored&quot;&gt;UN &lt;/span&gt;ne tikai - tavs informācijas avots Minesotā',
       ),
     ),
   ),
@@ -5623,6 +4124,7 @@ vērtīgo projektu. </p>
   ),
   'field_video_file' => array(),
   'field_video_id' => array(),
+  'field_sidebar_positioning' => array(),
   'rdf_mapping' => array(
     'rdftype' => array(
       0 => 'sioc:Post',
@@ -5749,11 +4251,11 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
         'timestamp' => NULL,
         'uuid' => 'f297ff71-fd43-4eb5-b293-f12e7048326d',
         'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
+        'alt' => NULL,
+        'title' => NULL,
         'width' => 880,
         'height' => 461,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/dual_citizenship.jpg',
+        'uuid_features_file_path' => 'public://blog/dual_citizenship.jpg',
       ),
     ),
   ),
@@ -5776,6 +4278,7 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   ),
   'field_video_file' => array(),
   'field_video_id' => array(),
+  'field_sidebar_positioning' => array(),
   'rdf_mapping' => array(
     'rdftype' => array(
       0 => 'sioc:Post',
@@ -5843,672 +4346,78 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'MKGPF',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 1,
-  'sticky' => 0,
-  'vuuid' => '6be73fa8-b4a5-4253-a6b2-322027ca0368',
-  'type' => 'service',
-  'language' => 'und',
-  'created' => 1384880332,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => 'c92e9bac-efc4-4661-bb9c-067f75c82cf9',
-  'revision_uid' => 1,
-  'field_service_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'MKGPF ir organizācija un dara šo un to. Te seko mazs ievads par MKGPF organizāciju un tās norisēm',
-        'format' => NULL,
-        'safe_value' => 'MKGPF ir organizācija un dara šo un to. Te seko mazs ievads par MKGPF organizāciju un tās norisēm',
-      ),
-    ),
-  ),
-  'field_service_icon' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'frame.png',
-        'uri' => 'public://frame.png',
-        'filemime' => 'image/png',
-        'filesize' => 1790,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '9f52f603-d0b7-4cae-a01d-3033e423ebb2',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/frame.png',
-      ),
-    ),
-  ),
-  'field_content_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://8_3.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '17ff3e64-0a49-47fa-88f2-ebbe3aef562b',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8_3.jpg',
-      ),
-    ),
-  ),
-  'field_content_par' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-      ),
-      1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-      ),
-      2 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
-',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
-',
-      ),
-    ),
-  ),
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span class="colored">MKGPF : </span>Mazs ievads par organizāciju',
-        'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;MKGPF : &lt;/span&gt;Mazs ievads par organizāciju',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2013-11-19 16:58:52 +0000',
-  'alias_url' => 'content/mkgpf',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'KKM',
+  'title' => 'Latviešu Koncertapvienība MN',
   'log' => '',
   'status' => 1,
   'comment' => 1,
   'promote' => 0,
   'sticky' => 0,
-  'vuuid' => '64fa7a9c-5f6a-4ec6-897c-549145182018',
-  'type' => 'service',
+  'vuuid' => 'ac214231-3aaf-48bd-82fb-7e35277b67b9',
+  'type' => 'ds_service',
   'language' => 'und',
-  'created' => 1386005648,
+  'created' => 1407244334,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => 'cde9248d-961f-45f8-8c17-985bc777396c',
+  'uuid' => 'c7e57765-04f7-4245-a9c4-0c89cfba5323',
   'revision_uid' => 1,
-  'field_service_description' => array(
+  'body' => array(
     'und' => array(
       0 => array(
-        'value' => 'KKM ir pilns vards seko ar mazu aprakstu par to ko KKM dara un nedara, utt.',
-        'format' => NULL,
-        'safe_value' => 'KKM ir pilns vards seko ar mazu aprakstu par to ko KKM dara un nedara, utt.',
+        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
+
+Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
+
+Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
+
+Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
+        'summary' => '',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.</p>
+<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.</p>
+<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.</p>
+<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.</p>
+',
+        'safe_summary' => '',
       ),
     ),
   ),
-  'field_service_icon' => array(
+  'field_ds_service_featured_img' => array(
     'und' => array(
       0 => array(
         'fid' => NULL,
         'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_3.png',
+        'filename' => 'admin_4.png',
+        'uri' => 'public://designssquare_com/widget/service/admin_4_1.png',
         'filemime' => 'image/png',
         'filesize' => 2628,
         'status' => 1,
         'timestamp' => NULL,
-        'uuid' => '21f5a962-0738-495f-bebb-62e42fd4c471',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_3.png',
-      ),
-    ),
-  ),
-  'field_content_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://8_7.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '703c0dcf-0bbd-4869-a562-8fc6fe4ac470',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8_7.jpg',
-      ),
-    ),
-  ),
-  'field_content_par' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-      ),
-      1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-      ),
-      2 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
-',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.
-',
-      ),
-    ),
-  ),
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span class="colored">KKM : </span>Mazs ievads par organizāciju nāk šeit',
-        'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;KKM : &lt;/span&gt;Mazs ievads par organizāciju nāk šeit',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2013-12-02 17:34:08 +0000',
-  'alias_url' => 'content/kkm',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'TARTS',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 0,
-  'sticky' => 0,
-  'vuuid' => 'cb5380d5-755a-4267-ab71-c01dd02a9937',
-  'type' => 'service',
-  'language' => 'und',
-  'created' => 1387242749,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => 'cfb691f1-8d35-41d0-a4bf-bcdc9ab2dbd8',
-  'revision_uid' => 1,
-  'field_service_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'TARTS ir organizācija dara šo un to. Te seko mazs ievads par organizāciju par tās notikumiem, varbūt vēsturi un citām lietām',
-        'format' => NULL,
-        'safe_value' => 'TARTS ir organizācija dara šo un to. Te seko mazs ievads par organizāciju par tās notikumiem, varbūt vēsturi un citām lietām',
-      ),
-    ),
-  ),
-  'field_service_icon' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_9.png',
-        'filemime' => 'image/png',
-        'filesize' => 2628,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '5b270ad8-97d2-4f7e-96ff-2bb1988c85f5',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_9.png',
-      ),
-    ),
-  ),
-  'field_content_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://8_1.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'b6727f19-a048-43df-9691-7b1de5382480',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8_1.jpg',
-      ),
-    ),
-  ),
-  'field_content_par' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-      ),
-      1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-      ),
-      2 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-      ),
-    ),
-  ),
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span class="colored">TARTS: </span>Mazliet par organizāciju nāk šeit',
-        'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;TARTS: &lt;/span&gt;Mazliet par organizāciju nāk šeit',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2013-12-17 01:12:29 +0000',
-  'alias_url' => 'content/tarts',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'Slide - Raibais Vakars Izdevās',
-  'log' => '',
-  'status' => 1,
-  'comment' => 1,
-  'promote' => 0,
-  'sticky' => 0,
-  'vuuid' => '0995c057-0d7d-481d-801b-d7238d6211b5',
-  'type' => 'ds_slide',
-  'language' => 'und',
-  'created' => 1399173491,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => 'd40bfcb0-d320-4faa-8d78-00d46a689fe9',
-  'revision_uid' => 1,
-  'field_data_delay' => array(),
-  'field_data_masterspeed' => array(
-    'und' => array(
-      0 => array(
-        'value' => 300,
-      ),
-    ),
-  ),
-  'field_data_slotamount' => array(
-    'und' => array(
-      0 => array(
-        'value' => 7,
-      ),
-    ),
-  ),
-  'field_data_transition' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'random',
-        'format' => NULL,
-        'safe_value' => 'random',
-      ),
-    ),
-  ),
-  'field_main_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'retro_stripe_bg.png',
-        'uri' => 'public://slider/revolution/main-img/retro_stripe_bg.png',
-        'filemime' => 'image/png',
-        'filesize' => 355236,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '7a7ff4db-6d41-42ab-bc5b-b03fda4b069b',
+        'uuid' => 'b4c12841-4472-4ca0-89ba-5176a07f8967',
         'rdf_mapping' => array(),
         'alt' => '',
         'title' => '',
-        'width' => 1920,
-        'height' => 450,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/retro_stripe_bg.png',
+        'width' => 50,
+        'height' => 50,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/admin_4_1.png',
       ),
     ),
   ),
-  'field_slider_layer' => array(
+  'field_ds_service_summary' => array(
     'und' => array(
       0 => array(
-        'class' => 'tp-caption lfl',
-        'x' => 100,
-        'y' => 0,
-        'speed' => 1000,
-        'start' => 1000,
-        'easing' => 'easeOutExpo',
-        'endspeed' => 0,
-        'text' => '',
-        'image' => array(
-          'fid' => 505,
-          'uid' => 1,
-          'filename' => 'sieviete_sarkana.JPG',
-          'uri' => 'public://slider/revolution/img/sieviete_sarkana.JPG',
-          'filemime' => 'image/jpeg',
-          'filesize' => 170680,
-          'status' => 1,
-          'timestamp' => 1399208155,
-          'uuid' => 'c9254902-cefd-4167-bf62-2691e6c1c2c6',
-          'rdf_mapping' => array(),
-        ),
-        'video' => 0,
-        'video_frame_width' => 0,
-        'video_frame_height' => 0,
-        'vimeo_id' => '',
-        'vimeo_frame_width' => 0,
-        'vimeo_frame_height' => 0,
-        'youtube_url' => '',
-        'youtube_frame_width' => 0,
-        'youtube_frame_height' => 0,
+        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium dispu',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium dispu</p>
+',
       ),
-      1 => array(
-        'class' => 'tp-caption lfl',
-        'x' => -400,
-        'y' => 0,
-        'speed' => 1000,
-        'start' => 500,
-        'easing' => 'easeOutExpo',
-        'endspeed' => 0,
-        'text' => '',
-        'image' => array(
-          'fid' => 506,
-          'uid' => 1,
-          'filename' => 'paris_dejo.jpg',
-          'uri' => 'public://slider/revolution/img/paris_dejo.jpg',
-          'filemime' => 'image/jpeg',
-          'filesize' => 180130,
-          'status' => 1,
-          'timestamp' => 1399208155,
-          'uuid' => 'a7bb5a11-d1c9-4868-a4c9-d09937743d5c',
-          'rdf_mapping' => array(),
-        ),
-        'video' => 0,
-        'video_frame_width' => 0,
-        'video_frame_height' => 0,
-        'vimeo_id' => '',
-        'vimeo_frame_width' => 0,
-        'vimeo_frame_height' => 0,
-        'youtube_url' => '',
-        'youtube_frame_width' => 0,
-        'youtube_frame_height' => 0,
-      ),
-      2 => array(
-        'class' => 'tp-caption very_large_text fade',
-        'x' => 140,
-        'y' => 7,
-        'speed' => 300,
-        'start' => 1300,
-        'easing' => 'easeOutExpo',
-        'endspeed' => 0,
-        'text' => 'Raibais Vakars Izdevās!',
-        'image' => 0,
-        'video' => 0,
-        'video_frame_width' => 0,
-        'video_frame_height' => 0,
-        'vimeo_id' => '',
-        'vimeo_frame_width' => 0,
-        'vimeo_frame_height' => 0,
-        'youtube_url' => '',
-        'youtube_frame_width' => 0,
-        'youtube_frame_height' => 0,
-      ),
-      3 => array(
-        'class' => 'tp-caption big_white fade',
-        'x' => 220,
-        'y' => 110,
-        'speed' => 300,
-        'start' => 1600,
-        'easing' => 'easeOutExpo',
-        'endspeed' => 0,
-        'text' => 'Skaties Bildes Foto Galerījās:',
-        'image' => 0,
-        'video' => 0,
-        'video_frame_width' => 0,
-        'video_frame_height' => 0,
-        'vimeo_id' => '',
-        'vimeo_frame_width' => 0,
-        'vimeo_frame_height' => 0,
-        'youtube_url' => '',
-        'youtube_frame_width' => 0,
-        'youtube_frame_height' => 0,
-      ),
-      4 => array(
-        'class' => 'tp-caption big_white fade',
-        'x' => 280,
-        'y' => 240,
-        'speed' => 500,
-        'start' => 2000,
-        'easing' => 'easeOutExpo',
-        'endspeed' => 0,
-        'text' => '<a href="content/latvieši-atpūšās-dvīņu-pilsētā" style="font-size:12px;color:#AEC71E;" onMouseOver="this.style.color=\'#ffffff\'" onMouseOut="this.style.color=\'#AEC71E\'">* Latvieši Atpūšās Dvīņu Pilsētās</a><br> <a href="gallery-4" style="font-size:12px;color:#AEC71E;" onMouseOver="this.style.color=\'#ffffff\'" onMouseOut="this.style.color=\'#AEC71E\'">* Jautrība Sit Augstu Vilni</a><br> <a href="gallery-3" style="font-size:12px;color:#AEC71E;" onMouseOver="this.style.color=\'#ffffff\'" onMouseOut="this.style.color=\'#AEC71E\'">* ...Laiks Dejām</a><br> <a href="gallery-2" style="font-size:12px;color:#AEC71E;" onMouseOver="this.style.color=\'#ffffff\'" onMouseOut="this.style.color=\'#AEC71E\'">* Jaunie un Stiprie Nevēlas Atpalikt</a>',
-        'image' => 0,
-        'video' => 0,
-        'video_frame_width' => 0,
-        'video_frame_height' => 0,
-        'vimeo_id' => '',
-        'vimeo_frame_width' => 0,
-        'vimeo_frame_height' => 0,
-        'youtube_url' => '',
-        'youtube_frame_width' => 0,
-        'youtube_frame_height' => 0,
+    ),
+  ),
+  'field_page_information' => array(
+    'und' => array(
+      0 => array(
+        'value' => ': mazs ievads par organizāciju nāk šeit',
+        'format' => NULL,
+        'safe_value' => ': mazs ievads par organizāciju nāk šeit',
       ),
     ),
   ),
@@ -6574,101 +4483,169 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2014-05-04 03:18:11 +0000',
-  'alias_url' => 'content/slide-raibais-vakars-izdevās',
+  'date' => '2014-08-05 13:12:14 +0000',
+  'alias_url' => 'content/latviešu-koncertapvienība-mn-0',
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'Akadēmiskā Kopa',
+  'title' => 'Raibais Vakars:',
   'log' => '',
   'status' => 1,
-  'comment' => 1,
+  'comment' => 2,
   'promote' => 0,
   'sticky' => 0,
-  'vuuid' => '055b1f7c-a7dc-43fc-a7a9-dd5e95715129',
-  'type' => 'service',
+  'vuuid' => '2b69a0ee-40c6-4fd3-a0f0-dfccbb2350ff',
+  'type' => 'ds_gallery',
   'language' => 'und',
-  'created' => 1386005960,
+  'created' => 1407273071,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => 'd7a60d46-908f-4b88-a6df-bffb8ad0ae01',
+  'uuid' => 'd2952b7c-d1d9-4be0-a62b-faffc7230d89',
   'revision_uid' => 1,
-  'field_service_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Akadēmiskā kopa atbalsta šo un to un mazs apraksts nāk šeit',
-        'format' => NULL,
-        'safe_value' => 'Akadēmiskā kopa atbalsta šo un to un mazs apraksts nāk šeit',
-      ),
-    ),
-  ),
-  'field_service_icon' => array(
+  'body' => array(),
+  'field_ds_gallery_featured_img' => array(
     'und' => array(
       0 => array(
         'fid' => NULL,
         'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_2.png',
-        'filemime' => 'image/png',
-        'filesize' => 2628,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'e6061cd8-d529-4d8c-8af6-5c4432d04aef',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_2.png',
-      ),
-    ),
-  ),
-  'field_content_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '8.jpg',
-        'uri' => 'public://8_9.jpg',
+        'filename' => 'P1020100.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020100.JPG',
         'filemime' => 'image/jpeg',
-        'filesize' => 11519,
+        'filesize' => 245645,
         'status' => 1,
         'timestamp' => NULL,
-        'uuid' => 'b9bbffa3-de68-4a99-badf-4fc35b9ea221',
+        'uuid' => '4bfed4f1-47a3-468e-8982-9851cf5e04fb',
         'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/8_9.jpg',
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020100.JPG',
       ),
     ),
   ),
-  'field_content_par' => array(
+  'field_ds_gallery_images' => array(
     'und' => array(
       0 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020089.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020089_0.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 221549,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'f5440cd9-58f4-45b7-aa2a-0484d8baea8f',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020089_0.JPG',
       ),
       1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020090.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020090.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 204232,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '7c048abf-3f2f-4aca-968f-3ab2b4834d42',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020090.JPG',
       ),
       2 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020099.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020099.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 235977,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '255c6512-4339-42f1-a213-4e2b0cc9ff52',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020099.JPG',
+      ),
+      3 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020100.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020100_0.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 245645,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'bc3a49f5-89e3-4658-b0ed-83f012c9ca67',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020100_0.JPG',
+      ),
+      4 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020101.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020101.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 236939,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '3ecdc38a-ff0d-4ffa-982b-a621ee38a7ad',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020101.JPG',
+      ),
+      5 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020108.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020108.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 152693,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'e4c15877-bbc4-4336-9e35-7bf03f71935b',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020108.JPG',
       ),
     ),
   ),
-  'field_description' => array(
+  'field_ds_gallery_summary' => array(
     'und' => array(
       0 => array(
-        'value' => '<span class="colored">Akadēmiskā Kopa : </span>mazs ievads par organizāciju nāk šeit',
+        'value' => 'Te mazs apraksts par foto galeriju. Te mazs apsraksts par foto galeriju ',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Te mazs apraksts par foto galeriju. Te mazs apsraksts par foto galeriju</p>
+',
+      ),
+    ),
+  ),
+  'field_ds_gallery_page_intro' => array(
+    'und' => array(
+      0 => array(
+        'value' => ' Jaunie un Stiprie Nevēlas Atpalikt',
         'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;Akadēmiskā Kopa : &lt;/span&gt;mazs ievads par organizāciju nāk šeit',
+        'safe_value' => ' Jaunie un Stiprie Nevēlas Atpalikt',
       ),
     ),
   ),
@@ -6734,8 +4711,8 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-12-02 17:39:20 +0000',
-  'alias_url' => 'content/akadēmiskā-kopa',
+  'date' => '2014-08-05 21:11:11 +0000',
+  'alias_url' => 'content/raibais-vakars-0',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -6790,11 +4767,11 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
         'timestamp' => NULL,
         'uuid' => 'b17b06e2-ad77-4326-87ad-f7c7b00e7e87',
         'rdf_mapping' => array(),
-        'alt' => '',
-        'title' => '',
+        'alt' => NULL,
+        'title' => NULL,
         'width' => 1920,
         'height' => 450,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/retro_stripe_bg_3.png',
+        'uuid_features_file_path' => 'public://slider/revolution/main-img/retro_stripe_bg_3.png',
       ),
     ),
   ),
@@ -6980,61 +4957,81 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
 );
   $nodes[] = array(
   'uid' => 1,
-  'title' => 'LOAM organizācijas:',
+  'title' => 'TARTS',
   'log' => '',
   'status' => 1,
   'comment' => 1,
-  'promote' => 1,
+  'promote' => 0,
   'sticky' => 0,
-  'vuuid' => '1d9ed63d-7175-4c9c-8f98-3277c10b6096',
-  'type' => 'list',
+  'vuuid' => '6549b82e-f378-4493-b785-a9a32cebe14f',
+  'type' => 'ds_service',
   'language' => 'und',
-  'created' => 1384808380,
+  'created' => 1407244609,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => 'e2f4e5c2-7d06-4f9b-b068-5929f7a29d68',
+  'uuid' => 'e24a224c-9a5f-49f0-8147-13358919abeb',
   'revision_uid' => 1,
-  'field_list_item' => array(
+  'body' => array(
     'und' => array(
       0 => array(
-        'value' => '<em class=" icon-cog"> </em> Akadēmiskā kopa',
-        'format' => NULL,
-        'safe_value' => '&lt;em class=&quot; icon-cog&quot;&gt; &lt;/em&gt; Akadēmiskā kopa',
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
+        'summary' => '',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+',
+        'safe_summary' => '',
       ),
-      1 => array(
-        'value' => ' <em class="icon-cog"> </em> 12-column grid',
-        'format' => NULL,
-        'safe_value' => ' &lt;em class=&quot;icon-cog&quot;&gt; &lt;/em&gt; 12-column grid',
+    ),
+  ),
+  'field_ds_service_featured_img' => array(
+    'und' => array(
+      0 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'admin_9.png',
+        'uri' => 'public://designssquare_com/widget/service/admin_9.png',
+        'filemime' => 'image/png',
+        'filesize' => 2628,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '074a14e8-af9f-4c7f-9828-9586d8d5afe4',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 50,
+        'height' => 50,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/admin_9.png',
       ),
-      2 => array(
-        'value' => '<em class="icon-cog"> </em> Max-width 1200px',
-        'format' => NULL,
-        'safe_value' => '&lt;em class=&quot;icon-cog&quot;&gt; &lt;/em&gt; Max-width 1200px',
+    ),
+  ),
+  'field_ds_service_summary' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alie',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alie</p>
+',
       ),
-      3 => array(
-        'value' => '<em class="icon-cog"> </em> Growing library',
+    ),
+  ),
+  'field_page_information' => array(
+    'und' => array(
+      0 => array(
+        'value' => ': Mazliet par organizāciju nāk šeit',
         'format' => NULL,
-        'safe_value' => '&lt;em class=&quot;icon-cog&quot;&gt; &lt;/em&gt; Growing library',
-      ),
-      4 => array(
-        'value' => '<em class="icon-cog"> </em> Responsive design',
-        'format' => NULL,
-        'safe_value' => '&lt;em class=&quot;icon-cog&quot;&gt; &lt;/em&gt; Responsive design',
-      ),
-      5 => array(
-        'value' => '<em class="icon-eye-open"></em>Cross-everything',
-        'format' => NULL,
-        'safe_value' => '&lt;em class=&quot;icon-eye-open&quot;&gt;&lt;/em&gt;Cross-everything',
-      ),
-      6 => array(
-        'value' => '<em class="icon-list-alt"></em>Styleguide docs',
-        'format' => NULL,
-        'safe_value' => '&lt;em class=&quot;icon-list-alt&quot;&gt;&lt;/em&gt;Styleguide docs',
-      ),
-      7 => array(
-        'value' => '<em class="icon-cog"></em>jQuery plugins',
-        'format' => NULL,
-        'safe_value' => '&lt;em class=&quot;icon-cog&quot;&gt;&lt;/em&gt;jQuery plugins',
+        'safe_value' => ': Mazliet par organizāciju nāk šeit',
       ),
     ),
   ),
@@ -7100,8 +5097,8 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2013-11-18 20:59:40 +0000',
-  'alias_url' => 'content/loam-organizācijas',
+  'date' => '2014-08-05 13:16:49 +0000',
+  'alias_url' => 'content/tarts-0',
 );
   $nodes[] = array(
   'uid' => 1,
@@ -7111,250 +5108,72 @@ ARTICLE excerpt from <a href="http://www.baltic-course.com/eng/legislation/?doc=
   'comment' => 1,
   'promote' => 0,
   'sticky' => 0,
-  'vuuid' => 'bb6e4eda-db90-4f7f-8b27-fbaed7588453',
-  'type' => 'service',
+  'vuuid' => 'e977bb30-b2a8-406e-bb5b-db4a7cf8df04',
+  'type' => 'ds_service',
   'language' => 'und',
-  'created' => 1387242411,
+  'created' => 1407244763,
   'tnid' => 0,
   'translate' => 0,
-  'uuid' => 'eb13d2e9-fc40-483c-b6f0-88760811cf98',
-  'revision_uid' => 1,
-  'field_service_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'MSPD Koris is organizācija dara šo un to. Te seko mazs ievads par organizāciju un tām norisēm',
-        'format' => NULL,
-        'safe_value' => 'MSPD Koris is organizācija dara šo un to. Te seko mazs ievads par organizāciju un tām norisēm',
-      ),
-    ),
-  ),
-  'field_service_icon' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => 'admin.png',
-        'uri' => 'public://admin_11.png',
-        'filemime' => 'image/png',
-        'filesize' => 2628,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => '6034b056-b597-4979-9c97-539b4ba977ef',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 50,
-        'height' => 50,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/admin_11.png',
-      ),
-    ),
-  ),
-  'field_content_image' => array(
-    'und' => array(
-      0 => array(
-        'fid' => NULL,
-        'uid' => 1,
-        'filename' => '7.jpg',
-        'uri' => 'public://7_0.jpg',
-        'filemime' => 'image/jpeg',
-        'filesize' => 11519,
-        'status' => 1,
-        'timestamp' => NULL,
-        'uuid' => 'e9b08829-2801-4b49-a984-fc83bb520c20',
-        'rdf_mapping' => array(),
-        'alt' => NULL,
-        'title' => NULL,
-        'width' => 770,
-        'height' => 533,
-        'uuid_features_file_path' => 'ites/all/modules/designssquare_com_site_loam/assets/data/7_0.jpg',
-      ),
-    ),
-  ),
-  'field_content_par' => array(
-    'und' => array(
-      0 => array(
-        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-        'format' => NULL,
-        'safe_value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
-      ),
-      1 => array(
-        'value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-        'format' => NULL,
-        'safe_value' => 'Ipsum cetero an sea. Vis ut nihil sadipscing, ad mei iisque inermis sadipscing. Nec illum forensibus id, cum no eleifend postulant. An sanctus evertitur mediocritatem vis, mel ex solet munere appellantur, quod verear reformidans ut has. Possit adolescens his ex. Ne esse possit vulputate vis, sed liber epicurei atomorum te. Eum eros duis at.',
-      ),
-      2 => array(
-        'value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-        'format' => NULL,
-        'safe_value' => 'Adhuc postulant cu vim, dolores perfecto id mel. Ex vim magna nonumes percipitur. Qui ne nulla ornatus. Mutat mentitum efficiendi ex mei, vix natum etiam facete cu, in reque legere nostrud nec. At sea mazim debet appetere, te quo voluptatum adversarium disputationi. Vis ea natum utroque epicuri, ut eos eros vide illum.',
-      ),
-    ),
-  ),
-  'field_description' => array(
-    'und' => array(
-      0 => array(
-        'value' => '<span class="colored">MSPD Koris : </span>Mazliet par organizāciju nāk šeit',
-        'format' => NULL,
-        'safe_value' => '&lt;span class=&quot;colored&quot;&gt;MSPD Koris : &lt;/span&gt;Mazliet par organizāciju nāk šeit',
-      ),
-    ),
-  ),
-  'rdf_mapping' => array(
-    'rdftype' => array(
-      0 => 'sioc:Item',
-      1 => 'foaf:Document',
-    ),
-    'title' => array(
-      'predicates' => array(
-        0 => 'dc:title',
-      ),
-    ),
-    'created' => array(
-      'predicates' => array(
-        0 => 'dc:date',
-        1 => 'dc:created',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'changed' => array(
-      'predicates' => array(
-        0 => 'dc:modified',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-    'body' => array(
-      'predicates' => array(
-        0 => 'content:encoded',
-      ),
-    ),
-    'uid' => array(
-      'predicates' => array(
-        0 => 'sioc:has_creator',
-      ),
-      'type' => 'rel',
-    ),
-    'name' => array(
-      'predicates' => array(
-        0 => 'foaf:name',
-      ),
-    ),
-    'comment_count' => array(
-      'predicates' => array(
-        0 => 'sioc:num_replies',
-      ),
-      'datatype' => 'xsd:integer',
-    ),
-    'last_activity' => array(
-      'predicates' => array(
-        0 => 'sioc:last_activity_date',
-      ),
-      'datatype' => 'xsd:dateTime',
-      'callback' => 'date_iso8601',
-    ),
-  ),
-  'cid' => 0,
-  'last_comment_name' => NULL,
-  'last_comment_uid' => 1,
-  'comment_count' => 0,
-  'name' => 'admin',
-  'picture' => 0,
-  'data' => 'b:0;',
-  'date' => '2013-12-17 01:06:51 +0000',
-  'alias_url' => 'content/mspd-koris',
-);
-  $nodes[] = array(
-  'uid' => 1,
-  'title' => 'Test Event 2',
-  'log' => '',
-  'status' => 1,
-  'comment' => 2,
-  'promote' => 1,
-  'sticky' => 0,
-  'vuuid' => 'bacb0b72-9f9c-45b8-a188-e1805ee21f70',
-  'type' => 'event',
-  'language' => 'und',
-  'created' => 1399322308,
-  'tnid' => 0,
-  'translate' => 0,
-  'uuid' => 'f41710ae-0f21-4efb-91ad-b1f531a06f49',
+  'uuid' => 'f5d911b4-4bd6-4831-afb0-bb2f92cc633e',
   'revision_uid' => 1,
   'body' => array(
     'und' => array(
       0 => array(
-        'value' => 'some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here 
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
 
-some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here 
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
 
-some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here ',
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
         'summary' => '',
-        'format' => 'full_html',
-        'safe_value' => '<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
-<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
-<p>some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here some event comes here </p>
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
 ',
         'safe_summary' => '',
       ),
     ),
   ),
-  'field_event_date' => array(
+  'field_ds_service_featured_img' => array(
     'und' => array(
       0 => array(
-        'value' => '2014-05-26T20:30:00',
-        'timezone' => 'UTC',
-        'timezone_db' => 'UTC',
-        'date_type' => 'date',
-        'db' => array(
-          'value' => array(
-            'granularity' => array(
-              0 => 'year',
-              1 => 'month',
-              2 => 'day',
-              3 => 'hour',
-              4 => 'minute',
-              5 => 'second',
-              6 => 'timezone',
-            ),
-            'errors' => array(),
-            '' . "\0" . 'DateObject' . "\0" . 'serializedTime' => '2014-05-26T20:30:00+00:00',
-            '' . "\0" . 'DateObject' . "\0" . 'serializedTimezone' => 'UTC',
-            'timeOnly' => FALSE,
-            'dateOnly' => FALSE,
-            'originalTime' => '2014-05-26T20:30:00+00:00',
-            'date' => '2014-05-26 20:30:00',
-            'timezone_type' => 3,
-            'timezone' => 'UTC',
-          ),
-          'value2' => array(
-            'granularity' => array(
-              0 => 'year',
-              1 => 'month',
-              2 => 'day',
-              3 => 'hour',
-              4 => 'minute',
-              5 => 'second',
-              6 => 'timezone',
-            ),
-            'errors' => array(),
-            '' . "\0" . 'DateObject' . "\0" . 'serializedTime' => '2014-05-26T20:30:00+00:00',
-            '' . "\0" . 'DateObject' . "\0" . 'serializedTimezone' => 'UTC',
-            'timeOnly' => FALSE,
-            'dateOnly' => FALSE,
-            'originalTime' => '2014-05-26T20:30:00+00:00',
-            'date' => '2014-05-26 20:30:00',
-            'timezone_type' => 3,
-            'timezone' => 'UTC',
-          ),
-        ),
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'admin_11.png',
+        'uri' => 'public://designssquare_com/widget/service/admin_11.png',
+        'filemime' => 'image/png',
+        'filesize' => 2628,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'cf7014ad-73ec-4985-81df-0a17f9abe2d6',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 50,
+        'height' => 50,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/admin_11.png',
       ),
     ),
   ),
-  'field_event_location' => array(
+  'field_ds_service_summary' => array(
     'und' => array(
       0 => array(
-        'value' => 'Latviesho Centrs, North Minneapolis',
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum m',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum m</p>
+',
+      ),
+    ),
+  ),
+  'field_page_information' => array(
+    'und' => array(
+      0 => array(
+        'value' => ': Mazliet par organizāciju nāk šeit',
         'format' => NULL,
-        'safe_value' => 'Latviesho Centrs, North Minneapolis',
+        'safe_value' => ': Mazliet par organizāciju nāk šeit',
       ),
     ),
   ),
@@ -7420,8 +5239,647 @@ some event comes here some event comes here some event comes here some event com
   'name' => 'admin',
   'picture' => 0,
   'data' => 'b:0;',
-  'date' => '2014-05-05 20:38:28 +0000',
-  'alias_url' => 'content/test-event-2',
+  'date' => '2014-08-05 13:19:23 +0000',
+  'alias_url' => 'content/mspd-koris-0',
+);
+  $nodes[] = array(
+  'uid' => 1,
+  'title' => 'LK Sabiedrība',
+  'log' => '',
+  'status' => 1,
+  'comment' => 1,
+  'promote' => 0,
+  'sticky' => 0,
+  'vuuid' => 'bf961e8f-4430-4c6c-bdd9-a4219a3fde03',
+  'type' => 'ds_service',
+  'language' => 'und',
+  'created' => 1407244140,
+  'tnid' => 0,
+  'translate' => 0,
+  'uuid' => 'f67678ba-06ae-4cd5-b2e0-31e9c9297b12',
+  'revision_uid' => 1,
+  'body' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.
+
+Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.',
+        'summary' => '',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus referrentur cu. Usu at decore vivendo, accusata atomorum ei has.</p>
+',
+        'safe_summary' => '',
+      ),
+    ),
+  ),
+  'field_ds_service_featured_img' => array(
+    'und' => array(
+      0 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'admin_4.png',
+        'uri' => 'public://designssquare_com/widget/service/admin_4.png',
+        'filemime' => 'image/png',
+        'filesize' => 2628,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'af34ee6c-354c-44b2-b82b-b5d982ce1d78',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 50,
+        'height' => 50,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/service/admin_4.png',
+      ),
+    ),
+  ),
+  'field_ds_service_summary' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus refe',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Populo accumsan mnesarchum no has, altera euismod usu ei, eum at clita disputando. Option fierent interpretaris ne pro, graeco eligendi insolens duo an. Ne ubique equidem argumentum has, viderer scribentur et vim. In vim semper putant. Mei alienum mandamus refe</p>
+',
+      ),
+    ),
+  ),
+  'field_page_information' => array(
+    'und' => array(
+      0 => array(
+        'value' => ': mazs ievads par organizāciju nāk šeit',
+        'format' => NULL,
+        'safe_value' => ': mazs ievads par organizāciju nāk šeit',
+      ),
+    ),
+  ),
+  'rdf_mapping' => array(
+    'rdftype' => array(
+      0 => 'sioc:Item',
+      1 => 'foaf:Document',
+    ),
+    'title' => array(
+      'predicates' => array(
+        0 => 'dc:title',
+      ),
+    ),
+    'created' => array(
+      'predicates' => array(
+        0 => 'dc:date',
+        1 => 'dc:created',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'changed' => array(
+      'predicates' => array(
+        0 => 'dc:modified',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'body' => array(
+      'predicates' => array(
+        0 => 'content:encoded',
+      ),
+    ),
+    'uid' => array(
+      'predicates' => array(
+        0 => 'sioc:has_creator',
+      ),
+      'type' => 'rel',
+    ),
+    'name' => array(
+      'predicates' => array(
+        0 => 'foaf:name',
+      ),
+    ),
+    'comment_count' => array(
+      'predicates' => array(
+        0 => 'sioc:num_replies',
+      ),
+      'datatype' => 'xsd:integer',
+    ),
+    'last_activity' => array(
+      'predicates' => array(
+        0 => 'sioc:last_activity_date',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+  ),
+  'cid' => 0,
+  'last_comment_name' => NULL,
+  'last_comment_uid' => 1,
+  'comment_count' => 0,
+  'name' => 'admin',
+  'picture' => 0,
+  'data' => 'b:0;',
+  'date' => '2014-08-05 13:09:00 +0000',
+  'alias_url' => 'content/lk-sabiedrība-0',
+);
+  $nodes[] = array(
+  'uid' => 1,
+  'title' => 'Slide - Raibais Vakars Izdevās',
+  'log' => '',
+  'status' => 1,
+  'comment' => 1,
+  'promote' => 0,
+  'sticky' => 0,
+  'vuuid' => '77c0a10b-edfb-4670-b569-9917543b2a4f',
+  'type' => 'ds_slide',
+  'language' => 'und',
+  'created' => 1407354315,
+  'tnid' => 0,
+  'translate' => 0,
+  'uuid' => 'f6fb2aab-d37f-468c-99c4-7b03ce803801',
+  'revision_uid' => 1,
+  'field_data_delay' => array(),
+  'field_data_masterspeed' => array(
+    'und' => array(
+      0 => array(
+        'value' => 300,
+      ),
+    ),
+  ),
+  'field_data_slotamount' => array(
+    'und' => array(
+      0 => array(
+        'value' => 7,
+      ),
+    ),
+  ),
+  'field_data_transition' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'random',
+        'format' => NULL,
+        'safe_value' => 'random',
+      ),
+    ),
+  ),
+  'field_main_image' => array(
+    'und' => array(
+      0 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'retro_stripe_bg.png',
+        'uri' => 'public://slider/revolution/main-img/retro_stripe_bg.png',
+        'filemime' => 'image/png',
+        'filesize' => 355236,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '9774d094-2844-4c4c-8d64-eb2fd789610a',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1920,
+        'height' => 450,
+        'uuid_features_file_path' => 'public://slider/revolution/main-img/retro_stripe_bg.png',
+      ),
+    ),
+  ),
+  'field_slider_layer' => array(
+    'und' => array(
+      0 => array(
+        'class' => 'tp-caption lfl',
+        'x' => 100,
+        'y' => 0,
+        'speed' => 1000,
+        'start' => 1000,
+        'easing' => 'easeOutExpo',
+        'endspeed' => 0,
+        'text' => '',
+        'image' => array(
+          'fid' => 697,
+          'uid' => 1,
+          'filename' => 'sieviete_sarkana.JPG',
+          'uri' => 'public://slider/revolution/img/sieviete_sarkana_0.JPG',
+          'filemime' => 'image/jpeg',
+          'filesize' => 170680,
+          'status' => 1,
+          'timestamp' => 1407354315,
+          'uuid' => 'f1e9ca77-7b4a-4af5-b342-c9917c147fa3',
+          'rdf_mapping' => array(),
+        ),
+        'video' => 0,
+        'video_frame_width' => 0,
+        'video_frame_height' => 0,
+        'vimeo_id' => '',
+        'vimeo_frame_width' => 0,
+        'vimeo_frame_height' => 0,
+        'youtube_url' => '',
+        'youtube_frame_width' => 0,
+        'youtube_frame_height' => 0,
+      ),
+      1 => array(
+        'class' => 'tp-caption lfl',
+        'x' => -400,
+        'y' => 0,
+        'speed' => 1000,
+        'start' => 500,
+        'easing' => 'easeOutExpo',
+        'endspeed' => 0,
+        'text' => '',
+        'image' => array(
+          'fid' => 698,
+          'uid' => 1,
+          'filename' => 'paris_dejo.jpg',
+          'uri' => 'public://slider/revolution/img/paris_dejo_0.jpg',
+          'filemime' => 'image/jpeg',
+          'filesize' => 180130,
+          'status' => 1,
+          'timestamp' => 1407354315,
+          'uuid' => '18d4f0a0-bd3b-4907-ab3c-60c509652bcf',
+          'rdf_mapping' => array(),
+        ),
+        'video' => 0,
+        'video_frame_width' => 0,
+        'video_frame_height' => 0,
+        'vimeo_id' => '',
+        'vimeo_frame_width' => 0,
+        'vimeo_frame_height' => 0,
+        'youtube_url' => '',
+        'youtube_frame_width' => 0,
+        'youtube_frame_height' => 0,
+      ),
+      2 => array(
+        'class' => 'tp-caption very_large_text fade',
+        'x' => 140,
+        'y' => 7,
+        'speed' => 300,
+        'start' => 1300,
+        'easing' => 'easeOutExpo',
+        'endspeed' => 0,
+        'text' => 'Raibais Vakars Izdevās!',
+        'image' => 0,
+        'video' => 0,
+        'video_frame_width' => 0,
+        'video_frame_height' => 0,
+        'vimeo_id' => '',
+        'vimeo_frame_width' => 0,
+        'vimeo_frame_height' => 0,
+        'youtube_url' => '',
+        'youtube_frame_width' => 0,
+        'youtube_frame_height' => 0,
+      ),
+      3 => array(
+        'class' => 'tp-caption big_white fade',
+        'x' => 220,
+        'y' => 110,
+        'speed' => 300,
+        'start' => 1600,
+        'easing' => 'easeOutExpo',
+        'endspeed' => 0,
+        'text' => 'Skaties Bildes Foto Galerījās:',
+        'image' => 0,
+        'video' => 0,
+        'video_frame_width' => 0,
+        'video_frame_height' => 0,
+        'vimeo_id' => '',
+        'vimeo_frame_width' => 0,
+        'vimeo_frame_height' => 0,
+        'youtube_url' => '',
+        'youtube_frame_width' => 0,
+        'youtube_frame_height' => 0,
+      ),
+      4 => array(
+        'class' => 'tp-caption big_white fade',
+        'x' => 280,
+        'y' => 240,
+        'speed' => 500,
+        'start' => 2000,
+        'easing' => 'easeOutExpo',
+        'endspeed' => 0,
+        'text' => '<a href="content/latvieši-atpūšās-dvīņu-pilsētā" style="font-size:12px;color:#AEC71E;" onMouseOver="this.style.color=\'#ffffff\'" onMouseOut="this.style.color=\'#AEC71E\'">* Latvieši Atpūšās Dvīņu Pilsētās</a><br> <a href="gallery-4" style="font-size:12px;color:#AEC71E;" onMouseOver="this.style.color=\'#ffffff\'" onMouseOut="this.style.color=\'#AEC71E\'">* Jautrība Sit Augstu Vilni</a><br> <a href="gallery-3" style="font-size:12px;color:#AEC71E;" onMouseOver="this.style.color=\'#ffffff\'" onMouseOut="this.style.color=\'#AEC71E\'">* ...Laiks Dejām</a><br> <a href="gallery-2" style="font-size:12px;color:#AEC71E;" onMouseOver="this.style.color=\'#ffffff\'" onMouseOut="this.style.color=\'#AEC71E\'">* Jaunie un Stiprie Nevēlas Atpalikt</a>',
+        'image' => 0,
+        'video' => 0,
+        'video_frame_width' => 0,
+        'video_frame_height' => 0,
+        'vimeo_id' => '',
+        'vimeo_frame_width' => 0,
+        'vimeo_frame_height' => 0,
+        'youtube_url' => '',
+        'youtube_frame_width' => 0,
+        'youtube_frame_height' => 0,
+      ),
+    ),
+  ),
+  'rdf_mapping' => array(
+    'rdftype' => array(
+      0 => 'sioc:Item',
+      1 => 'foaf:Document',
+    ),
+    'title' => array(
+      'predicates' => array(
+        0 => 'dc:title',
+      ),
+    ),
+    'created' => array(
+      'predicates' => array(
+        0 => 'dc:date',
+        1 => 'dc:created',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'changed' => array(
+      'predicates' => array(
+        0 => 'dc:modified',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'body' => array(
+      'predicates' => array(
+        0 => 'content:encoded',
+      ),
+    ),
+    'uid' => array(
+      'predicates' => array(
+        0 => 'sioc:has_creator',
+      ),
+      'type' => 'rel',
+    ),
+    'name' => array(
+      'predicates' => array(
+        0 => 'foaf:name',
+      ),
+    ),
+    'comment_count' => array(
+      'predicates' => array(
+        0 => 'sioc:num_replies',
+      ),
+      'datatype' => 'xsd:integer',
+    ),
+    'last_activity' => array(
+      'predicates' => array(
+        0 => 'sioc:last_activity_date',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+  ),
+  'cid' => 0,
+  'last_comment_name' => NULL,
+  'last_comment_uid' => 1,
+  'comment_count' => 0,
+  'name' => 'admin',
+  'picture' => 0,
+  'data' => 'b:0;',
+  'date' => '2014-08-06 19:45:15 +0000',
+  'alias_url' => 'content/slide-raibais-vakars-izdevās',
+);
+  $nodes[] = array(
+  'uid' => 1,
+  'title' => '...Laiks Dejām:',
+  'log' => '',
+  'status' => 1,
+  'comment' => 2,
+  'promote' => 0,
+  'sticky' => 0,
+  'vuuid' => '000a6a9f-bc41-4a37-a6a2-07b8f8d37027',
+  'type' => 'ds_gallery',
+  'language' => 'und',
+  'created' => 1407273794,
+  'tnid' => 0,
+  'translate' => 0,
+  'uuid' => 'ff1db927-c59f-413f-9a3e-fc1a894818f4',
+  'revision_uid' => 1,
+  'body' => array(),
+  'field_ds_gallery_featured_img' => array(
+    'und' => array(
+      0 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020127_0.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020127_0.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 193116,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'fd40b289-d7ea-499f-9b84-f0d5e7add073',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020127_0.JPG',
+      ),
+    ),
+  ),
+  'field_ds_gallery_images' => array(
+    'und' => array(
+      0 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020124_0.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020124_0.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 221260,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '5dc62bce-c367-4133-ba0f-cd598bd168dc',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020124_0.JPG',
+      ),
+      1 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020125_0.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020125_0.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 200785,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '35cffa15-1f00-4871-93ad-c527054a42d7',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020125_0.JPG',
+      ),
+      2 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020126_0.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020126_0.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 226150,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '0fb3037e-c883-40d5-9848-b9d4f6c1536b',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020126_0.JPG',
+      ),
+      3 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020127_0.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020127_0_0.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 193116,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'fbad1b76-9960-40f3-8e77-652138d6965c',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020127_0_0.JPG',
+      ),
+      4 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020128_0.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020128_0.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 168384,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => 'a44e70c1-865d-4a9c-80ac-ecd41f458d59',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020128_0.JPG',
+      ),
+      5 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020129-rotated2.jpg',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020129-rotated2.jpg',
+        'filemime' => 'image/jpeg',
+        'filesize' => 149679,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '0c0b9cb1-324e-453b-9d42-d7aa47471dcf',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 768,
+        'height' => 1024,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020129-rotated2.jpg',
+      ),
+      6 => array(
+        'fid' => NULL,
+        'uid' => 1,
+        'filename' => 'P1020143.JPG',
+        'uri' => 'public://designssquare_com/widget/gallery/P1020143.JPG',
+        'filemime' => 'image/jpeg',
+        'filesize' => 218452,
+        'status' => 1,
+        'timestamp' => NULL,
+        'uuid' => '9f746d7c-40f6-4755-806e-90457bac176f',
+        'rdf_mapping' => array(),
+        'alt' => '',
+        'title' => '',
+        'width' => 1024,
+        'height' => 768,
+        'uuid_features_file_path' => 'public://designssquare_com/widget/gallery/P1020143.JPG',
+      ),
+    ),
+  ),
+  'field_ds_gallery_summary' => array(
+    'und' => array(
+      0 => array(
+        'value' => 'Te mazs apraksts par foto galeriju ',
+        'format' => 'filtered_html',
+        'safe_value' => '<p>Te mazs apraksts par foto galeriju</p>
+',
+      ),
+    ),
+  ),
+  'field_ds_gallery_page_intro' => array(
+    'und' => array(
+      0 => array(
+        'value' => ' Tūdaliņ, tāgadiņ pastalnieki dancos',
+        'format' => NULL,
+        'safe_value' => ' Tūdaliņ, tāgadiņ pastalnieki dancos',
+      ),
+    ),
+  ),
+  'rdf_mapping' => array(
+    'rdftype' => array(
+      0 => 'sioc:Item',
+      1 => 'foaf:Document',
+    ),
+    'title' => array(
+      'predicates' => array(
+        0 => 'dc:title',
+      ),
+    ),
+    'created' => array(
+      'predicates' => array(
+        0 => 'dc:date',
+        1 => 'dc:created',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'changed' => array(
+      'predicates' => array(
+        0 => 'dc:modified',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+    'body' => array(
+      'predicates' => array(
+        0 => 'content:encoded',
+      ),
+    ),
+    'uid' => array(
+      'predicates' => array(
+        0 => 'sioc:has_creator',
+      ),
+      'type' => 'rel',
+    ),
+    'name' => array(
+      'predicates' => array(
+        0 => 'foaf:name',
+      ),
+    ),
+    'comment_count' => array(
+      'predicates' => array(
+        0 => 'sioc:num_replies',
+      ),
+      'datatype' => 'xsd:integer',
+    ),
+    'last_activity' => array(
+      'predicates' => array(
+        0 => 'sioc:last_activity_date',
+      ),
+      'datatype' => 'xsd:dateTime',
+      'callback' => 'date_iso8601',
+    ),
+  ),
+  'cid' => 0,
+  'last_comment_name' => NULL,
+  'last_comment_uid' => 1,
+  'comment_count' => 0,
+  'name' => 'admin',
+  'picture' => 0,
+  'data' => 'b:0;',
+  'date' => '2014-08-05 21:23:14 +0000',
+  'alias_url' => 'content/laiks-dejām-0',
 );
   return $nodes;
 }
