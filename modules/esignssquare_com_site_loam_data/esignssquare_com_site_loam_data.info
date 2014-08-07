@@ -17,6 +17,7 @@ dependencies[] = taxonomy
 dependencies[] = uuid
 dependencies[] = uuid_features
 dependencies[] = views
+dependencies[] = pathauto
 __drupal_alter_by_ref[][node][ds_gallery] = ds_gallery
 __drupal_alter_by_ref[][node][blog] = blog
 __drupal_alter_by_ref[][node][ds_service] = ds_service

@@ -1938,14 +1938,6 @@ function designssquare_com_site_loam_structure_node_info() {
       'title_label' => t('Title'),
       'help' => '',
     ),
-    'service' => array(
-      'name' => t('Service'),
-      'base' => 'node_content',
-      'description' => t('service that company or organization provides'),
-      'has_title' => '1',
-      'title_label' => t('Title'),
-      'help' => '',
-    ),
   );
   return $items;
 }
@@ -1956,6 +1948,351 @@ function designssquare_com_site_loam_structure_node_info() {
 function designssquare_com_site_loam_structure_strongarm_override_default_settings() {
 $strongarm_override = array();
 
+$strongarm_override[] = array(
+  'name' => 'additional_settings__active_tab_ds_calendar_event',
+  'value' => 'edit-submission',
+);
+$strongarm_override[] = array(
+  'name' => 'comment_anonymous_ds_gallery',
+  'value' => 0,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_anonymous_ds_gallery_index',
+  'value' => 0,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_anonymous_ds_service',
+  'value' => 0,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_anonymous_ds_service_index',
+  'value' => 0,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_anonymous_ds_slide',
+  'value' => 0,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_default_mode_ds_gallery',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_default_mode_ds_gallery_index',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_default_mode_ds_service',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_default_mode_ds_service_index',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_default_mode_ds_slide',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_default_per_page_ds_gallery',
+  'value' => 50,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_default_per_page_ds_gallery_index',
+  'value' => 50,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_default_per_page_ds_service',
+  'value' => 50,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_default_per_page_ds_service_index',
+  'value' => 50,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_default_per_page_ds_slide',
+  'value' => 50,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_ds_gallery',
+  'value' => 2,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_ds_gallery_index',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_ds_service',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_ds_service_index',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_ds_slide',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_form_location_ds_gallery',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_form_location_ds_gallery_index',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_form_location_ds_service',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_form_location_ds_service_index',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_form_location_ds_slide',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_preview_ds_gallery',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_preview_ds_gallery_index',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_preview_ds_service',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_preview_ds_service_index',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_preview_ds_slide',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_subject_field_ds_gallery',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_subject_field_ds_gallery_index',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_subject_field_ds_service',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_subject_field_ds_service_index',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'comment_subject_field_ds_slide',
+  'value' => 1,
+);
+$strongarm_override[] = array(
+  'name' => 'ds_about__content_block__content',
+  'value' => 'Latviešu Organizāciju Apvieniba Minesotā (LOAM) apvieno 14 latviešu organizācijas kopējam kultūras un labdarības darbam. LOAM ir bezpeļņas organizācija ar 501(3)c statusu un ir atbrīvota no nodokļiem.',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_about__content_block__image',
+  'value' => 56,
+);
+$strongarm_override[] = array(
+  'name' => 'ds_about__content_block__reference',
+  'value' => 'about',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_about__content_block__title',
+  'value' => 'LOAM ORGANIZĀCIJA',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_about_teaser__content_block__content',
+  'value' => '<p>Te varētu bū† mazliet par LOAM vēsturi, par tās faktiem un citām interestām lietām. Te varētu bū† mazliet par LOAM vēsturi, par tās faktiem un citām interestām lietām. </p>
+<p><i>Te varētu bū† mazliet par LOAM vēsturi, par tās faktiem un citām interestām lietām</i></p><p><b>svarīgākais var tikt izcelts</b> Te varētu bū† mazliet par LOAM vēsturi, par tās faktiem un citām interestām lietām.  Te varētu bū† mazliet par LOAM vēsturi, par tās faktiem un citām interestām lietām. Te varētu bū† mazliet par LOAM vēsturi, par tās faktiem un citām interestām lietām. </p>
+<a class="btn mrgbtm35" href="http://test-loam/sites/default/files/Westminster-20130918-00335_0.jpg" download="http://test-loam/sites/default/files/Westminster-20130918-00335_0.jpg"><i class="icon-download-alt"></i>Nolādē PDF </a> ',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_about_teaser__content_block__image',
+  'value' => 695,
+);
+$strongarm_override[] = array(
+  'name' => 'ds_about_teaser__content_block__reference',
+  'value' => 'about',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_about_teaser__content_block__title',
+  'value' => 'Par LOAM',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_announcement__content_block__content',
+  'value' => '<h2 class="lead">A clean, minimal, responsive blog &amp; portfolio theme for businesses &amp; creatives</h2>
+',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_blog_archive__content_block__content',
+  'value' => '    <ul class="nav">
+        <li><a href="archives.html"><span class="glyphicon glyphicon-calendar"></span> 2007</a></li>
+        <li><a href="archives.html"><span class="glyphicon glyphicon-calendar"></span> 2008</a></li>
+        <li><a href="archives.html"><span class="glyphicon glyphicon-calendar"></span> 2009</a></li>
+        <li><a href="archives.html"><span class="glyphicon glyphicon-calendar"></span> 2010</a></li>
+        <li><a href="archives.html"><span class="glyphicon glyphicon-calendar"></span> 2011</a></li>
+        <li><a href="archives.html"><span class="glyphicon glyphicon-calendar"></span> 2012</a></li>
+    </ul>',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_blog_archive__content_block__title',
+  'value' => 'Archive',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_blog_categories__content_block__content',
+  'value' => '<ul class="nav">
+	<li><a href="categories.html"><span class="glyphicon glyphicon-list"></span> Books</a></li>
+	<li><a href="categories.html"><span class="glyphicon glyphicon-list"></span> Travel</a></li>
+	<li><a href="categories.html"><span class="glyphicon glyphicon-list"></span> Portfolio</a></li>
+	<li><a href="categories.html"><span class="glyphicon glyphicon-list"></span> Music</a></li>
+</ul>
+',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_blog_categories__content_block__title',
+  'value' => 'Categories',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_blog_recent_posts_sidebar__content_block__content',
+  'value' => '<ul class="nav">
+	<li><a href="/"><span class="glyphicon glyphicon-folder-close"></span> The Emerald City of Oz</a></li>
+	<li><a href="/"><span class="glyphicon glyphicon-folder-close"></span> Yellow Brick Road</a></li>
+	<li><a href="/"><span class="glyphicon glyphicon-folder-close"></span> Somewhere Over The Rainbow</a></li>
+</ul>
+',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_blog_recent_posts_sidebar__content_block__title',
+  'value' => 'Recent Posts',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_config_slider_rev_height',
+  'value' => 431,
+);
+$strongarm_override[] = array(
+  'name' => 'ds_config_slider_rev_sidebar_width',
+  'value' => 25,
+);
+$strongarm_override[] = array(
+  'name' => 'ds_config_slider_rev_width',
+  'value' => 65,
+);
+$strongarm_override[] = array(
+  'name' => 'ds_config_slider_sidebar_content',
+  'value' => 46,
+);
+$strongarm_override[] = array(
+  'name' => 'ds_config_slider_sidebar_position',
+  'value' => 'left',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_contact_info__content_block__address',
+  'value' => '9930 124th Minneapolis, MN',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_contact_info__content_block__email',
+  'value' => 'contact@loam.com',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_contact_info__content_block__phone',
+  'value' => ' +1 800 2000 600',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_contact_info__content_block__title',
+  'value' => 'KONTAKTU INFORMĀCIJA',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_copy_rights__content_block__content',
+  'value' => '<span class="copyright">Copyright 2013 LOAM. Web design by <a href="http://kapasoft.com">KapaSoft Web Solutions</a></span>',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_recent_tweets__content_block__button_text',
+  'value' => 'Follow me on Twitter',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_recent_tweets__content_block__content',
+  'value' => 'Uzzini visu, kas notiek par cilvēkiem un organizācijām tev svarīgas',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_recent_tweets__content_block__link',
+  'value' => '',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_recent_tweets__content_block__title',
+  'value' => 'LOAM TWITTER ZIŅOTĀJS',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_social__content_block__content',
+  'value' => '<a href="http://flickr.com/" target="_blank">
+    <div class="icon_flickr"></div>
+</a> <a href="http://plus.google.com/" target="_blank">
+    <div class="icon_google"></div>
+</a> <a href="http://facebook.com/" target="_blank">
+    <div class="icon_facebook"></div>
+</a> <a href="http://pinterest.com/" target="_blank">
+    <div class="icon_pi"></div>
+</a> <a href="http://twitter.com/" target="_blank">
+    <div class="icon_t"></div>
+</a> <a href="http://youtube.com/" target="_blank">
+    <div class="icon_youtube"></div>
+</a> <a href="http://linkedin.com/" target="_blank">
+    <div class="icon_in"></div>
+</a> <a href="http://deviantart.com/" target="_blank">
+    <div class="icon_da"></div>
+</a> <a href="http://www.skype.com/" target="_blank">
+    <div class="icon_skype"></div>
+</a> <a href="http://www.icq.com" target="_blank">
+    <div class="icon_icq"></div>
+</a> <a href="http://envato.com" target="_blank">
+    <div class="icon_envato"></div>
+</a> <a href="http://forrst.com" target="_blank">
+    <div class="icon_forrst"></div>
+</a> <a href="http://www.bing.com" target="_blank">
+    <div class="icon_bing"></div>
+</a> <a href="http://myspace.com" target="_blank">
+    <div class="icon_myspace"></div>
+</a>',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_social__content_block__title',
+  'value' => 'Loam<span class="lbut">.</span>',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_testimonial__content_block__review1',
+  'value' => 'Dejas kopa \'Perkonītis\' pirmais mēģinājums jaunajai sezonai ir 2014 g. 1 februārī pl. 6pm Latviešu baznīcā otrajā stāva telpās. Visi interesenti un dejas mīlētāji ir aicināti pievienoties. Mēs tiekamies vienu reizi nedēļā, lai sagatavotos priekšnesumiem Latviešu ASV dziesmasvētkiem 2014 gadā Los Angolas, kā arī vietējiem pasākumiem tādiem kā Festival of Nations vasarā. Par papildus informāciju, lūdzu sazinaties ar mani caur e-pastu perkonitis@loam.com vai pa telefonu 651-333-3333',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_testimonial__content_block__review2',
+  'value' => 'Latvijas valsts parlaments izmaina pilsonības likumu un tagad ir iespējams saņemt dubult pilsonību. Lasi vairāk par šo un procesu, kā saņemt dubult pilsonību avīzes rakstā Latvian Dual Citizenship',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_testimonial__content_block__review3',
+  'value' => '',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_testimonial__content_block__reviewer1',
+  'value' => 'Ieva Liepiņa / Pērkonītis entuziaste',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_testimonial__content_block__reviewer2',
+  'value' => 'Jānis Ozols / LOAM valdes biedrs',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_testimonial__content_block__reviewer3',
+  'value' => '',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_testimonial__content_block__title',
+  'value' => 'Ziņojums',
+);
 $strongarm_override[] = array(
   'name' => 'ds_theme_builder__call_action_button',
   'value' => 'Sazinies ar mums!',
@@ -1989,6 +2326,170 @@ $strongarm_override[] = array(
   'value' => NULL,
 );
 $strongarm_override[] = array(
+  'name' => 'ds_widget_rev_slider__sidebar_content',
+  'value' => '<div style="background-color: rgb(58, 58, 58); padding: 10px; margin-bottom: 20px;">
+                        <h1 style="color: rgb(255, 255, 255) !important; margin-bottom: 3px !important;"><b>Sveicināti!</b></h1>
+                        <h5 style="color: rgb(255, 255, 255);">Informatīvs portāls par latviešu organizācijām, par pašlaik aktuālo un notiekošo Minnesotā</h5>
+                    </div>
+
+                    <p>Latviešu Organizāciju Apvieniba Minesotā (LOAM) apvieno 14 latviešu organizācijas kopējam kultūras un labdarības darbam</p>
+                    <hr class="visible-desktop"></hr>
+<h4 class="visible-desktop">LOAM organizācijas:</h4>
+<div class="visible-desktop">
+    <ul class="span2 unstyled" style="margin-top: 10px;">
+        <li><a href="content/akadēmiskā-kopa"><em class=" icon-cog"> </em> Akadēmiskā kopa</a></li>
+        <li><a href="content/mspd-koris"><em class=" icon-cog"> </em> MSPD Koris</a></li>
+        <li><a href="content/perkonītis"><em class=" icon-cog"> </em> Perkonītis</a></li>
+        <li><a href="content/selga"><em class=" icon-cog"> </em> SELGA</a></li>
+        <li><a href="content/sp-latviešu-katoļu-draudze"><em class="icon-cog"> </em> SP Latviešu katoļu draudze</a></li>
+        <li><a href="content/tarts"><em class=" icon-cog"> </em> TARTS</a></li>
+        <li><a href="content/teiksma"><em class=" icon-cog"> </em> Teiksma</a></li>
+    </ul>
+    <ul class="unstyled" style="margin-top: 10px;">
+        <li><a href="content/kkm"><em class=" icon-cog"></em> KKM</a></li>
+        <li><a href="content/daugavas-vanagi"><em class="icon-cog"> </em> Daugavas Vanagi</a></li>
+        <li><a href="content/latviešu-skola"><em class="icon-cog"> </em> Latviešu Skola</a></li>
+        <li><a href="content/lk-sabiedrība"><em class="icon-cog"> </em> LK Sabiedrība</a></li>
+        <li><em class="icon-cog"> </em> MKGPF</li>
+        <li><em class="icon-cog"> </em> MSP Draudze</li>
+        <li><em class="icon-cog"></em> Latviešu Koncertapvienība MN</li>
+    </ul>
+</div>',
+);
+$strongarm_override[] = array(
+  'name' => 'ds_widget_rev_slider__sidebar_title',
+  'value' => '',
+);
+$strongarm_override[] = array(
+  'name' => 'field_bundle_settings_node__ds_gallery',
+  'value' => array(
+    'view_modes' => array(
+      'teaser' => array(
+        'custom_settings' => TRUE,
+      ),
+      'full' => array(
+        'custom_settings' => FALSE,
+      ),
+      'rss' => array(
+        'custom_settings' => FALSE,
+      ),
+      'search_index' => array(
+        'custom_settings' => FALSE,
+      ),
+      'search_result' => array(
+        'custom_settings' => FALSE,
+      ),
+      'token' => array(
+        'custom_settings' => FALSE,
+      ),
+    ),
+    'extra_fields' => array(
+      'form' => array(
+        'title' => array(
+          'weight' => -5,
+        ),
+        'path' => array(
+          'weight' => 30,
+        ),
+      ),
+      'display' => array(),
+    ),
+  ),
+);
+$strongarm_override[] = array(
+  'name' => 'field_bundle_settings_node__ds_gallery_index',
+  'value' => NULL,
+);
+$strongarm_override[] = array(
+  'name' => 'field_bundle_settings_node__ds_service',
+  'value' => array(
+    'view_modes' => array(
+      'teaser' => array(
+        'custom_settings' => TRUE,
+      ),
+      'full' => array(
+        'custom_settings' => FALSE,
+      ),
+      'rss' => array(
+        'custom_settings' => FALSE,
+      ),
+      'search_index' => array(
+        'custom_settings' => FALSE,
+      ),
+      'search_result' => array(
+        'custom_settings' => FALSE,
+      ),
+      'token' => array(
+        'custom_settings' => FALSE,
+      ),
+    ),
+    'extra_fields' => array(
+      'form' => array(
+        'title' => array(
+          'weight' => 0,
+        ),
+        'path' => array(
+          'weight' => 1,
+        ),
+      ),
+      'display' => array(),
+    ),
+  ),
+);
+$strongarm_override[] = array(
+  'name' => 'field_bundle_settings_node__ds_service_index',
+  'value' => array(
+    'view_modes' => array(
+      'teaser' => array(
+        'custom_settings' => TRUE,
+      ),
+      'full' => array(
+        'custom_settings' => FALSE,
+      ),
+      'rss' => array(
+        'custom_settings' => FALSE,
+      ),
+      'search_index' => array(
+        'custom_settings' => FALSE,
+      ),
+      'search_result' => array(
+        'custom_settings' => FALSE,
+      ),
+      'token' => array(
+        'custom_settings' => FALSE,
+      ),
+    ),
+    'extra_fields' => array(
+      'form' => array(
+        'title' => array(
+          'weight' => 0,
+        ),
+        'path' => array(
+          'weight' => 1,
+        ),
+      ),
+      'display' => array(),
+    ),
+  ),
+);
+$strongarm_override[] = array(
+  'name' => 'field_bundle_settings_node__ds_slide',
+  'value' => array(
+    'view_modes' => array(),
+    'extra_fields' => array(
+      'form' => array(
+        'title' => array(
+          'weight' => 0,
+        ),
+        'path' => array(
+          'weight' => 1,
+        ),
+      ),
+      'display' => array(),
+    ),
+  ),
+);
+$strongarm_override[] = array(
   'name' => 'site_403',
   'value' => 'user',
 );
@@ -2007,6 +2508,95 @@ $strongarm_override[] = array(
 $strongarm_override[] = array(
   'name' => 'site_slogan',
   'value' => 'apvienot latviešu organizācijas kopējam kultūras and labdarības darbam',
+);
+$strongarm_override[] = array(
+  'name' => 'theme_builder_settings',
+  'value' => array(
+    'toggle_logo' => 0,
+    'toggle_name' => 1,
+    'toggle_slogan' => 1,
+    'toggle_node_user_picture' => 1,
+    'toggle_comment_user_picture' => 1,
+    'toggle_comment_user_verification' => 1,
+    'toggle_favicon' => 1,
+    'toggle_main_menu' => 1,
+    'toggle_secondary_menu' => 1,
+    'default_logo' => 1,
+    'logo_path' => '',
+    'logo_upload' => '',
+    'default_favicon' => 1,
+    'favicon_path' => '',
+    'favicon_upload' => '',
+    'general__active_tab' => 'edit-favicon',
+    'bootstrap__active_tab' => 'edit-components',
+    'bootstrap_breadcrumb' => 1,
+    'bootstrap_breadcrumb_home' => 1,
+    'bootstrap_breadcrumb_title' => 1,
+    'bootstrap_navbar_position' => '',
+    'bootstrap_navbar_inverse' => 0,
+    'bootstrap_region_well-navigation' => '',
+    'bootstrap_region_well-header' => '',
+    'bootstrap_region_well-highlighted' => '',
+    'bootstrap_region_well-help' => '',
+    'bootstrap_region_well-content' => '',
+    'bootstrap_region_well-sidebar_first' => 'well',
+    'bootstrap_region_well-sidebar_second' => '',
+    'bootstrap_region_well-footer' => '',
+    'bootstrap_region_well-footer_top' => '',
+    'bootstrap_region_well-footer_middle' => '',
+    'bootstrap_region_well-footer_bottom' => '',
+    'bootstrap_region_well-page_top' => '',
+    'bootstrap_region_well-page_bottom' => '',
+    'bootstrap_region_well-row_zero' => '',
+    'bootstrap_region_well-row_first' => '',
+    'bootstrap_region_well-row_second' => '',
+    'bootstrap_region_well-square_top_left' => '',
+    'bootstrap_region_well-square_bottom_left' => '',
+    'bootstrap_region_well-square_top_right' => '',
+    'bootstrap_region_well-square_bottom_right' => '',
+    'bootstrap_region_well-about_right_bottom' => '',
+    'bootstrap_region_well-dashboard_main' => '',
+    'bootstrap_region_well-dashboard_sidebar' => '',
+    'bootstrap_region_well-dashboard_inactive' => '',
+    'bootstrap_anchors_fix' => 1,
+    'bootstrap_anchors_smooth_scrolling' => 1,
+    'bootstrap_popover_enabled' => 1,
+    'bootstrap_popover_animation' => 1,
+    'bootstrap_popover_html' => 0,
+    'bootstrap_popover_placement' => 'right',
+    'bootstrap_popover_selector' => '',
+    'bootstrap_popover_trigger' => array(
+      'click' => 'click',
+      'hover' => 0,
+      'focus' => 0,
+      'manual' => 0,
+    ),
+    'bootstrap_popover_title' => '',
+    'bootstrap_popover_content' => '',
+    'bootstrap_popover_delay' => 0,
+    'bootstrap_popover_container' => 'body',
+    'bootstrap_tooltip_enabled' => 1,
+    'bootstrap_tooltip_descriptions' => 1,
+    'bootstrap_tooltip_animation' => 1,
+    'bootstrap_tooltip_html' => 0,
+    'bootstrap_tooltip_placement' => 'auto left',
+    'bootstrap_tooltip_selector' => '',
+    'bootstrap_tooltip_trigger' => array(
+      'hover' => 'hover',
+      'focus' => 'focus',
+      'click' => 0,
+      'manual' => 0,
+    ),
+    'bootstrap_tooltip_delay' => 0,
+    'bootstrap_tooltip_container' => 'body',
+    'bootstrap_cdn' => '',
+    'bootstrap_bootswatch' => '',
+    'bootstrap_rebuild_registry' => 0,
+    'bootstrap_toggle_jquery_error' => 0,
+    'builder_logo_text' => 'LOAM<strong class="colored lbut">.</strong>',
+    'builder_logo_format' => 'text',
+    'mission_statement' => '<span class="colored lowercase">Misija: </span>veicināt latviešu kultūru <span class="colored">&</span> saglabāt latviešu tradīcijas Minesotā',
+  ),
 );
 $strongarm_override[] = array(
   'name' => 'theme_loam_settings',
