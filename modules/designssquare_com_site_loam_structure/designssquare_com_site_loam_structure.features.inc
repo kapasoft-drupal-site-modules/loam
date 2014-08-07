@@ -1938,6 +1938,14 @@ function designssquare_com_site_loam_structure_node_info() {
       'title_label' => t('Title'),
       'help' => '',
     ),
+    'service' => array(
+      'name' => t('Service'),
+      'base' => 'node_content',
+      'description' => t('service that company or organization provides'),
+      'has_title' => '1',
+      'title_label' => t('Title'),
+      'help' => '',
+    ),
   );
   return $items;
 }
@@ -1981,8 +1989,24 @@ $strongarm_override[] = array(
   'value' => NULL,
 );
 $strongarm_override[] = array(
-  'name' => 'theme_default',
-  'value' => 'builder',
+  'name' => 'site_403',
+  'value' => 'user',
+);
+$strongarm_override[] = array(
+  'name' => 'site_404',
+  'value' => 'sākums-latviesu-organizāciju-apvieniba-minesotā',
+);
+$strongarm_override[] = array(
+  'name' => 'site_frontpage',
+  'value' => 'sākums-latviesu-organizāciju-apvieniba-minesotā',
+);
+$strongarm_override[] = array(
+  'name' => 'site_name',
+  'value' => 'LOAM',
+);
+$strongarm_override[] = array(
+  'name' => 'site_slogan',
+  'value' => 'apvienot latviešu organizācijas kopējam kultūras and labdarības darbam',
 );
 $strongarm_override[] = array(
   'name' => 'theme_loam_settings',
@@ -2029,6 +2053,120 @@ $strongarm_override[] = array(
     'favicon_path' => '',
     'favicon_upload' => '',
   ),
+);
+$strongarm_override[] = array(
+  'name' => 'uuid_features_entity_node',
+  'value' => array(
+    'about' => 'about',
+    'about_us' => 'about_us',
+    'article' => 'article',
+    'page' => 'page',
+    'blog_posts' => 'blog_posts',
+    'blog' => 'blog',
+    'both_sidebar' => 'both_sidebar',
+    'contact' => 'contact',
+    'ds_gallery' => 'ds_gallery',
+    'ds_gallery_index' => 'ds_gallery_index',
+    'ds_service' => 'ds_service',
+    'ds_service_index' => 'ds_service_index',
+    'error' => 'error',
+    'event' => 'event',
+    'home_one' => 'home_one',
+    'left_sidebar' => 'left_sidebar',
+    'ds_slide' => 'ds_slide',
+    'employee' => 0,
+    'frame_element' => 0,
+    'gallery_four' => 0,
+    'gallery_three' => 0,
+    'gallery_two' => 0,
+    'home_five' => 0,
+    'home_four' => 0,
+    'home_three' => 0,
+    'home_two' => 0,
+    'list' => 0,
+    'portfolio' => 0,
+    'quote' => 0,
+    'right_sidebar' => 0,
+    'service' => 0,
+    'service_page' => 0,
+    'testimonial' => 0,
+    'welcome' => 0,
+  ),
+);
+$strongarm_override[] = array(
+  'name' => 'uuid_features_entity_taxonomy_term',
+  'value' => array(
+    'tags' => 'tags',
+    'features' => 0,
+    'blog_categories' => 0,
+    'post_format' => 0,
+    'post_sidebar' => 0,
+  ),
+);
+$strongarm_override[] = array(
+  'name' => 'uuid_features_file_assets_path',
+  'value' => '',
+);
+$strongarm_override[] = array(
+  'name' => 'uuid_features_file_mode',
+  'value' => 'local',
+);
+$strongarm_override[] = array(
+  'name' => 'uuid_features_file_node',
+  'value' => array(
+    'about' => 'about',
+    'about_us' => 'about_us',
+    'page' => 'page',
+    'blog_posts' => 'blog_posts',
+    'blog' => 'blog',
+    'both_sidebar' => 'both_sidebar',
+    'contact' => 'contact',
+    'ds_gallery' => 'ds_gallery',
+    'ds_gallery_index' => 'ds_gallery_index',
+    'ds_service' => 'ds_service',
+    'ds_service_index' => 'ds_service_index',
+    'error' => 'error',
+    'event' => 'event',
+    'home_one' => 'home_one',
+    'ds_slide' => 'ds_slide',
+    'article' => 0,
+    'employee' => 0,
+    'frame_element' => 0,
+    'gallery_four' => 0,
+    'gallery_three' => 0,
+    'gallery_two' => 0,
+    'home_five' => 0,
+    'home_four' => 0,
+    'home_three' => 0,
+    'home_two' => 0,
+    'left_sidebar' => 0,
+    'list' => 0,
+    'portfolio' => 0,
+    'quote' => 0,
+    'right_sidebar' => 0,
+    'service' => 0,
+    'service_page' => 0,
+    'testimonial' => 0,
+    'welcome' => 0,
+  ),
+);
+$strongarm_override[] = array(
+  'name' => 'uuid_features_file_supported_fields',
+  'value' => 'file, image, managed_file',
+);
+$strongarm_override[] = array(
+  'name' => 'uuid_features_file_taxonomy_term',
+  'value' => array(
+    'tags' => 'tags',
+    'features' => 0,
+    'blog_categories' => 0,
+    'post_format' => 0,
+    'post_sidebar' => 0,
+  ),
+);
+$strongarm_override[] = array(
+  'name' => 'uuid_features_vocabulary_terms',
+  'value' => 1,
 );
 return $strongarm_override;
 }
