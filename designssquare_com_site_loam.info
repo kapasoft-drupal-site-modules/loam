@@ -1,7 +1,7 @@
 name = DesignsSquare.com: Site: Loam Site
 description = functionality for LOAM site
 core = 7.x
-version = v0.3.0
+version = v0.3.1
 project = designssquare_com_site_loam
 package = DesignsSquare.com.site.loam
 
